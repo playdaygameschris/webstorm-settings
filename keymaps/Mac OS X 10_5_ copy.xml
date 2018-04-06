@@ -1,0 +1,14 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="VimReformatVisual">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+</keymap>

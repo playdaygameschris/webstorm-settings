@@ -1,0 +1,14 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="staticdata-layout.vue" reformat="true" live-template-enabled="true" />
+      <template name="staticdata-store.js" reformat="true" live-template-enabled="true" />
+      <template name="staticdata-table.vue" reformat="true" live-template-enabled="true" />
+    </default_templates>
+    <internal_templates>
+      <template name="HTML File.html" reformat="true" live-template-enabled="false" enabled="true" />
+      <template name="HTML4 File.html" reformat="true" live-template-enabled="false" enabled="true" />
+      <template name="XHTML File.xhtml" reformat="true" live-template-enabled="false" enabled="true" />
+    </internal_templates>
+  </component>
+</application>
