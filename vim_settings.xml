@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" timestamp="1522055790760">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" timestamp="1522979760246">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/version-table.vue" timestamp="1520584988323">
         <mark key="[" line="90" column="36" />
@@ -108,11 +108,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/ranch/staticdata-ranchcosts-table.vue" timestamp="1522055760970">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/ranch/staticdata-ranchcosts-table.vue" timestamp="1522979248483">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="35" column="41" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata-table.vue" timestamp="1520582900632">
         <mark key="'" line="43" column="28" />
@@ -174,8 +174,8 @@
       <jump line="77" column="49" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>upload</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF90YWJsZTogJ29iamVjdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbmFtZXNwYWNlOiAnc3RhdGljZGF0YS1vYmplY3RzJywK</text>
       </register>
       <register name="-" type="4">
         <text>upload</text>
@@ -187,7 +187,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPFVwbG9hZCBhY3Rpb249Int7Y29uc3RhbnQuYXBpX2VuZHBvaW50ICsgJy9maWxlL3VwbG9hZC1vYmplY3QnfX0iPgogICAgICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJnaG9zdCIgaWNvbj0iaW9zLWNsb3VkLXVwbG9hZC1vdXRsaW5lIj5VcGxvYWQgT2JqZWN0IEltYWdlPC9CdXR0b24+CiAgICAgICAgICAgIDwvVXBsb2FkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBvbi1vaz0ib2siZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF90YWJsZTogJ29iamVjdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbmFtZXNwYWNlOiAnc3RhdGljZGF0YS1vYmplY3RzJywK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -195,23 +195,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cD5Db250ZW50IG9mIGRpYWxvZzwvcD4KICAgICAgICA8cD5Db250ZW50IG9mIGRpYWxvZzwvcD4KICAgICAgICA8cD5Db250ZW50IG9mIGRpYWxvZzwvcD4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgIHBhdHRlcm46L1xkezEsMn0tXGR7MSwyfSQvLCBtZXNzYWdlOiAnd3JvbmcgaWQgZm9ybWF0JywgdHJpZ2dlcjogJ2NoYW5nZScgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPFVwbG9hZCB2LWJpbmQ6YWN0aW9uPSJjb25zdGFudC5hcGlfZW5kcG9pbnQgKyAnL2ZpbGUvdXBsb2FkLWltYWdlL29iamVjdHMnIiBtdWx0aXBsZSA6c2hvdy11cGxvYWQtbGlzdD0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgOmJlZm9yZS11cGxvYWQ9ImhhbmRsZVVwbG9hZCI+CiAgICAgICAgICAgICAgICA8QnV0dG9uICBpY29uPSJpb3MtY2xvdWQtdXBsb2FkLW91dGxpbmUiPlVwbG9hZCBPYmplY3QgSW1hZ2U8L0J1dHRvbj4KICAgICAgICAgICAgPC9VcGxvYWQ+CiAgICAgICAgICAgIDxVcGxvYWQgdi1iaW5kOmFjdGlvbj0iY29uc3RhbnQuYXBpX2VuZHBvaW50ICsgJy9maWxlL3VwbG9hZC1pbWFnZS9pdGVtcyciIG11bHRpcGxlIDpzaG93LXVwbG9hZC1saXN0PSJmYWxzZSIKICAgICAgICAgICAgICAgICAgICA6YmVmb3JlLXVwbG9hZD0iaGFuZGxlVXBsb2FkIj4KICAgICAgICAgICAgICAgIDxCdXR0b24gIGljb249Imlvcy1jbG91ZC11cGxvYWQtb3V0bGluZSI+VXBsb2FkIEl0ZW0gSW1hZ2U8L0J1dHRvbj4KICAgICAgICAgICAgPC9VcGxvYWQ+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDb2wgc3Bhbj0iMyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29sPmRkCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgIHBhdHRlcm46L1xkezEsMn0tXGR7MSwyfSQvLCBtZXNzYWdlOiAnd3JvbmcgaWQgZm9ybWF0JywgdHJpZ2dlcjogJ2NoYW5nZScgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZCAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBvbi1vaz0ib2siZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
