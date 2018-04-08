@@ -8,6 +8,23 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1523174946023">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/items.js" timestamp="1523175136616">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-component.js" timestamp="1523175451763">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/webpack.base.config.js" timestamp="1523172760138">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -19,11 +36,11 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523173819934">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523174832891">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
     </filemarks>
     <jumps />
@@ -38,64 +55,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXB1dGVkOnsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>import Parameters from './parameters'
-import Constants from './constants'
-import Switches from './switches'
-import Versions from './versions'
-import TrackCountries from './track-countries'
-import StaticdataItems from './staticdata-items'
-import StaticdataIngredients from './staticdata-ingredients'
-import StaticdataObjects from './staticdata-objects'
-import StaticdataMachinecosts from './staticdata-machinecosts'
-import StaticdataRanchcosts from './staticdata-ranchcosts'
-import StaticdataStoragecosts from './staticdata-storagecosts'
-import StaticdataDecorationcosts from './staticdata-decorationcosts'
-import StaticdataAnimalcosts from './staticdata-animalcosts'
-import StaticdataAnimals from './staticdata-animals'
-import StaticdataLevelrewards from './staticdata-levelrewards'
-import StaticdataLevels from './staticdata-levels'
-import MapObjectTypes from './map-object-types'
-import MapItemTypes from './map-item-types'
-import MapCountries from './map-countries'</text>
-      </register>
-      <register name="7" type="4">
-        <text>parameters: Parameters,
-        constants: Constants,
-        switches: Switches,
-        versions: Versions,
-        'track-countries': TrackCountries,
-        'staticdata-items': StaticdataItems,
-        'staticdata-ingredients': StaticdataIngredients,
-        'staticdata-objects': StaticdataObjects,
-        'staticdata-machinecosts': StaticdataMachinecosts,
-        'staticdata-ranchcosts': StaticdataRanchcosts,
-        'staticdata-storagecosts': StaticdataStoragecosts,
-        'staticdata-decorationcosts': StaticdataDecorationcosts,
-        'staticdata-animalcosts': StaticdataAnimalcosts,
-        'staticdata-levels': StaticdataLevels,
-        'staticdata-levelrewards': StaticdataLevelrewards,
-        'staticdata-animals' : StaticdataAnimals,
-        'map-object-types' : MapObjectTypes,
-        'map-item-types' : MapItemTypes,
-        'map-countries' : MapCountries</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ZpeGVkJzogJ2xlZnQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ZpeGVkJzogJ2xlZnQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
