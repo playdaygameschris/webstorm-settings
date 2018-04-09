@@ -42,11 +42,11 @@
         <mark key="]" line="7" column="81" />
         <mark key="." line="7" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furniture-table.vue" timestamp="1523239361883">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="36" />
-        <mark key="^" line="30" column="36" />
-        <mark key="." line="30" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furniture-table.vue" timestamp="1523240964220">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="70" column="25" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="70" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata-main-layout.vue" timestamp="1523239987902">
         <mark key="[" line="3" column="60" />
@@ -54,7 +54,7 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1522121401594">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1523240958246">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="135" column="41" />
@@ -211,11 +211,11 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/env/const.dev.js" timestamp="1520997324921">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="5" column="92" />
-        <mark key="^" line="5" column="92" />
-        <mark key="." line="5" column="92" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/env/const.dev.js" timestamp="1523241095723">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="86" />
+        <mark key="^" line="3" column="86" />
+        <mark key="." line="3" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -223,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Furnitures</text>
+        <text>http://192.168.0.100:5003</text>
       </register>
       <register name="-" type="4">
-        <text>Furnitures</text>
+        <text>http://192.168.0.100:5003</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -235,31 +235,31 @@
         <text encoding="base64">aW1wb3J0IFN0YXRpY2RhdGFMZXZlbHMgZnJvbSAnLi9zdGF0aWNkYXRhLWxldmVscycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ3knLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6ODAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbWluOiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21heDogOTk5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAwCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ3gnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6ODAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbWluOiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21heDogOTk5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAwCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ3gnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6ODAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbWluOiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21heDogOTk5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICduYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyByZXF1aXJlZDogZmFsc2UsIG1lc3NhZ2U6ICduYW1lIGNhbm5vdCBiZSBlbXB0eScsIHRyaWdnZXI6ICdibHVyJyB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCgogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOnsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICduYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyByZXF1aXJlZDogZmFsc2UsIG1lc3NhZ2U6ICduYW1lIGNhbm5vdCBiZSBlbXB0eScsIHRyaWdnZXI6ICdibHVyJyB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCgogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
