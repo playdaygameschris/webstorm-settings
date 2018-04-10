@@ -31,8 +31,8 @@
         <mark key="^" line="67" column="36" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-templates-table.vue" timestamp="1523327570382">
-        <mark key="'" line="17" column="24" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-templates-table.vue" timestamp="1523336813778">
+        <mark key="'" line="57" column="16" />
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="41" />
@@ -51,25 +51,27 @@
         <mark key="^" line="62" column="25" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1523262930652">
-        <mark key="'" line="25" column="68" />
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-        <mark key="^" line="40" column="63" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1523335210252">
+        <mark key="'" line="48" column="44" />
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="37" column="47" />
+        <mark key="." line="37" column="47" />
+        <mark key="^" line="37" column="47" />
       </file>
       <file name="/staticdata-furniture-table.vue" timestamp="1523329529363" />
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/create-dialog.vue" timestamp="1523263525588">
-        <mark key="[" line="61" column="74" />
-        <mark key="]" line="61" column="74" />
-        <mark key="." line="61" column="74" />
-        <mark key="^" line="61" column="68" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/create-dialog.vue" timestamp="1523336371162">
+        <mark key="'" line="22" column="38" />
+        <mark key="[" line="9" column="94" />
+        <mark key="]" line="9" column="100" />
+        <mark key="." line="9" column="100" />
+        <mark key="^" line="9" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/update-dialog.vue" timestamp="1523263580519">
-        <mark key="[" line="14" column="81" />
-        <mark key="]" line="69" column="75" />
-        <mark key="^" line="69" column="75" />
-        <mark key="." line="69" column="75" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/update-dialog.vue" timestamp="1523336400833">
+        <mark key="'" line="8" column="102" />
+        <mark key="[" line="9" column="96" />
+        <mark key="]" line="9" column="102" />
+        <mark key="^" line="9" column="102" />
+        <mark key="." line="9" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/router.js" timestamp="1523255955463">
         <mark key="'" line="9" column="18" />
@@ -90,12 +92,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1523329923913">
-        <mark key="'" line="23" column="39" />
-        <mark key="[" line="26" column="75" />
-        <mark key="]" line="26" column="82" />
-        <mark key="^" line="26" column="82" />
-        <mark key="." line="26" column="82" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1523333821831">
+        <mark key="'" line="21" column="40" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1522120983285">
         <mark key="'" line="100" column="33" />
@@ -119,6 +121,9 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-table.js" timestamp="1523336573277">
+        <mark key="'" line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnituremodels.js" timestamp="1523327038655">
         <mark key="[" line="7" column="69" />
         <mark key="]" line="7" column="84" />
@@ -131,12 +136,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1523241925175">
-        <mark key="'" line="113" column="49" />
-        <mark key="[" line="27" column="51" />
-        <mark key="]" line="27" column="56" />
-        <mark key="." line="27" column="56" />
-        <mark key="^" line="27" column="56" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1523338116180">
+        <mark key="'" line="203" column="54" />
+        <mark key="[" line="129" column="44" />
+        <mark key="]" line="130" column="37" />
+        <mark key="." line="130" column="37" />
+        <mark key="^" line="130" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitures.js" timestamp="1523008871741">
         <mark key="[" line="7" column="69" />
@@ -150,6 +155,12 @@
         <mark key="." line="7" column="83" />
         <mark key="^" line="7" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-component.js" timestamp="1523336809352">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnituremodel-table.vue" timestamp="1523326740302">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="63" column="25" />
@@ -162,10 +173,10 @@
         <mark key="." line="7" column="85" />
         <mark key="^" line="7" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/version-table.vue" timestamp="1520584988323">
-        <mark key="[" line="90" column="36" />
-        <mark key="]" line="90" column="36" />
-        <mark key="." line="90" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/version-table.vue" timestamp="1523335332906">
+        <mark key="[" line="74" column="36" />
+        <mark key="]" line="74" column="36" />
+        <mark key="." line="74" column="36" />
         <mark key="^" line="90" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-templateingredients.js" timestamp="1523257043857">
@@ -180,11 +191,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata-main-layout.vue" timestamp="1523255981971">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="28" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata-main-layout.vue" timestamp="1523337109775">
+        <mark key="'" line="44" column="31" />
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="68" column="72" />
+        <mark key="." line="68" column="72" />
+        <mark key="^" line="68" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1523263343861">
         <mark key="[" line="47" column="38" />
@@ -198,17 +210,18 @@
         <mark key="." line="8" column="49" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1523329484093">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1523332184503">
+        <mark key="'" line="20" column="78" />
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1523329911867">
-        <mark key="[" line="31" column="75" />
-        <mark key="]" line="31" column="91" />
-        <mark key="." line="31" column="91" />
-        <mark key="^" line="31" column="91" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1523334261257">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1523245847403">
         <mark key="[" line="0" column="0" />
@@ -220,8 +233,8 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" timestamp="1523262692252">
-        <mark key="'" line="117" column="17" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" timestamp="1523338096334">
+        <mark key="'" line="60" column="32" />
         <mark key="[" line="89" column="71" />
         <mark key="]" line="89" column="70" />
         <mark key="." line="89" column="70" />
@@ -234,7 +247,13 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523328745582">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/json-dialog.vue" timestamp="1523338081154">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523336316844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/index.js" timestamp="1523328671268">
@@ -267,17 +286,12 @@
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/template/staticdata-table.html.js" timestamp="1523256290101">
-        <mark key="'" line="54" column="13" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="24" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnituremodels-table.vue" timestamp="1523328378849">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/template/staticdata-table.html.js" timestamp="1523338135469">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/version-layout.vue" timestamp="1520586326626">
         <mark key="[" line="29" column="46" />
@@ -291,9 +305,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1523328308947">
-        <mark key="'" line="61" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/items.js" timestamp="1523175136616">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="45" />
@@ -306,6 +317,7 @@
         <mark key="^" line="3" column="86" />
         <mark key="." line="3" column="86" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1523336125307" />
     </filemarks>
     <jumps>
       <jump line="64" column="22" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/router.js" />
@@ -335,13 +347,40 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
       <jump line="61" column="28" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" />
       <jump line="23" column="39" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="12" column="26" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="98" column="45" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="68" column="12" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="20" column="24" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="30" column="32" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" />
+      <jump line="20" column="78" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" />
+      <jump line="86" column="37" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" />
+      <jump line="25" column="35" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="21" column="40" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="62" column="33" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/template/staticdata-table.html.js" />
+      <jump line="19" column="33" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/template/staticdata-table.html.js" />
+      <jump line="71" column="36" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" />
+      <jump line="40" column="44" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" />
+      <jump line="47" column="16" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-table.js" />
+      <jump line="22" column="38" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/create-dialog.vue" />
+      <jump line="8" column="102" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/update-dialog.vue" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-table.js" />
+      <jump line="61" column="4" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-templates-table.vue" />
+      <jump line="40" column="100" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-component.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-component.js" />
+      <jump line="57" column="16" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-templates-table.vue" />
+      <jump line="42" column="31" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata-main-layout.vue" />
+      <jump line="202" column="54" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" />
+      <jump line="60" column="32" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -356,25 +395,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOiAnaWNvbi1kcm9wZG93bicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdGFibGU6ICdmdXJuaXR1cmUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX2ltYWdlX3NyY19hdHRyOiAncmVzX2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9pbWFnZV9zcmNfcG9zdGZpeDogJ19pY29uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9uYW1lX2ZpZWxkOiAncmVzX2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9uYW1lc3BhY2U6ICdzdGF0aWNkYXRhLWZ1cm5pdHVyZXMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdzdGF0aWNkYXRhLXRlbXBsYXRlY29udGVudHMvZmV0Y2hMaXN0JywgdGhpcy5kZWNvcmF0ZVBheWxvYWQoe2lkOi0xfSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlcjogKGgsIHBhcmFtcykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBmaWxlbmFtZSA9IHRoaXMuJHN0b3JlLmdldHRlcnNbYHN0YXRpY2RhdGEtZnVybml0dXJlcy9saXN0YF0uZmlsdGVyKG9iaiA9PiBvYmouaWQgPT0gcGFyYW1zLnJvdy5pZClbMF1bJ3Jlc19pZCddCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuY3JlYXRlUGljdHVyZShoLCAnZnVybml0dXJlJywgIGZpbGVuYW1lKydfaWNvbicpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgY29ucyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlcjogKGgsIHBhcmFtcykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBmaWxlbmFtZSA9IHRoaXMuJHN0b3JlLmdldHRlcnNbYHN0YXRpY2RhdGEtZnVybml0dXJlcy9saXN0YF0uZmlsdGVyKG9iaiA9PiBvYmouaWQgPT0gcGFyYW1zLnJvdy5pZClbMF1bJ3Jlc19pZCddCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuY3JlYXRlUGljdHVyZShoLCAnZnVybml0dXJlJywgIGZpbGVuYW1lKydfaWNvbicpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KG5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdyZXNfaWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAncmVzX2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiAnbGVmdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbGxpcHNpczogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ3NraW4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnc2tpbl9pZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogODAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgcmVxdWlyZWQ6IGZhbHNlLCBtZXNzYWdlOiAnc2tpbiBjYW5ub3QgYmUgZW1wdHknLCB0cmlnZ2VyOiAnYmx1cicgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9jcmVhdGVfZGlzYWJsZWQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdXBkYXRlX2Rpc2FibGVkOiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdza2luX2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiAnbGVmdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogJ2ljb24tZHJvcGRvd24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3RhYmxlOiAnZnVybml0dXJlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9pbWFnZV9zcmNfYXR0cjogJ3Jlc19pZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfaW1hZ2Vfc3JjX3Bvc3RmaXg6ICdfaWNvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbmFtZV9maWVsZDogJ3Jlc19pZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbmFtZXNwYWNlOiAnc3RhdGljZGF0YS1mdXJuaXR1cmVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA4MCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlcjogKGgsIHBhcmFtcykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBmaWxlbmFtZSA9IHRoaXMuJHN0b3JlLmdldHRlcnNbYHN0YXRpY2RhdGEtZnVybml0dXJlcy9saXN0YF0uZmlsdGVyKG9iaiA9PiBvYmouaWQgPT0gcGFyYW1zLnJvdy5pZClbMF1bJ3Jlc19pZCddCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuY3JlYXRlUGljdHVyZShoLCAnZnVybml0dXJlJywgIGZpbGVuYW1lKydfaWNvbicpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAnY29pbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICdjb2luJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOjgwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3R5cGU6ICdudW1iZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21pbjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9tYXg6IDk5OTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfZGVmYXVsdDogMAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ2dlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICdnZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6ODAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbWluOiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21heDogOTk5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAwCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAnMCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBfdGl0bGUgPSAnRnVybml0dXJlIGtpbnMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiAnbGVmdCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
