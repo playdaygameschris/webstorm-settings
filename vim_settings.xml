@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/data-table.vue" timestamp="1523610444528">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/data-table.vue" timestamp="1523612088886">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
         <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="45" />
+        <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/sub-data-table.vue" timestamp="1523610505113">
         <mark key="[" line="1" column="29" />
@@ -76,6 +76,12 @@
         <mark key="^" line="69" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1523612503371">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-animalcosts.js" timestamp="1523436794568">
         <mark key="[" line="11" column="52" />
         <mark key="]" line="15" column="0" />
@@ -93,6 +99,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/package.json" timestamp="1523611883829">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="78" column="2" />
+        <mark key="." line="78" column="2" />
+        <mark key="^" line="78" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/create-dialog.vue" timestamp="1523437953079">
         <mark key="'" line="118" column="0" />
         <mark key="[" line="75" column="0" />
@@ -106,12 +118,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="^" line="79" column="48" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/import-dialog.vue" timestamp="1523419732396">
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitureskins.js" timestamp="1523436768119">
         <mark key="[" line="19" column="24" />
@@ -267,28 +273,27 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1523438660954">
-        <mark key="'" line="45" column="38" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1523245847403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" timestamp="1523438861146">
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/vendors.js" timestamp="1523612268526">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" timestamp="1523612492779">
         <mark key="'" line="80" column="9" />
         <mark key="[" line="61" column="72" />
         <mark key="]" line="18" column="31" />
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/bl-items-table.vue" timestamp="1523610821409">
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/bl-items-table.vue" timestamp="1523612333642">
         <mark key="'" line="42" column="13" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/json-dialog.vue" timestamp="1523338081154">
         <mark key="[" line="21" column="32" />
@@ -341,6 +346,7 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/package.json" timestamp="1523611859034" />
       <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="34" />
@@ -473,10 +479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">Ly8g6Lev55Sx6YWN572uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -485,31 +491,72 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gdi1pZj0ibmFtZXNwYWNlPT0nc3RhdGljZGF0YS10ZW1wbGF0ZWNvbnRlbnRzJyIgdHlwZT0iZ2hvc3QiIEBjbGljaz0ic2hvd0ltcG9ydERhdGEiIDpkaXNhYmxlZD0ibG9hZGluZyB8fCBjcnVkRGlzYWJsZWQiPkltcG9ydCBEYXRhPC9CdXR0b24+IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">Ly8g6Lev55Sx6YWN572uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1fY29sdW1uOlsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6ICdSZWYnLAogICAgICAgICAgICAgICAgICAgICAgICAna2V5JzogJ3JlZicsCiAgICAgICAgICAgICAgICAgICAgICAgICd3aWR0aCc6IDIwMAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAndGl0bGUnOiAnTmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdrZXknOiAnbmFtZScsCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">aW1wb3J0IGNsaXBib2FyZCBmcm9tICdjbGlwYm9hcmQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">aW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cyc7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>&quot;dependencies&quot;: {
+    &quot;axios&quot;: &quot;^0.15.3&quot;,
+    &quot;babel-polyfill&quot;: &quot;^6.26.0&quot;,
+    &quot;clipboard&quot;: &quot;^1.5.12&quot;,
+    &quot;echarts&quot;: &quot;^3.4.0&quot;,
+    &quot;iview&quot;: &quot;^2.13.0&quot;,
+    &quot;npm&quot;: &quot;^5.8.0&quot;,
+    &quot;vue&quot;: &quot;^2.5.2&quot;,
+    &quot;vue-router&quot;: &quot;^3.0.1&quot;,
+    &quot;vuex&quot;: &quot;^2.2.1&quot;,
+    &quot;vuex-cache&quot;: &quot;^1.1.1&quot;,
+    &quot;vuex-crud&quot;: &quot;^0.3.0&quot;
+  },
+  &quot;devDependencies&quot;: {
+    &quot;autoprefixer-loader&quot;: &quot;^3.2.0&quot;,
+    &quot;babel&quot;: &quot;^6.23.0&quot;,
+    &quot;babel-core&quot;: &quot;^6.23.1&quot;,
+    &quot;babel-loader&quot;: &quot;^7.1.2&quot;,
+    &quot;babel-plugin-transform-runtime&quot;: &quot;^6.12.0&quot;,
+    &quot;babel-preset-es2015&quot;: &quot;^6.9.0&quot;,
+    &quot;babel-runtime&quot;: &quot;^6.11.6&quot;,
+    &quot;css-loader&quot;: &quot;^0.28.7&quot;,
+    &quot;eslint&quot;: &quot;^3.12.2&quot;,
+    &quot;eslint-plugin-html&quot;: &quot;^1.7.0&quot;,
+    &quot;extract-text-webpack-plugin&quot;: &quot;^3.0.2&quot;,
+    &quot;file-loader&quot;: &quot;^1.1.5&quot;,
+    &quot;html-loader&quot;: &quot;^0.5.1&quot;,
+    &quot;html-webpack-plugin&quot;: &quot;^2.28.0&quot;,
+    &quot;iview-loader&quot;: &quot;^1.0.0&quot;,
+    &quot;less&quot;: &quot;^2.7.3&quot;,
+    &quot;less-loader&quot;: &quot;^4.0.5&quot;,
+    &quot;style-loader&quot;: &quot;^0.19.1&quot;,
+    &quot;url-loader&quot;: &quot;^0.6.2&quot;,
+    &quot;vue-hot-reload-api&quot;: &quot;^2.2.4&quot;,
+    &quot;vue-html-loader&quot;: &quot;^1.2.3&quot;,
+    &quot;vue-loader&quot;: &quot;^13.5.0&quot;,
+    &quot;vue-style-loader&quot;: &quot;^3.0.3&quot;,
+    &quot;vue-template-compiler&quot;: &quot;^2.2.1&quot;,
+    &quot;webpack&quot;: &quot;^3.8.1&quot;,
+    &quot;webpack-dev-server&quot;: &quot;^2.9.2&quot;,
+    &quot;webpack-merge&quot;: &quot;^4.1.1&quot;
+  }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBCbEl0ZW1UYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1fY29sdW1uOlsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6ICdSZWYnLAogICAgICAgICAgICAgICAgICAgICAgICAna2V5JzogJ3JlZicsCiAgICAgICAgICAgICAgICAgICAgICAgICd3aWR0aCc6IDIwMAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAndGl0bGUnOiAnTmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdrZXknOiAnbmFtZScsCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPFRhYmxlIDpjb2x1bW5zPSJpdGVtX2NvbHVtbiI+PC9UYWJsZT4K</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RzOnsKICAgICAgICAgICAgYWZ0ZXJGZXRjaChyZXNwb25zZSl7CiAgICAgICAgICAgICAgICAvL3NlcXVlbnRpYWwgbnVtYmVyIGNoZWNrCiAgICAgICAgICAgICAgICB2YXIgZGF0YSA9IHJlc3BvbnNlLmRhdGEKICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSBbXQogICAgICAgICAgICAgICAgdmFyIGFsbF9sZXZlbHMgPSBkYXRhLm1hcChmdW5jdGlvbihvYmope3JldHVybiBwYXJzZUludChvYmouaWQpfSkKICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPTE7IGk8PSBNYXRoLm1heC5hcHBseShNYXRoLCBhbGxfbGV2ZWxzKTsgaSsrKXsKICAgICAgICAgICAgICAgICAgICBpZihhbGxfbGV2ZWxzLmluZGV4T2YoaSkgPT0gLTEpewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHVzaChpKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHRoaXMuJGVtaXQoJ2NoZWNrLXNlcXVlbnRpYWwtbnVtYmVyJywgcmVzdWx0KQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
