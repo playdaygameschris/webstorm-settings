@@ -86,11 +86,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1523438366425">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="46" column="47" />
-        <mark key="." line="46" column="47" />
-        <mark key="^" line="46" column="47" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1523847975263">
+        <mark key="[" line="141" column="73" />
+        <mark key="]" line="141" column="74" />
+        <mark key="." line="141" column="74" />
+        <mark key="^" line="141" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/libs/bus.js" timestamp="1523609945967">
         <mark key="[" line="0" column="0" />
@@ -339,7 +339,6 @@
         <mark key="^" line="5" column="92" />
         <mark key="." line="5" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/webpack.base.config.js" timestamp="1523613166814" />
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata-table.vue" timestamp="1523430969667">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -358,7 +357,6 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/package.json" timestamp="1523611859034" />
       <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="34" />
@@ -377,7 +375,6 @@
         <mark key="^" line="2" column="77" />
         <mark key="." line="2" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/.babelrc" timestamp="1523613331390" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/index.vue" timestamp="1523613947543">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="24" />
@@ -492,11 +489,11 @@
       <jump line="23" column="25" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0b3JlOiBzdG9yZSwK</text>
+      <register name="&quot;" type="4">
+        <text>template_id</text>
       </register>
       <register name="-" type="4">
-        <text>Items</text>
+        <text>template_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
