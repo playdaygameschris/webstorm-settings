@@ -284,6 +284,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1523941488519">
+        <mark key="[" line="85" column="34" />
+        <mark key="]" line="85" column="36" />
+        <mark key="^" line="85" column="36" />
+        <mark key="." line="85" column="36" />
+      </file>
       <file name="/JavaScript Console" timestamp="1523245847403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -490,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>template_id</text>
+        <text>gem</text>
       </register>
       <register name="-" type="4">
-        <text>template_id</text>
+        <text>gem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
