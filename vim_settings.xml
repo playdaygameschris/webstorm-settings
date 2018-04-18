@@ -350,11 +350,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/template/staticdata-table.html.js" timestamp="1523422181078">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/template/staticdata-table.html.js" timestamp="1524026809841">
         <mark key="'" line="37" column="40" />
-        <mark key="[" line="49" column="145" />
-        <mark key="]" line="49" column="151" />
-        <mark key="." line="49" column="151" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
         <mark key="^" line="49" column="151" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/version-layout.vue" timestamp="1520586326626">
@@ -496,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gem</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>gem</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
