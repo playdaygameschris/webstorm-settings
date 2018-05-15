@@ -215,12 +215,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1524634077593">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1526376636384">
         <mark key="'" line="193" column="4" />
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="43" column="56" />
-        <mark key="." line="43" column="56" />
-        <mark key="^" line="43" column="56" />
+        <mark key="[" line="109" column="85" />
+        <mark key="]" line="109" column="85" />
+        <mark key="." line="109" column="85" />
+        <mark key="^" line="109" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitures.js" timestamp="1523008871741">
         <mark key="[" line="7" column="69" />
@@ -297,7 +297,7 @@
         <mark key="." line="28" column="88" />
         <mark key="^" line="28" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1526376028586">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1526376382711">
         <mark key="'" line="123" column="25" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -542,11 +542,11 @@
       <jump line="65" column="42" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF90YWJsZTogJ2l0ZW0nLAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>dropdown</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
