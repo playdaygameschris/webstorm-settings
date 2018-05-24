@@ -28,12 +28,12 @@
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-decorationcosts.js" timestamp="1523436801078">
         <mark key="[" line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/form-dialog.vue" timestamp="1527155111662">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/form-dialog.vue" timestamp="1527157721617">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="52" />
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="49" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-storagecosts.js" timestamp="1523436817541">
         <mark key="[" line="17" column="30" />
@@ -222,12 +222,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1527152107720">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1527157268075">
         <mark key="'" line="183" column="31" />
-        <mark key="[" line="184" column="59" />
-        <mark key="]" line="184" column="59" />
-        <mark key="." line="184" column="59" />
-        <mark key="^" line="184" column="59" />
+        <mark key="[" line="181" column="30" />
+        <mark key="]" line="181" column="31" />
+        <mark key="." line="181" column="31" />
+        <mark key="^" line="181" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitures.js" timestamp="1523008871741">
         <mark key="[" line="7" column="69" />
@@ -563,11 +563,11 @@
       <jump line="183" column="31" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5mb3JtX2RhdGEpZGQK</text>
+      <register name="&quot;" type="4">
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
