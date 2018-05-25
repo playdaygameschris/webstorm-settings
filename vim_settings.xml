@@ -372,12 +372,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/json-dialog.vue" timestamp="1527242200045">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/json-dialog.vue" timestamp="1527243755314">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="30" column="68" />
-        <mark key="." line="30" column="68" />
-        <mark key="^" line="30" column="68" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="72" />
+        <mark key="^" line="30" column="72" />
       </file>
       <file name="/Dummy.txt" timestamp="1527237779922">
         <mark key="[" line="0" column="0" />
@@ -564,10 +564,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsons</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>jsons</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -576,31 +576,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAnZXhwJywKICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnZXhwJywKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ251bWJlcicKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJpbmRleD4wIj57e2pzb25zW09iamVjdC5rZXlzKGpzb25zKVtpbmRleC0xXV19fTwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZhaWwnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVyci5yZXNwb25zZSAhPSB1bmRlZmluZWQpewogICAgICAgICAgICAgICAgdGhpcy4kTW9kYWwuZXJyb3Ioe3RpdGxlOiAnRXJyb3IgT2NjdXJyZWQnLGNvbnRlbnQ6IGVyci5yZXNwb25zZS5kYXRhLmVycm9yX21zZ30pOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHRoaXMuJE1vZGFsLmVycm9yKHt0aXRsZTogJ0Vycm9yIE9jY3VycmVkJyxjb250ZW50OiBlcnJ9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZhaWwnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJE1lc3NhZ2UuZXJyb3IoZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJE1lc3NhZ2UuZXJyb3IoZXJyLnJlc3BvbnNlLmRhdGEuZXJyb3JfbXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVyci5yZXNwb25zZSAhPSB1bmRlZmluZWQpewogICAgICAgICAgICAgICAgdGhpcy4kTW9kYWwuZXJyb3Ioe3RpdGxlOiAnRXJyb3IgT2NjdXJyZWQnLGNvbnRlbnQ6IGVyci5yZXNwb25zZS5kYXRhLmVycm9yX21zZ30pOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHRoaXMuJE1vZGFsLmVycm9yKHt0aXRsZTogJ0Vycm9yIE9jY3VycmVkJyxjb250ZW50OiBlcnJ9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
