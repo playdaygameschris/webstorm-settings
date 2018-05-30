@@ -220,11 +220,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1527237296957">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1527647346737">
         <mark key="'" line="182" column="31" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
+        <mark key="[" line="330" column="42" />
+        <mark key="]" line="330" column="43" />
+        <mark key="." line="330" column="43" />
+        <mark key="^" line="330" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitures.js" timestamp="1523008871741">
         <mark key="[" line="7" column="69" />
@@ -379,7 +380,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527237779922">
+      <file name="/Dummy.txt" timestamp="1527647220677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/index.js" timestamp="1526373881430">
@@ -564,10 +565,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
