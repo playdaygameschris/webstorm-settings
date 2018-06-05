@@ -386,8 +386,10 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528192141777">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1528192908147">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/index.js" timestamp="1526373881430">
         <mark key="'" line="65" column="42" />
@@ -580,10 +582,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>ject_name` ENV</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>ject_name` ENV</text>
       </register>
       <register name="/" type="4">
         <text>constant.stage</text>
