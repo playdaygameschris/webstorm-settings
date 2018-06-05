@@ -220,12 +220,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1528168887672">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1528171680143">
         <mark key="'" line="326" column="76" />
-        <mark key="[" line="93" column="50" />
-        <mark key="]" line="93" column="50" />
-        <mark key="^" line="93" column="79" />
-        <mark key="." line="93" column="50" />
+        <mark key="[" line="93" column="54" />
+        <mark key="]" line="93" column="56" />
+        <mark key="^" line="93" column="56" />
+        <mark key="." line="93" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitures.js" timestamp="1523008871741">
         <mark key="[" line="7" column="69" />
@@ -380,7 +380,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528168586193">
+      <file name="/Dummy.txt" timestamp="1528171136931">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/index.js" timestamp="1526373881430">
@@ -565,10 +565,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>sandbox</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>sandbox</text>
       </register>
       <register name="/" type="4">
         <text>constant.stage</text>
