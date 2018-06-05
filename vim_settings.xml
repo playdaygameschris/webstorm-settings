@@ -220,12 +220,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1528171680143">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" timestamp="1528194466431">
         <mark key="'" line="326" column="76" />
-        <mark key="[" line="93" column="54" />
-        <mark key="]" line="93" column="56" />
-        <mark key="^" line="93" column="56" />
-        <mark key="." line="93" column="56" />
+        <mark key="[" line="54" column="65" />
+        <mark key="]" line="54" column="67" />
+        <mark key="^" line="54" column="67" />
+        <mark key="." line="54" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-furnitures.js" timestamp="1523008871741">
         <mark key="[" line="7" column="69" />
@@ -359,9 +359,9 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" timestamp="1528172312140">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/main.js" timestamp="1528194440336">
         <mark key="'" line="128" column="57" />
-        <mark key="[" line="59" column="37" />
+        <mark key="[" line="36" column="15" />
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="48" />
@@ -386,8 +386,8 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528192908147">
-        <mark key="[" line="0" column="22" />
+      <file name="/Dummy.txt" timestamp="1528194484163">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
@@ -582,10 +582,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ject_name` ENV</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>ject_name` ENV</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>constant.stage</text>
