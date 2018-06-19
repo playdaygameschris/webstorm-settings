@@ -11,11 +11,11 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="Vcs.Push" />
   <action id="VimReformatVisual">
     <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
-  <action id="hg4idea.branches">
-    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
 </keymap>
