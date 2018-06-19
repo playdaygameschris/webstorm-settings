@@ -300,6 +300,12 @@
         <mark key="^" line="7" column="77" />
         <mark key="." line="7" column="77" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/env/const.master.js" timestamp="1529403844394">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/control-main-layout.vue" timestamp="1528168594209">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="16" column="101" />
@@ -391,7 +397,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529402573871">
+      <file name="/Dummy.txt" timestamp="1529403846549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -590,11 +596,11 @@
       <jump line="326" column="76" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/app.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLXRlc3RpbmctLT4K</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>rcleci/node:8</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>constant.stage</text>
