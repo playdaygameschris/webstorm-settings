@@ -207,11 +207,11 @@
         <mark key="^" line="11" column="5" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1530249423545">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
-        <mark key="^" line="36" column="28" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1530255846163">
+        <mark key="[" line="113" column="41" />
+        <mark key="]" line="113" column="52" />
+        <mark key="." line="113" column="52" />
+        <mark key="^" line="113" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/blitems.js" timestamp="1523609545400">
         <mark key="[" line="4" column="15" />
@@ -337,7 +337,7 @@
         <mark key="." line="74" column="36" />
         <mark key="^" line="90" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/locale-table.vue" timestamp="1530240749985">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/locale-table.vue" timestamp="1530255701904">
         <mark key="'" line="8" column="11" />
         <mark key="[" line="70" column="41" />
         <mark key="]" line="71" column="25" />
@@ -388,12 +388,12 @@
         <mark key="." line="28" column="88" />
         <mark key="^" line="28" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1530249416405">
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1530255349016">
         <mark key="'" line="86" column="48" />
-        <mark key="[" line="84" column="59" />
-        <mark key="]" line="84" column="59" />
-        <mark key="^" line="84" column="59" />
-        <mark key="." line="84" column="59" />
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="28" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-templates-layout.vue" timestamp="1523327159841">
         <mark key="[" line="7" column="23" />
@@ -453,7 +453,7 @@
         <mark key="." line="76" column="30" />
         <mark key="^" line="50" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530249371208">
+      <file name="/Dummy.txt" timestamp="1530255683065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -655,10 +655,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>pay.type</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>pay.type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
@@ -667,31 +667,31 @@
         <text encoding="base64">ICAgICAgICByZXNwb25zZS5kYXRhID0gZ3JvdXBlZC5tYXAoIHggPT4ge3ZhbHVlOiB4LCBjaGlsZHJlbjogZ3JvdXBlZFt4XS5tYXAoIHkgPT4geyB2YWx1ZTogeVsxXX0pIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmRhdGEubWFwKG9iaiA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY29sdW1ucy5wdXNoKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiBvYmouaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiBvYmouaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6MjAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGE+IHt7Xy5yZXBsYWNlKHRleHQsICdfXycsJycpfX08L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9oaWRkZW46IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCSAgbm90ZT0nJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWxlcnQgdi1odG1sPSJub3RlIiB2LWlmPSJub3RlIiB0eXBlPSJpbmZvIj48L2FsZXJ0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGE+IHt7Xy5yZXBsYWNlKHRleHQsICdfXycsJycpfX08L2E+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiAoKSA9PiB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBpZCA6ICcnCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKHRoaXMubmFtZXNwYWNlKycvZmV0Y2hMaXN0JywgdGhpcy5nZXRQYXlsb2FkKHtpZDogcm93LmlkfSkpCg==</text>
+        <text encoding="base64">CQkJCQkJCSAgbm90ZT0nJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWxlcnQgdi1odG1sPSJub3RlIiB2LWlmPSJub3RlIiB0eXBlPSJpbmZvIj48L2FsZXJ0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
