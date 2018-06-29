@@ -356,11 +356,11 @@
         <mark key="^" line="7" column="77" />
         <mark key="." line="7" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/env/const.master.js" timestamp="1529403844394">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/env/const.master.js" timestamp="1530259529066">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="2" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/control-main-layout.vue" timestamp="1528168594209">
         <mark key="'" line="28" column="0" />
@@ -459,7 +459,7 @@
         <mark key="." line="76" column="30" />
         <mark key="^" line="50" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530257108986">
+      <file name="/Dummy.txt" timestamp="1530259548587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -660,11 +660,11 @@
       <jump line="85" column="48" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-items-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zbwo=</text>
+      <register name="&quot;" type="4">
+        <text>https://tjwmj9s0fi.execute-api.us-west-2.amazonaws.com/dev_0</text>
       </register>
       <register name="-" type="4">
-        <text>pay.type</text>
+        <text>https://tjwmj9s0fi.execute-api.us-west-2.amazonaws.com/dev_0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
