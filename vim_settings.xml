@@ -273,6 +273,11 @@
         <mark key="." line="110" column="58" />
         <mark key="^" line="110" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/package.json" timestamp="1531295042438">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="24" />
+        <mark key="." line="55" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1530679293281">
         <mark key="[" line="54" column="46" />
         <mark key="]" line="54" column="50" />
@@ -707,11 +712,11 @@
       <jump line="81" column="26" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-sku-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVnVldHJvblZ1ZSB9IGZyb20gJ3Z1ZXRyb24nOwo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
