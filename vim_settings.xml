@@ -72,6 +72,12 @@
         <mark key="^" line="63" column="9" />
         <mark key="." line="63" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.sandbox.js" timestamp="1532510516935">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/staticdata-skus.js" timestamp="1524638837212">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
@@ -201,7 +207,6 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="/package.json" timestamp="1531295748102" />
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/env/const.master.js" timestamp="1530259529066">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -247,12 +252,23 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1532510800454">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/index.js" timestamp="1531296584966">
         <mark key="'" line="35" column="7" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.dev.js" timestamp="1532510487659">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-levels-layout.vue" timestamp="1530678687302">
         <mark key="[" line="12" column="37" />
@@ -545,7 +561,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530784752987">
+      <file name="/Dummy.txt" timestamp="1532510912018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -713,11 +729,11 @@
       <jump line="81" column="26" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-sku-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWV0cm9uVnVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>,VuetronVuex()</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
