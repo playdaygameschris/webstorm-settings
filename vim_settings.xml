@@ -271,11 +271,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.dev.js" timestamp="1532510487659">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.dev.js" timestamp="1532587927218">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="2" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-levels-layout.vue" timestamp="1530678687302">
         <mark key="[" line="12" column="37" />
@@ -568,7 +568,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532580675529">
+      <file name="/Dummy.txt" timestamp="1532587975074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -736,11 +736,11 @@
       <jump line="81" column="26" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-sku-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46VgogICAgICAgICAgY29tbWFuZDogYXdzIGlhbSBsaXN0LWFjY2Vzcy1rZXlzIC0tdXNlci1uYW1lIGNpcmNsZWNpCg==</text>
+      <register name="&quot;" type="4">
+        <text>https://sbrjguw1t9.execute-api.us-west-2.amazonaws.com/dev</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>https://sbrjguw1t9.execute-api.us-west-2.amazonaws.com/dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
