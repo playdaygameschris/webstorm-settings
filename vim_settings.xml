@@ -169,12 +169,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-component.js" timestamp="1530784711523">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/const.js" timestamp="1527145304807">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="35" />
@@ -264,7 +258,7 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1532581337650">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1532658998207">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -354,6 +348,9 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1532601048532">
+        <mark key="'" line="107" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/.circleci/config.yml" timestamp="1529401769310">
         <mark key="[" line="21" column="0" />
@@ -586,7 +583,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532600826357">
+      <file name="/Dummy.txt" timestamp="1532601013542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -652,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="46" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/create-dialog.vue" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/create-dialog.vue" />
       <jump line="22" column="28" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/import-dialog.vue" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/import-dialog.vue" />
@@ -752,6 +748,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata-table.vue" />
       <jump line="50" column="17" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/mixins/crud-table.js" />
       <jump line="81" column="26" filename="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/staticdata-sku-table.vue" />
+      <jump line="107" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
