@@ -35,7 +35,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1532937039435">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1532937778277">
         <mark key="[" line="57" column="73" />
         <mark key="]" line="57" column="73" />
         <mark key="^" line="57" column="117" />
@@ -120,8 +120,11 @@
         <mark key="^" line="120" column="39" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1532937212969">
-        <mark key="[" line="15" column="35" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1532938352851">
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="36" />
+        <mark key="^" line="65" column="36" />
+        <mark key="." line="65" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1523614129857">
         <mark key="[" line="13" column="19" />
@@ -399,6 +402,12 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="13" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1532938340220">
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="31" column="65" />
+        <mark key="^" line="31" column="65" />
+        <mark key="." line="31" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1530172839471">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
@@ -498,7 +507,7 @@
         <mark key="." line="88" column="37" />
         <mark key="^" line="86" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1532937200424">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1532938001310">
         <mark key="[" line="55" column="66" />
         <mark key="]" line="25" column="44" />
         <mark key="." line="25" column="44" />
@@ -598,10 +607,10 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532937045143">
+      <file name="/Dummy.txt" timestamp="1532938359951">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/delete-dialog.vue" timestamp="1530173427736">
         <mark key="[" line="1" column="12" />
@@ -767,10 +776,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>fix create item when no item</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>fix create item when no item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
