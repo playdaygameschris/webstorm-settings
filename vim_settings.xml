@@ -120,11 +120,11 @@
         <mark key="^" line="120" column="39" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1532938352851">
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="65" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1533019609968">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
         <mark key="^" line="65" column="36" />
-        <mark key="." line="65" column="36" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1523614129857">
         <mark key="[" line="13" column="19" />
@@ -186,6 +186,9 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1533019468434">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/staticdata-furnituremodel-table.vue" timestamp="1523326740302">
         <mark key="[" line="43" column="26" />
@@ -367,7 +370,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1532601048532">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1533020166439">
         <mark key="'" line="107" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/.circleci/config.yml" timestamp="1529401769310">
@@ -607,7 +610,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532938359951">
+      <file name="/Dummy.txt" timestamp="1533019419868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -775,8 +778,8 @@
       <jump line="107" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix create item when no item</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbHVtbnNbaV1bJ3NvcnRNZXRob2QnXSA9IHRoaXMuc29ydE1ldGhvZAo=</text>
       </register>
       <register name="-" type="4">
         <text>fix create item when no item</text>
@@ -788,31 +791,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluayB2LWJpbmQ6dG89IicvJyArIHRoaXMuJHZlcnNpb24gKyAnL2xvY2FsZSciPgogICAgICAgICAgICAgICAgICAgIDxNZW51SXRlbSBuYW1lPSI2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+TG9jYWxlPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvTWVudUl0ZW0+CiAgICAgICAgICAgICAgICA8L3JvdXRlci1saW5rPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbHVtbnNbaV1bJ3NvcnRNZXRob2QnXSA9IHRoaXMuc29ydE1ldGhvZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhcmEgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGl0ZW1fdHlwZT09J3AnKQogICAgICAgICAgICAgICAgICAgIHBvc3RmaXg9Jy0xLTEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhcmEgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iaGVpZ2h0OjMwcHg7ICBjb2xvcjojRkZGIj48aDM+e3tjb25zdGFudC5hcHBfbmFtZX19PC9oMz48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGl0ZW1fdHlwZT09J3AnKQogICAgICAgICAgICAgICAgICAgIHBvc3RmaXg9Jy0xLTEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEF2YXRhciBzaGFwZT0ic3F1YXJlIiBzaXplPSJsYXJnZSI+e3tjb25zdGFudC5hcHBfbmFtZX19PC9BdmF0YXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iaGVpZ2h0OjMwcHg7ICBjb2xvcjojRkZGIj48aDM+e3tjb25zdGFudC5hcHBfbmFtZX19PC9oMz48L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5sYXlvdXQtbG9nb3sKICAgICAgICB3aWR0aDogMTAwcHg7CiAgICAgICAgaGVpZ2h0OiAzMHB4OwogICAgICAgIGJhY2tncm91bmQ6ICM1YjYyNzA7CiAgICAgICAgYm9yZGVyLXJhZGl1czogM3B4OwogICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB0b3A6IDE1cHg7CiAgICAgICAgbGVmdDogMjBweDsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPEF2YXRhciBzaGFwZT0ic3F1YXJlIiBzaXplPSJsYXJnZSI+e3tjb25zdGFudC5hcHBfbmFtZX19PC9BdmF0YXI+Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5sYXlvdXQtbG9nb3sKICAgICAgICB3aWR0aDogMTAwcHg7CiAgICAgICAgaGVpZ2h0OiAzMHB4OwogICAgICAgIGJhY2tncm91bmQ6ICM1YjYyNzA7CiAgICAgICAgYm9yZGVyLXJhZGl1czogM3B4OwogICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB0b3A6IDE1cHg7CiAgICAgICAgbGVmdDogMjBweDsKICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEFsZXJ0IHR5cGU9ImluZm8iPnt7Y29uc3RhbnQuYXBwX25hbWV9fTwvQWxlcnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEF2YXRhciBzaGFwZT0ic3F1YXJlIiBzaXplPSJsYXJnZSI+e3tjb25zdGFudC5hcHBfbmFtZX19PC9BdmF0YXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEFsZXJ0IHR5cGU9ImluZm8iPnt7Y29uc3RhbnQuYXBwX25hbWV9fTwvQWxlcnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
