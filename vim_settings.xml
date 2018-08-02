@@ -542,10 +542,10 @@
         <mark key="^" line="7" column="77" />
         <mark key="." line="7" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1533179372131">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1533181597975">
+        <mark key="[" line="30" column="75" />
+        <mark key="]" line="30" column="75" />
+        <mark key="." line="30" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/control-main-layout.vue" timestamp="1528168594209">
         <mark key="'" line="28" column="0" />
@@ -611,7 +611,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533180117438">
+      <file name="/Dummy.txt" timestamp="1533181821230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -787,11 +787,11 @@
       <jump line="107" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdpbWFnZV9zcmMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnaW1hZ2Vfc3JjJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiAnbGVmdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbGxpcHNpczogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9oaWRkZW46IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMTEwLAogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>fix create item when no item</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
