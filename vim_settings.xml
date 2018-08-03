@@ -46,11 +46,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1533198019985">
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="57" column="39" />
-        <mark key="^" line="57" column="39" />
-        <mark key="." line="57" column="39" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1533269588323">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-template-layout.vue" timestamp="1523255713662">
         <mark key="[" line="6" column="0" />
@@ -125,11 +125,11 @@
         <mark key="^" line="111" column="40" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-dropdown.vue" timestamp="1533201685667">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="2" column="66" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-dropdown.vue" timestamp="1533268222932">
+        <mark key="[" line="2" column="87" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/tables/staticdata/sub/ranch/staticdata-ranchcosts-table.vue" timestamp="1530172815516">
         <mark key="[" line="115" column="0" />
@@ -329,6 +329,12 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1533269917745">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/layouts/staticdata/staticdata-levels-layout.vue" timestamp="1530678687302">
         <mark key="[" line="12" column="37" />
@@ -714,7 +720,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533267263337">
+      <file name="/Dummy.txt" timestamp="1533269612862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/views/dialogs/delete-dialog.vue" timestamp="1530173427736">
@@ -758,11 +764,10 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1533267155633">
-        <mark key="[" line="46" column="36" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="36" />
-        <mark key="^" line="45" column="52" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1533269282094">
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-shopmenu.js" timestamp="1533192117304">
         <mark key="[" line="6" column="15" />
@@ -892,10 +897,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpb3Mtc3BlZWRvbWV0ZXIiIC8+Cg==</text>
+        <text encoding="base64">CXdpZHRoOjYwcHggIWltcG9ydGFudDsKCWhlaWdodDo2MHB4ICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ios-nutrition</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
@@ -904,31 +909,31 @@
         <text encoding="base64">ICAgICAgICAnZHJvcGRvd24nOiBkcm9wZG93bgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpb3Mtc3BlZWRvbWV0ZXIiIC8+Cg==</text>
+        <text encoding="base64">CXdpZHRoOjYwcHggIWltcG9ydGFudDsKCWhlaWdodDo2MHB4ICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpb3Mta2V5cGFkIiAvPgo=</text>
+        <text encoding="base64">Lm11bHRpc2VsZWN0LS1hY3RpdmUgewogICAgei1pbmRleDogOTk5OSAhaW1wb3J0YW50OzsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8SWNvbiB0eXBlPSJqIj48L0ljb24+Cg==</text>
+        <text encoding="base64">Lm11bHRpc2VsZWN0LS1hY3RpdmUgewogICAgei1pbmRleDogOTk5OSAhaW1wb3J0YW50OzsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8SWNvbiB0eXBlPSJkY2FzaCI+PC9JY29uPgo=</text>
+        <text encoding="base64">PC9zdHlsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8SWNvbiB0eXBlPSIiPjwvSWNvbj4K</text>
+        <text encoding="base64">PHN0eWxlIHNjb3BlZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6W10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtdWx0aXBsZTp0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFnZ2FibGU6dHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiBzZWxmLnZhbHVlLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJzOnsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6W10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtdWx0aXBsZTp0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFnZ2FibGU6dHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb246IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0OiBmdW5jdGlvbiAoZXZlbnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRlbWl0KCdpbnB1dCcsIGV2ZW50LnRhcmdldC52YWx1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5vblN1Y2Nlc3MocmVzcG9uc2UsIGBBZGQgVGFnICR7bmV3VGFnfSBTdWNjZXNzZnVsbHlgLCBgVGFnIDxiPiR7bmV3VGFnfTwvYj4gYWRkZWQuYCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9tUHJvcHM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiBzZWxmLnZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5vbkZhaWwoZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9tUHJvcHM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiBzZWxmLnZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>h</text>
