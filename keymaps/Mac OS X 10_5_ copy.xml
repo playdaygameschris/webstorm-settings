@@ -14,10 +14,6 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
-  <action id="RecentProjectListGroup">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
-  <action id="Run" />
   <action id="Vcs.Push" />
   <action id="VimReformatVisual">
     <keyboard-shortcut first-keystroke="shift meta l" />

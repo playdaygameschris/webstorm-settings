@@ -320,11 +320,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533784662416">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/locate-categorys.js" timestamp="1529983050796">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
@@ -733,11 +728,11 @@
       <jump line="85" column="40" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kc3RvcmUuY2FjCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>newTag</text>
