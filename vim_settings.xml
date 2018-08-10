@@ -497,11 +497,11 @@
         <mark key="." line="7" column="96" />
         <mark key="^" line="7" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1533872333180">
-        <mark key="[" line="146" column="44" />
-        <mark key="]" line="146" column="45" />
-        <mark key="." line="146" column="45" />
-        <mark key="^" line="146" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1533874559419">
+        <mark key="[" line="134" column="108" />
+        <mark key="]" line="134" column="109" />
+        <mark key="." line="134" column="109" />
+        <mark key="^" line="134" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1533551297956">
         <mark key="[" line="4" column="0" />
@@ -821,10 +821,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>newTag</text>
