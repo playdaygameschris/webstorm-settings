@@ -241,11 +241,11 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1533872343268">
-        <mark key="[" line="94" column="44" />
-        <mark key="]" line="94" column="45" />
-        <mark key="." line="94" column="45" />
-        <mark key="^" line="94" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1533873757143">
+        <mark key="[" line="80" column="59" />
+        <mark key="]" line="80" column="60" />
+        <mark key="." line="80" column="60" />
+        <mark key="^" line="80" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/locale-categories.js" timestamp="1530155701777">
         <mark key="[" line="13" column="48" />
@@ -821,10 +821,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>newTag</text>
