@@ -241,11 +241,11 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1533549547121">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="86" column="59" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1533872343268">
+        <mark key="[" line="94" column="44" />
+        <mark key="]" line="94" column="45" />
+        <mark key="." line="94" column="45" />
+        <mark key="^" line="94" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/locale-categories.js" timestamp="1530155701777">
         <mark key="[" line="13" column="48" />
@@ -439,6 +439,12 @@
         <mark key="." line="20" column="65" />
         <mark key="^" line="20" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1533872327556">
+        <mark key="[" line="130" column="44" />
+        <mark key="]" line="130" column="45" />
+        <mark key="." line="130" column="45" />
+        <mark key="^" line="130" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/farm-panel/html/src/stores/map-object-rates.js" timestamp="1526373086879">
         <mark key="[" line="7" column="68" />
         <mark key="]" line="7" column="72" />
@@ -490,6 +496,12 @@
         <mark key="]" line="7" column="96" />
         <mark key="." line="7" column="96" />
         <mark key="^" line="7" column="96" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1533872333180">
+        <mark key="[" line="146" column="44" />
+        <mark key="]" line="146" column="45" />
+        <mark key="." line="146" column="45" />
+        <mark key="^" line="146" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1533551297956">
         <mark key="[" line="4" column="0" />
@@ -809,10 +821,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>newTag</text>
