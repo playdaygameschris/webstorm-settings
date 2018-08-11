@@ -21,21 +21,17 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-component.js" timestamp="1523181073906">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/webpack.base.config.js" timestamp="1523172760138">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/plugins/table-filter.vue" timestamp="1533965968446">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="38" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523174832891">
         <mark key="[" line="12" column="11" />
@@ -43,41 +39,76 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" timestamp="1533965547642">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="42" />
+        <mark key="." line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-table.js" timestamp="1533966191189">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="52" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1533964799765">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-component.js" timestamp="1523181073906">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/.eslintrc.json" timestamp="1533950056971">
+        <mark key="[" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="18" column="17" filename="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" />
+      <jump line="20" column="3" filename="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/plugins/table-filter.vue" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWx0ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IGZ1bmN0aW9uKHZhbCl7CiAgICAgICAgICAgIHRoaXMuZmV0Y2hEYXRhKHZhbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOnsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVzLiRvZmYoYG9uLSR7X25hbWVzcGFjZX0tZmlsdGVyLWNoYW5nZWApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVzLiRvbihgb24tJHtfbmFtZXNwYWNlfS1maWx0ZXItY2hhbmdlYCwgdGhpcy5maWx0ZXIpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maWx0ZXIgPSBmaWx0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>
@@ -90,7 +121,17 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
