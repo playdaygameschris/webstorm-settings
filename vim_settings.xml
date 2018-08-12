@@ -37,12 +37,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/plugins/table-filter.vue" timestamp="1534066044823">
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/plugins/table-filter.vue" timestamp="1534067730777">
         <mark key="'" line="20" column="3" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="49" />
-        <mark key="." line="3" column="49" />
-        <mark key="^" line="3" column="49" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1533996023124">
         <mark key="[" line="17" column="0" />
@@ -69,11 +69,10 @@
         <mark key="." line="46" column="46" />
         <mark key="^" line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1533999493122">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1534067734681">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-component.js" timestamp="1523181073906">
         <mark key="[" line="4" column="0" />
@@ -108,37 +107,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPEZvcm1JdGVtIHYtaWY9ImNvbHVtbi50eXBlID09ICdyYWRpbyciPgoKICAgICAgICAgICAgICAgPC9Gb3JtSXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>buttonSize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gbGFiZWw9ImRlZmF1bHQiPkRlZmF1bHQ8L1JhZGlvPgogICAgICAgICAgICAgICAgICAgICAgIDxSYWRpbyBsYWJlbD0ic21hbGwiPnNtYWxsPC9SYWRpbz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxCdXR0b24gdHlwZT0icHJpbWFyeSIgQGNsaWNrPSJvblNlYXJjaCI+U2VhcmNoPC9CdXR0b24+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCB2LW1vZGVsPSJwYXJzZUZsb2F0KGl0ZW0uX2Nvc3QpLnRvRml4ZWQoMikiIHNpemU9InNtYWxsIiBzdHlsZT0id2lkdGg6MTIwcHg7bWFyZ2luLXRvcDo1cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHNsb3Q9InByZXBlbmQiPkNvc3Q8L3NwYW4+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgPEZvcm1JdGVtIHYtaWY9ImNvbHVtbi50eXBlID09ICdyYWRpbyciPgoKICAgICAgICAgICAgICAgPC9Gb3JtSXRlbT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gbGFiZWw9ImRlZmF1bHQiPkRlZmF1bHQ8L1JhZGlvPgogICAgICAgICAgICAgICAgICAgICAgIDxSYWRpbyBsYWJlbD0ic21hbGwiPnNtYWxsPC9SYWRpbz4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxCdXR0b24gdHlwZT0icHJpbWFyeSIgQGNsaWNrPSJvblNlYXJjaCI+U2VhcmNoPC9CdXR0b24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogI0ZGRiAhaW1wZGRvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCB2LW1vZGVsPSJwYXJzZUZsb2F0KGl0ZW0uX2Nvc3QpLnRvRml4ZWQoMikiIHNpemU9InNtYWxsIiBzdHlsZT0id2lkdGg6MTIwcHg7bWFyZ2luLXRvcDo1cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHNsb3Q9InByZXBlbmQiPkNvc3Q8L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogI0ZGRjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewoKICAgICAgICB9LAo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="-" type="4">
-        <text>buttonSize</text>
+        <text>sold out</text>
       </register>
     </registers>
     <search>
