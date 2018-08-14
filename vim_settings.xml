@@ -6,40 +6,6 @@
       <file name="/Dummy.txt" timestamp="1534086257984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="3" column="49" />
-        <mark key="^" line="39" column="28" />
-        <mark key="." line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/views/index.vue" timestamp="1522901574940">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1523174946023">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.dev.js" timestamp="1533994836148">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/items.js" timestamp="1533994921332">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/webpack.base.config.js" timestamp="1523172760138">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/plugins/table-filter.vue" timestamp="1534067730777">
         <mark key="'" line="20" column="3" />
         <mark key="[" line="32" column="0" />
@@ -47,17 +13,25 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1533996023124">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1534067734681">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523174832891">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-table.js" timestamp="1533992524997">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/index.js" timestamp="1534231669427">
+        <mark key="'" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1534231757775">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+        <mark key="." line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" timestamp="1533999011998">
         <mark key="'" line="18" column="17" />
@@ -66,30 +40,27 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-table.js" timestamp="1533992524997">
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="46" column="46" />
-        <mark key="." line="46" column="46" />
-        <mark key="^" line="46" column="46" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.master.js" timestamp="1533994829199">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1534067734681">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/webpack.base.config.js" timestamp="1523172760138">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523174832891">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-component.js" timestamp="1523181073906">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/.eslintrc.json" timestamp="1533950056971">
-        <mark key="[" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/const.js" timestamp="1533994846690">
         <mark key="[" line="2" column="4" />
@@ -97,50 +68,89 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.master.js" timestamp="1533994829199">
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1533996023124">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/items.js" timestamp="1533994921332">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/views/index.vue" timestamp="1522901574940">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/.eslintrc.json" timestamp="1533950056971">
+        <mark key="[" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.dev.js" timestamp="1533994836148">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="39" column="28" />
+        <mark key="." line="3" column="49" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="17" filename="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" />
       <jump line="20" column="3" filename="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/plugins/table-filter.vue" />
+      <jump line="13" column="42" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/index.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
+        <text encoding="base64">ICAgIGdldHRlcnM6ewogICAgICAgIHRvdGFsKHN0YXRlKXsKICAgICAgICAgICAgcmV0dXJuIHN0YXRlLnRvdGFsCiAgICAgICAgfQogICAgfSwKICAgIG11dGF0aW9uczogewogICAgICAgIGZldGNoTGlzdFN1Y2Nlc3Moc3RhdGUsIHJlc3BvbnNlKSB7CiAgICAgICAgICAgIGNvbnN0IHsgZGF0YSB9ID0gcmVzcG9uc2U7CgogICAgICAgICAgICBkYXRhWydyb3dzJ10uZm9yRWFjaCgobSkgPT4gewogICAgICAgICAgICAgICAgVnVlLnNldChzdGF0ZS5lbnRpdGllcywgbVsnaWQnXS50b1N0cmluZygpLCBtKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHN0YXRlLnRvdGFsID0gZGF0YVsndG90YWwnXTsKICAgICAgICAgICAgc3RhdGUubGlzdCA9IGRhdGFbJ3Jvd3MnXS5tYXAobSA9PiBtWydpZCddLnRvU3RyaW5nKCkpOwogICAgICAgICAgICBzdGF0ZS5pc0ZldGNoaW5nTGlzdCA9IGZhbHNlOwogICAgICAgICAgICBzdGF0ZS5mZXRjaExpc3RFcnJvciA9IG51bGw7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>, // for paging</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlOiB7CiAgICAgICAgdG90YWw6IDAKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPEZvcm1JdGVtIHYtaWY9ImNvbHVtbi50eXBlID09ICdyYWRpbyciPgoKICAgICAgICAgICAgICAgPC9Gb3JtSXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDogJ2FsbCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gbGFiZWw9ImRlZmF1bHQiPkRlZmF1bHQ8L1JhZGlvPgogICAgICAgICAgICAgICAgICAgICAgIDxSYWRpbyBsYWJlbD0ic21hbGwiPnNtYWxsPC9SYWRpbz4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxCdXR0b24gdHlwZT0icHJpbWFyeSIgQGNsaWNrPSJvblNlYXJjaCI+U2VhcmNoPC9CdXR0b24+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCB2LW1vZGVsPSJwYXJzZUZsb2F0KGl0ZW0uX2Nvc3QpLnRvRml4ZWQoMikiIHNpemU9InNtYWxsIiBzdHlsZT0id2lkdGg6MTIwcHg7bWFyZ2luLXRvcDo1cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHNsb3Q9InByZXBlbmQiPkNvc3Q8L3NwYW4+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgPEZvcm1JdGVtIHYtaWY9ImNvbHVtbi50eXBlID09ICdyYWRpbyciPgoKICAgICAgICAgICAgICAgPC9Gb3JtSXRlbT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gbGFiZWw9ImRlZmF1bHQiPkRlZmF1bHQ8L1JhZGlvPgogICAgICAgICAgICAgICAgICAgICAgIDxSYWRpbyBsYWJlbD0ic21hbGwiPnNtYWxsPC9SYWRpbz4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxCdXR0b24gdHlwZT0icHJpbWFyeSIgQGNsaWNrPSJvblNlYXJjaCI+U2VhcmNoPC9CdXR0b24+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCB2LW1vZGVsPSJwYXJzZUZsb2F0KGl0ZW0uX2Nvc3QpLnRvRml4ZWQoMikiIHNpemU9InNtYWxsIiBzdHlsZT0id2lkdGg6MTIwcHg7bWFyZ2luLXRvcDo1cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHNsb3Q9InByZXBlbmQiPkNvc3Q8L3NwYW4+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sold out</text>
+        <text>, // for paging</text>
       </register>
     </registers>
     <search>
