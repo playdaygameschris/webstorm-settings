@@ -137,7 +137,6 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534302850402" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-sku-table.vue" timestamp="1534303865645">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="17" column="0" />
@@ -156,11 +155,11 @@
         <mark key="." line="122" column="25" />
         <mark key="^" line="122" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534241672097">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534316524796">
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+        <mark key="^" line="11" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1534303524450">
         <mark key="'" line="33" column="33" />
@@ -239,7 +238,6 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitures.js" timestamp="1534301999678" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
         <mark key="[" line="3" column="49" />
         <mark key="]" line="3" column="49" />
@@ -257,38 +255,41 @@
       <jump line="12" column="31" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXNwb25zZS5kYXRhID0gcmVzcG9uc2UuZGF0YS5tYXAoeCA9PiAoW3hbJ2l0ZW1faWQnXSwgbmV3IERhdGUoeFsnY3JlYXRlZCddKS5nZXREYXkoKSArICcvJyArIChuZXcgRGF0ZSh4WydjcmVhdGVkJ10pLmdldE1vbnRoKCkgKyAxKSwgIHhbJ3ByaWNlJ11dKSkK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ2xldmVsLXJld2FyZHMnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>animal-costs</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ3RlbXBsYXRlLWNvbnRlbnRzJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ2xldmVsLXJld2FyZHMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ2Z1cm5pdHVyZS1za2lucycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ3RlbXBsYXRlLWNvbnRlbnRzJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ3N0b3JhZ2UtY29zdHMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ2Z1cm5pdHVyZS1za2lucycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ3JhbmNoLWNvc3RzJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ3N0b3JhZ2UtY29zdHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ21hY2hpbmUtY29zdHMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ3JhbmNoLWNvc3RzJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ2RlY29yYXRpb24tY29zdHMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ21hY2hpbmUtY29zdHMnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogX25hbWVzcGFjZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogJ2RlY29yYXRpb24tY29zdHMnLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3RhYmxlJzogX25hbWVzcGFjZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>animal-costs</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
