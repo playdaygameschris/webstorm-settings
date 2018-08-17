@@ -69,12 +69,12 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" timestamp="1534476284971">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="48" column="44" />
-        <mark key="^" line="39" column="36" />
-        <mark key="." line="48" column="44" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" timestamp="1534478786980">
+        <mark key="'" line="67" column="13" />
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -138,12 +138,11 @@
         <mark key="." line="14" column="38" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/components/chart.vue" timestamp="1534474822362">
-        <mark key="'" line="28" column="65" />
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
-        <mark key="^" line="19" column="64" />
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/components/chart.vue" timestamp="1534478348051">
+        <mark key="'" line="38" column="65" />
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/dprice/html/src/views/index.vue" timestamp="1522901574940">
         <mark key="[" line="23" column="0" />
@@ -164,7 +163,7 @@
       <file name="$USER_HOME$/Documents/workspace/bids-html/.eslintrc.json" timestamp="1533950056971">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-pending_transactions.js" timestamp="1534412100752">
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-pending_transactions.js" timestamp="1534477212636">
         <mark key="'" line="10" column="59" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -194,7 +193,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534474379802">
+      <file name="/Dummy.txt" timestamp="1534477646903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1534473845381">
@@ -299,37 +298,37 @@
         <text encoding="base64">ICAgICAgICAvLyByZXNwb25zZS5kYXRhID0gcmVzcG9uc2UuZGF0YS5tYXAoeCA9PiAoW3hbJ2l0ZW1faWQnXSwgbmV3IERhdGUoeFsnY3JlYXRlZCddKS5nZXREYXkoKSArICcvJyArIChuZXcgRGF0ZSh4WydjcmVhdGVkJ10pLmdldE1vbnRoKCkgKyAxKSwgIHhbJ3ByaWNlJ11dKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>15</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvd3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRlZmF1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvd3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBheWxvYWRbJ2lkJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>15</text>
       </register>
     </registers>
     <search>
