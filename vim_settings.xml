@@ -125,13 +125,6 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534410377415">
-        <mark key="'" line="22" column="18" />
-        <mark key="[" line="73" column="72" />
-        <mark key="]" line="73" column="72" />
-        <mark key="." line="73" column="72" />
-        <mark key="^" line="73" column="73" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-levelrewards-table.vue" timestamp="1534304181599">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="38" />
@@ -194,7 +187,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534481276522">
+      <file name="/Dummy.txt" timestamp="1534483562794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1534473845381">
@@ -267,10 +260,10 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/api/general-api.js" timestamp="1534410419935">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/api/general-api.js" timestamp="1534483515119">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
         <mark key="[" line="3" column="49" />
@@ -299,37 +292,37 @@
         <text encoding="base64">ICAgICAgICAvLyByZXNwb25zZS5kYXRhID0gcmVzcG9uc2UuZGF0YS5tYXAoeCA9PiAoW3hbJ2l0ZW1faWQnXSwgbmV3IERhdGUoeFsnY3JlYXRlZCddKS5nZXREYXkoKSArICcvJyArIChuZXcgRGF0ZSh4WydjcmVhdGVkJ10pLmdldE1vbnRoKCkgKyAxKSwgIHhbJ3ByaWNlJ11dKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcnM6WydibHVlJywnZ3JlZW4nLCd5ZWxsbyddCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGdldCgpewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFydHMgOnsK</text>
+        <text encoding="base64">ICAgICAgICAgY3JlZGVudGlhbHM6ICdvbWl0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcnM6WydibHVlJywnZ3JlZW4nLCd5ZWxsbyddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFydHMgOnsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRlZmF1bHQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -351,6 +344,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
