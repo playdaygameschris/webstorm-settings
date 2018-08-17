@@ -69,12 +69,12 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" timestamp="1534474833522">
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" timestamp="1534476284971">
         <mark key="'" line="59" column="13" />
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="36" />
+        <mark key="[" line="48" column="44" />
+        <mark key="]" line="48" column="44" />
         <mark key="^" line="39" column="36" />
-        <mark key="." line="39" column="36" />
+        <mark key="." line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -302,7 +302,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>50</text>
+        <text>10</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
@@ -329,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuaXRlbSkK</text>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
