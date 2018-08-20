@@ -116,12 +116,12 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534737973212">
-        <mark key="'" line="46" column="98" />
-        <mark key="[" line="51" column="49" />
-        <mark key="]" line="51" column="49" />
-        <mark key="." line="51" column="49" />
-        <mark key="^" line="51" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534740394122">
+        <mark key="'" line="45" column="98" />
+        <mark key="[" line="50" column="41" />
+        <mark key="]" line="50" column="41" />
+        <mark key="." line="50" column="41" />
+        <mark key="^" line="50" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
         <mark key="[" line="5" column="15" />
@@ -142,11 +142,11 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1534737924447">
-        <mark key="[" line="120" column="31" />
-        <mark key="]" line="120" column="31" />
-        <mark key="." line="120" column="31" />
-        <mark key="^" line="120" column="28" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1534740888569">
+        <mark key="[" line="119" column="28" />
+        <mark key="]" line="119" column="31" />
+        <mark key="." line="119" column="31" />
+        <mark key="^" line="119" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/services/general-service.js" timestamp="1534406595567">
         <mark key="[" line="6" column="38" />
@@ -188,7 +188,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534733879800">
+      <file name="/Dummy.txt" timestamp="1534740634438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1534473845381">
@@ -308,24 +308,33 @@
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBudWxsCiAgICAgICAgICAgICAgICBpZiAoIV8uaXNFbXB0eShwYXJhbXMpKXsKICAgICAgICAgICAgICAgICAgICBjb25maWcgPSB7cGFyYW1zOiBwYXJhbXN9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN1c3RvbVVybEZuQXJncykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>create</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICAgICAgICAgICAgICB2ZXJzaW9uID0gdGhpcy4kcm91dGUucGFyYW1zLnZlcnNpb24K</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBudWxsCiAgICAgICAgICAgICAgICBpZiAoIV8uaXNFbXB0eShwYXJhbXMpKXsKICAgICAgICAgICAgICAgICAgICBjb25maWcgPSB7cGFyYW1zOiBwYXJhbXN9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBudWxsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>,
                                 {
                                     config:{
@@ -334,17 +343,8 @@
                                         }
                                     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZpZzp7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM6ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZrOiByZXNwb25zZS5kYXRhLmZrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnRvQmVDcmVhdGVkWydpZCddID0gIHRoaXMudG9CZUNyZWF0ZWRbJ2ZrJ10K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXZhciBpZCA9Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>create</text>
       </register>
     </registers>
     <search>
