@@ -116,12 +116,12 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534732948984">
-        <mark key="'" line="42" column="98" />
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="19" />
-        <mark key="^" line="42" column="97" />
-        <mark key="." line="63" column="19" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534737973212">
+        <mark key="'" line="46" column="98" />
+        <mark key="[" line="51" column="49" />
+        <mark key="]" line="51" column="49" />
+        <mark key="." line="51" column="49" />
+        <mark key="^" line="51" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
         <mark key="[" line="5" column="15" />
@@ -141,6 +141,12 @@
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1534737924447">
+        <mark key="[" line="120" column="31" />
+        <mark key="]" line="120" column="31" />
+        <mark key="." line="120" column="31" />
+        <mark key="^" line="120" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/services/general-service.js" timestamp="1534406595567">
         <mark key="[" line="6" column="38" />
@@ -182,7 +188,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534731715334">
+      <file name="/Dummy.txt" timestamp="1534733879800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1534473845381">
@@ -263,8 +269,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1534501014869">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1534736671768">
         <mark key="'" line="16" column="32" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="15" />
+        <mark key="^" line="113" column="15" />
+        <mark key="." line="113" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
         <mark key="[" line="3" column="49" />
@@ -297,38 +307,44 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBudWxsCiAgICAgICAgICAgICAgICBpZiAoIV8uaXNFbXB0eShwYXJhbXMpKXsKICAgICAgICAgICAgICAgICAgICBjb25maWcgPSB7cGFyYW1zOiBwYXJhbXN9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbVVybEZuQXJncy51bnNoaWZ0KHZlcnNpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaERhdGEocGF5bG9hZCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5kb0ZldGNoTGlzdChwYXlsb2FkKQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKFsndmVyc2lvbi9saXN0J10pLAo=</text>
+      <register name="6" type="4">
+        <text>,
+                                {
+                                    config:{
+                                        params:{
+                                            fk: response.data.fk
+                                        }
+                                    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKFt0aGlzLm5hbWVzcGFjZV0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZpZzp7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM6ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZrOiByZXNwb25zZS5kYXRhLmZrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKCd0ZXN0aW5nJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnRvQmVDcmVhdGVkWydpZCddID0gIHRoaXMudG9CZUNyZWF0ZWRbJ2ZrJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZUxpc3Q6ICdsaXN0Jwo=</text>
+        <text encoding="base64">CQkJCXZhciBpZCA9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -353,6 +369,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

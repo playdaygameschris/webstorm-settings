@@ -14,6 +14,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="Vcs.Push" />
   <action id="VimReformatVisual">
     <keyboard-shortcut first-keystroke="shift meta l" />
