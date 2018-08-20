@@ -116,12 +116,12 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534501603560">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534732948984">
         <mark key="'" line="42" column="98" />
-        <mark key="[" line="44" column="80" />
-        <mark key="]" line="44" column="80" />
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="19" />
         <mark key="^" line="42" column="97" />
-        <mark key="." line="44" column="80" />
+        <mark key="." line="63" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
         <mark key="[" line="5" column="15" />
@@ -297,38 +297,38 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbVVybEZuQXJncy51bnNoaWZ0KHZlcnNpb24pCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>customUrlFnArgs=[version, ...arg]</text>
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaERhdGEocGF5bG9hZCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5kb0ZldGNoTGlzdChwYXlsb2FkKQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbVVybEZuQXJncy51bnNoaWZ0KHZlcnNpb24pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKFsndmVyc2lvbi9saXN0J10pLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKFt0aGlzLm5hbWVzcGFjZV0pLAo=</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaERhdGEocGF5bG9hZCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5kb0ZldGNoTGlzdChwYXlsb2FkKQogICAgICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKCd0ZXN0aW5nJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKFsndmVyc2lvbi9saXN0J10pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZUxpc3Q6ICdsaXN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKFt0aGlzLm5hbWVzcGFjZV0pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGE6ICgpID0+IHsKICAgICAgICByZXR1cm4gewogICAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAuLi5tYXBHZXR0ZXJzKCd0ZXN0aW5nJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBpOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZUxpc3Q6ICdsaXN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>customUrlFnArgs=[version, ...arg]</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
