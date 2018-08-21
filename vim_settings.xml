@@ -236,11 +236,11 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534828057765">
-        <mark key="[" line="184" column="53" />
-        <mark key="]" line="184" column="53" />
-        <mark key="." line="184" column="53" />
-        <mark key="^" line="184" column="53" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534829416357">
+        <mark key="[" line="184" column="44" />
+        <mark key="]" line="184" column="45" />
+        <mark key="." line="184" column="45" />
+        <mark key="^" line="184" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/switches.js" timestamp="1534825435659">
         <mark key="[" line="0" column="0" />
@@ -427,7 +427,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52ZXJzaW9uKQo=</text>
@@ -456,7 +456,7 @@
                         }</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
