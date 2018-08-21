@@ -169,11 +169,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1534473845381">
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="16" column="46" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1534834628219">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levelrewards.js" timestamp="1534825395037">
         <mark key="[" line="0" column="0" />
@@ -236,11 +236,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534829416357">
-        <mark key="[" line="184" column="44" />
-        <mark key="]" line="184" column="45" />
-        <mark key="." line="184" column="45" />
-        <mark key="^" line="184" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534835123901">
+        <mark key="'" line="253" column="24" />
+        <mark key="[" line="161" column="58" />
+        <mark key="]" line="161" column="73" />
+        <mark key="." line="161" column="73" />
+        <mark key="^" line="161" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/switches.js" timestamp="1534825435659">
         <mark key="[" line="0" column="0" />
@@ -258,11 +259,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/index.js" timestamp="1534827372394">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="18" />
-        <mark key="." line="46" column="18" />
-        <mark key="^" line="46" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/index.js" timestamp="1534834737735">
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1534304122694">
         <mark key="[" line="14" column="26" />
@@ -315,7 +316,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534828155088">
+      <file name="/Dummy.txt" timestamp="1534835186472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1534824694079">
@@ -377,6 +378,13 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1534821101218">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="15" />
+        <mark key="^" line="113" column="15" />
+        <mark key="." line="113" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-types.js" timestamp="1534825339853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -418,45 +426,55 @@
       <jump line="16" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="41" column="98" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
+      <jump line="253" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd2ZXJzaW9uJykKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgY29uc29sZS5sb2codmFsKSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4kcm91dGUucGFyYW1zLnZlcnNpb24pCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ211dGF0aW9ucy5jaGFuZ2VWZXJzaW9uJykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdnL2NoYW5nZVZlcnNpb24nLCBNYXRoLm1heCguLi5hY3RpdmVfbGlzdCkpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FjdGlvbi5jaGFuZ2VWZXJzaW9uJykK</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-                            this.$store.dispatch('g/changeVersion', 0)
-                        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>current_version: {
+                set(version){
+                    console.log('set')
+                    console.log(version)
+                    this.$store.dispatch('updateVersion', version)
+                },
+                get(){
+                    console.log('get')
+                    console.log(this.version)
+                    return this.version
+                }
+            }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
