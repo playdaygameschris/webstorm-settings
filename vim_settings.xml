@@ -90,12 +90,11 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="/create-dialog.vue" timestamp="1534747743650" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud-module.js" timestamp="1534760634499">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud-module.js" timestamp="1534817745484">
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="33" column="64" />
+        <mark key="." line="33" column="64" />
+        <mark key="^" line="33" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534742392952">
         <mark key="'" line="45" column="98" />
@@ -333,34 +332,34 @@
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY3VzdG9tVXJsRm5BcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXJsR2V0dGVyKHsgY3VzdG9tVXJsLCBjdXN0b21VcmxGbkFyZ3MgfSkpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY3VzdG9tVXJsRm5BcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXJsR2V0dGVyKHsgY3VzdG9tVXJsLCBjdXN0b21VcmxGbkFyZ3MgfSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NydWQtbW9kdWxlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY3VzdG9tVXJsRm5BcmdzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NydWQtbW9kdWxlJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RhdGUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2xvYmFsVgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiB7CiAgICAgICAgdmVyc2lvbl9jb2RlOiAwCiAgICB9LAo=</text>
+        <text encoding="base64">Z2xvYmFsVgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiB7CiAgICAgICAgdmVyc2lvbjogMAogICAgfSwK</text>
+        <text encoding="base64">ICAgIHN0YXRlOiB7CiAgICAgICAgdmVyc2lvbl9jb2RlOiAwCiAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
