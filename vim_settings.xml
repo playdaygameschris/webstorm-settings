@@ -46,12 +46,12 @@
         <mark key="." line="7" column="106" />
         <mark key="^" line="7" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1534913177642">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1534914297481">
         <mark key="'" line="14" column="31" />
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="73" />
-        <mark key="." line="58" column="73" />
-        <mark key="^" line="58" column="73" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="29" />
+        <mark key="." line="60" column="29" />
+        <mark key="^" line="60" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-locales.js" timestamp="1534825351056">
         <mark key="[" line="0" column="0" />
@@ -86,7 +86,7 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1534304159839">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1534914309256">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="42" />
         <mark key="." line="16" column="42" />
@@ -204,11 +204,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1534303646661">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1534914641660">
+        <mark key="'" line="23" column="18" />
+        <mark key="[" line="102" column="75" />
+        <mark key="]" line="102" column="115" />
+        <mark key="^" line="102" column="115" />
+        <mark key="." line="102" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ingredients.js" timestamp="1534846741996">
         <mark key="[" line="7" column="104" />
@@ -378,7 +379,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534911695252">
+      <file name="/Dummy.txt" timestamp="1534914416199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1534845679256">
@@ -501,43 +502,45 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" />
       <jump line="14" column="31" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
+      <jump line="23" column="18" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25fY29kZSA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZT0iZGFzaGVkIiA=</text>
+        <text>The selected templete content will be replaced by the data you input below</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25fY29kZSA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93Lm9wZW4oYCR7Y29uc3RhbnQuYXBpX2VuZHBvaW50fS8ke3RoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9ufS9qc29uL2ArcGF0aHMuam9pbignLycpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08QnV0dG9uIHR5cGU9ImRhc2hlZCIgQGNsaWNrPSJzaG93SnNvbih7cGF0aHM6IFsnc3RhdGljLWRhdGEnLCB0YWJsZV19KSIgOmRpc2FibGVkPSJsb2FkaW5nIHx8IGNydWREaXNhYmxlZCIgID4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGRpdiBzdHlsZT0iMjVweCI+SnNvbjwvZGl2Pi0tPgogICAgICAgICAgICAgICAgPCEtLTwvQnV0dG9uPi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHZlcnNpb25fY29kZSA9PSBudWxsKXsKICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uX2NvZGUgPSB0aGlzLnZlcnNpb24KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRQYXlsb2FkKHApewogICAgICAgICAgICB2YXIgcGF5bG9hZCA9IHsKICAgICAgICAgICAgICAgIGNvbmZpZyA6ewogICAgICAgICAgICAgICAgICAgIHBhcmFtczogcCwKICAgICAgICAgICAgICAgICAgICBjYW5jZWxUb2tlbjogYnVzLmZldGNoX2NhbmNlbF90b2tlbi50b2tlbgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0ZVBheWxvYWQocGF5bG9hZCwgcGFyYW1zPW51bGwpewogICAgICAgICAgICBpZiAoXy5pc0VtcHR5KHBheWxvYWQpKSB7CiAgICAgICAgICAgICAgICBwYXlsb2FkID0ge30KICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgdmVyc2lvbiA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCiAgICAgICAgICAgIGlmIChfLmlzQXJyYXkocGFyYW1zKSl7CiAgICAgICAgICAgICAgICBwYXJhbXMudW5zaGlmdCh2ZXJzaW9uKQogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHBhcmFtcyA9IHZlcnNpb24KICAgICAgICAgICAgfQogICAgICAgICAgICBpZihPYmplY3QuaXNFeHRlbnNpYmxlKHBheWxvYWQpKXsKICAgICAgICAgICAgICAgIHBheWxvYWQuYXJncyA9IHBhcmFtcwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHBheWxvYWQgPSB7IGNvbmZpZzogcGF5bG9hZCwgYXJnczogcGFyYW1zfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpCiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93Lm9wZW4oYCR7Y29uc3RhbnQuYXBpX2VuZHBvaW50fS8ke3RoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9ufS9qc29uL2ArcGF0aHMuam9pbignLycpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCTwvTWVudUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHZlcnNpb25fY29kZSA9PSBudWxsKXsKICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uX2NvZGUgPSB0aGlzLnZlcnNpb24KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTwvTWVudUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRQYXlsb2FkKHApewogICAgICAgICAgICB2YXIgcGF5bG9hZCA9IHsKICAgICAgICAgICAgICAgIGNvbmZpZyA6ewogICAgICAgICAgICAgICAgICAgIHBhcmFtczogcCwKICAgICAgICAgICAgICAgICAgICBjYW5jZWxUb2tlbjogYnVzLmZldGNoX2NhbmNlbF90b2tlbi50b2tlbgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWNvcmF0ZVBheWxvYWQocGF5bG9hZCwgcGFyYW1zPW51bGwpewogICAgICAgICAgICBpZiAoXy5pc0VtcHR5KHBheWxvYWQpKSB7CiAgICAgICAgICAgICAgICBwYXlsb2FkID0ge30KICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgdmVyc2lvbiA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCiAgICAgICAgICAgIGlmIChfLmlzQXJyYXkocGFyYW1zKSl7CiAgICAgICAgICAgICAgICBwYXJhbXMudW5zaGlmdCh2ZXJzaW9uKQogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHBhcmFtcyA9IHZlcnNpb24KICAgICAgICAgICAgfQogICAgICAgICAgICBpZihPYmplY3QuaXNFeHRlbnNpYmxlKHBheWxvYWQpKXsKICAgICAgICAgICAgICAgIHBheWxvYWQuYXJncyA9IHBhcmFtcwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHBheWxvYWQgPSB7IGNvbmZpZzogcGF5bG9hZCwgYXJnczogcGFyYW1zfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpCiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZT0iZGFzaGVkIiA=</text>
+        <text>The selected templete content will be replaced by the data you input below</text>
       </register>
     </registers>
     <search>
