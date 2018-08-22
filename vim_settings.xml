@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1534845028035">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1534904222668">
         <mark key="'" line="78" column="29" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
+        <mark key="[" line="198" column="108" />
+        <mark key="]" line="198" column="107" />
+        <mark key="^" line="198" column="107" />
+        <mark key="." line="198" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animalcosts-table.vue" timestamp="1534303975272">
         <mark key="[" line="14" column="24" />
@@ -344,12 +344,12 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" timestamp="1534903382541">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" timestamp="1534904161993">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="63" column="90" />
-        <mark key="]" line="63" column="88" />
-        <mark key="." line="63" column="88" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="63" column="88" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locales.js" timestamp="1534825315236">
         <mark key="[" line="0" column="0" />
@@ -372,7 +372,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534847403735">
+      <file name="/Dummy.txt" timestamp="1534904351185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1534845679256">
@@ -445,12 +445,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1534847351754">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1534904339176">
         <mark key="'" line="16" column="32" />
-        <mark key="[" line="233" column="75" />
-        <mark key="]" line="233" column="75" />
-        <mark key="^" line="223" column="74" />
-        <mark key="." line="233" column="75" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="196" column="74" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-types.js" timestamp="1534825339853">
         <mark key="[" line="0" column="0" />
@@ -500,37 +500,37 @@
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRQYXlsb2FkKHApewogICAgICAgICAgICB2YXIgcGF5bG9hZCA9IHsKICAgICAgICAgICAgICAgIGNvbmZpZyA6ewogICAgICAgICAgICAgICAgICAgIHBhcmFtczogcCwKICAgICAgICAgICAgICAgICAgICBjYW5jZWxUb2tlbjogYnVzLmZldGNoX2NhbmNlbF90b2tlbi50b2tlbgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, self.decoratePayload()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRQYXlsb2FkKHApewogICAgICAgICAgICB2YXIgcGF5bG9hZCA9IHsKICAgICAgICAgICAgICAgIGNvbmZpZyA6ewogICAgICAgICAgICAgICAgICAgIHBhcmFtczogcCwKICAgICAgICAgICAgICAgICAgICBjYW5jZWxUb2tlbjogYnVzLmZldGNoX2NhbmNlbF90b2tlbi50b2tlbgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRoaXMudG9CZURlbGV0ZWRbJ2ZrJ10gIT0gdW5kZWZpbmVkKXsKICAgICAgICAgICAgICAgICAgICBjb25maWcucGFyYW1zID0ge2lkOiB0aGlzLnRvQmVEZWxldGVkWydpZCddfQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWNvcmF0ZVBheWxvYWQocGF5bG9hZCwgcGFyYW1zPW51bGwpewogICAgICAgICAgICBpZiAoXy5pc0VtcHR5KHBheWxvYWQpKSB7CiAgICAgICAgICAgICAgICBwYXlsb2FkID0ge30KICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgdmVyc2lvbiA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCiAgICAgICAgICAgIGlmIChfLmlzQXJyYXkocGFyYW1zKSl7CiAgICAgICAgICAgICAgICBwYXJhbXMudW5zaGlmdCh2ZXJzaW9uKQogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHBhcmFtcyA9IHZlcnNpb24KICAgICAgICAgICAgfQogICAgICAgICAgICBpZihPYmplY3QuaXNFeHRlbnNpYmxlKHBheWxvYWQpKXsKICAgICAgICAgICAgICAgIHBheWxvYWQuYXJncyA9IHBhcmFtcwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHBheWxvYWQgPSB7IGNvbmZpZzogcGF5bG9hZCwgYXJnczogcGFyYW1zfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpCiAgICAgICAgICAgIHJldHVybiBwYXlsb2FkCiAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjcmVhdGUnLCByZXNwb25zZS5kYXRhLmZrKQo=</text>
+        <text encoding="base64">CQkJCTwvTWVudUl0ZW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVGZXRjaFBheWxvYWQoe3BhcmFtc30pewogICAgICAgICAgICAKICAgICAgICB9LAo=</text>
+        <text encoding="base64">CQkJCTwvTWVudUl0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVQYXlsb2FkKHtpZCwgY29uZmlnLCBwYXJhbXMsIGNhfSl7CiAgICAgICAgICAgIAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhpdGVtX3NlcmlhbHMsIE1hdGgubWF4KC4uLml0ZW1fc2VyaWFscyksIE1hdGgubWF4KC4uLml0ZW1fc2VyaWFscykrMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRoaXMudG9CZURlbGV0ZWRbJ2ZrJ10gIT0gdW5kZWZpbmVkKXsKICAgICAgICAgICAgICAgICAgICBjb25maWcucGFyYW1zID0ge2lkOiB0aGlzLnRvQmVEZWxldGVkWydpZCddfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VzdG9tVXJsRm5BcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjcmVhdGUnLCByZXNwb25zZS5kYXRhLmZrKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJncykK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVGZXRjaFBheWxvYWQoe3BhcmFtc30pewogICAgICAgICAgICAKICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZlcnNpb24sIGN1c3RvbVVybCwgYXJncywgaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVQYXlsb2FkKHtpZCwgY29uZmlnLCBwYXJhbXMsIGNhfSl7CiAgICAgICAgICAgIAogICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, self.decoratePayload()</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
