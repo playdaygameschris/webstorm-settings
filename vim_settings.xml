@@ -126,12 +126,12 @@
         <mark key="." line="16" column="64" />
         <mark key="^" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534845649369">
-        <mark key="'" line="48" column="115" />
-        <mark key="[" line="50" column="68" />
-        <mark key="]" line="50" column="74" />
-        <mark key="." line="50" column="74" />
-        <mark key="^" line="50" column="74" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1534924403377">
+        <mark key="'" line="49" column="115" />
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="10" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="36" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-levelrewards-table.vue" timestamp="1534304181599">
         <mark key="[" line="14" column="26" />
@@ -511,34 +511,34 @@
         <text encoding="base64">aW1wb3J0IHRhZ0xheW91dCBmcm9tICcuL3ZpZXdzL2xheW91dHMvdGFnLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>title</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRuZXh0VGljaygoKSA9PiB7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdCAoc3RhdGUsIGdldHRlcnMpIHsKICAgICAgICAgICAgICAgIHJldHVybiBnZXR0ZXJzW3RoaXMubmFtZXNwYWNlKycvbGlzdCddCiAgICAgICAgICAgIH0sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAnbG9hZGluZycgLAogICAgICAgICAgICAnJwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25fY29kZSA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRuZXh0VGljaygoKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25fY29kZSA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08QnV0dG9uIHR5cGU9ImRhc2hlZCIgQGNsaWNrPSJzaG93SnNvbih7cGF0aHM6IFsnc3RhdGljLWRhdGEnLCB0YWJsZV19KSIgOmRpc2FibGVkPSJsb2FkaW5nIHx8IGNydWREaXNhYmxlZCIgID4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGRpdiBzdHlsZT0iMjVweCI+SnNvbjwvZGl2Pi0tPgogICAgICAgICAgICAgICAgPCEtLTwvQnV0dG9uPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25fY29kZSA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25fY29kZSA9IHRoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>title</text>
