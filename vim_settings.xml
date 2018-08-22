@@ -46,12 +46,12 @@
         <mark key="." line="7" column="106" />
         <mark key="^" line="7" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1534911520947">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1534913177642">
         <mark key="'" line="14" column="31" />
-        <mark key="[" line="58" column="78" />
-        <mark key="]" line="58" column="110" />
-        <mark key="." line="58" column="110" />
-        <mark key="^" line="58" column="110" />
+        <mark key="[" line="58" column="50" />
+        <mark key="]" line="58" column="73" />
+        <mark key="." line="58" column="73" />
+        <mark key="^" line="58" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-locales.js" timestamp="1534825351056">
         <mark key="[" line="0" column="0" />
@@ -257,11 +257,11 @@
         <mark key="." line="132" column="75" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534911677609">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1534913285059">
         <mark key="'" line="253" column="24" />
-        <mark key="[" line="154" column="103" />
-        <mark key="]" line="154" column="124" />
-        <mark key="." line="154" column="124" />
+        <mark key="[" line="154" column="48" />
+        <mark key="]" line="154" column="48" />
+        <mark key="." line="154" column="48" />
         <mark key="^" line="154" column="124" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/switches.js" timestamp="1534825435659">
@@ -510,7 +510,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">dHlwZT0iZGFzaGVkIiA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -537,7 +537,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSB7fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">dHlwZT0iZGFzaGVkIiA=</text>
       </register>
     </registers>
     <search>
