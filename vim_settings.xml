@@ -351,10 +351,11 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table.js" timestamp="1535077229730">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table.js" timestamp="1535080973837">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="32" column="12" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
         <mark key="[" line="5" column="15" />
@@ -449,11 +450,11 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-items.js" timestamp="1535078553875">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="55" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-items.js" timestamp="1535080790354">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="21" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" timestamp="1535014916590">
         <mark key="[" line="2" column="0" />
@@ -492,6 +493,7 @@
         <mark key="^" line="39" column="28" />
         <mark key="." line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/index.js" timestamp="1535080693601" />
     </filemarks>
     <jumps>
       <jump line="18" column="17" filename="$USER_HOME$/Documents/workspace/bids-html/src/views/tables/items-card-table.vue" />
@@ -581,28 +583,35 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3BhcmVudF9uYW1lc3BhY2UnOnsKICAgICAgICAgICAgICAgIHR5cGU6IFN0cmluZywKICAgICAgICAgICAgICAgIGRlZmF1bHQ6IF9wYXJlbnRfbmFtZXNwYWNlCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>console.log(Object.assign(module, staticDataTable))
-console.log(module)
-console.log(staticDataTable)</text>
+        <text encoding="base64">ewogICAgaWRBdHRyaWJ1dGUgPSAnaWQnLAogICAgcmVzb3VyY2UsCiAgICB1cmxSb290LAogICAgY3VzdG9tVXJsRm4gPSBudWxsLAogICAgc3RhdGUgPSB7fSwKICAgIGFjdGlvbnMgPSB7fSwKICAgIG11dGF0aW9ucyA9IHt9LAogICAgZ2V0dGVycyA9IHt9LAogICAgY2xpZW50ID0gZGVmYXVsdENsaWVudCwKICAgIG9uRmV0Y2hMaXN0U3RhcnQgPSAoKSA9PiB7fSwKICAgIG9uRmV0Y2hMaXN0U3VjY2VzcyA9ICgpID0+IHt9LAogICAgb25GZXRjaExpc3RFcnJvciA9ICgpID0+IHt9LAogICAgb25GZXRjaFNpbmdsZVN0YXJ0ID0gKCkgPT4ge30sCiAgICBvbkZldGNoU2luZ2xlU3VjY2VzcyA9ICgpID0+IHt9LAogICAgb25GZXRjaFNpbmdsZUVycm9yID0gKCkgPT4ge30sCiAgICBvbkNyZWF0ZVN0YXJ0ID0gKCkgPT4ge30sCiAgICBvbkNyZWF0ZVN1Y2Nlc3MgPSAoKSA9PiB7fSwKICAgIG9uQ3JlYXRlRXJyb3IgPSAoKSA9PiB7fSwKICAgIG9uVXBkYXRlU3RhcnQgPSAoKSA9PiB7fSwKICAgIG9uVXBkYXRlU3VjY2VzcyA9ICgpID0+IHt9LAogICAgb25VcGRhdGVFcnJvciA9ICgpID0+IHt9LAogICAgb25SZXBsYWNlU3RhcnQgPSAoKSA9PiB7fSwKICAgIG9uUmVwbGFjZVN1Y2Nlc3MgPSAoKSA9PiB7fSwKICAgIG9uUmVwbGFjZUVycm9yID0gKCkgPT4ge30sCiAgICBvbkRlc3Ryb3lTdGFydCA9ICgpID0+IHt9LAogICAgb25EZXN0cm95U3VjY2VzcyA9ICgpID0+IHt9LAogICAgb25EZXN0cm95RXJyb3IgPSAoKSA9PiB7fSwKICAgIG9ubHkgPSBbJ0ZFVENIX0xJU1QnLCAnRkVUQ0hfU0lOR0xFJywgJ0NSRUFURScsICdVUERBVEUnLCAnUkVQTEFDRScsICdERVNUUk9ZJ10sCiAgICBwYXJzZUxpc3QgPSByZXMgPT4gcmVzLAogICAgcGFyc2VTaW5nbGUgPSByZXMgPT4gcmVzLAogICAgcGFyc2VFcnJvciA9IHJlcyA9PiByZXMKfSwg</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">PSByZXMgPT4gcmVzLA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgcmVzb3VyY2U6IGBzdGF0aWNkYXRhLWl0ZW1zYCwKICAgIGN1c3RvbVVybEZuKHZlcnNpb24sIGlkKSB7CiAgICAgICAgcmV0dXJuIGAke2NvbnN0YW50LmFwaV9lbmRwb2ludH0vJHt2ZXJzaW9ufS9zdGF0aWMtZGF0YS9pdGVtcyR7aWQgPyAnLycgKyBpZCA6IG51bGwgfHwgJyd9YAogICAgfSwKICAgIGlkQXR0cmlidXRlOiAnaWQnLAogICAgcGFyc2VMaXN0OiAocmVzcG9uc2UpID0+IHsKICAgICAgICByZXNwb25zZS5kYXRhID0gT2JqZWN0LnZhbHVlcyhyZXNwb25zZS5kYXRhKQogICAgICAgIHJldHVybiByZXNwb25zZQogICAgfSwKICAgIG9uUmVwbGFjZVN1Y2Nlc3M6KHN0YXRlLCByZXNwb25zZSkgPT4gewogICAgICAgIHN0YXRlLmlzRmV0Y2hpbmdMaXN0ID0gdHJ1ZQogICAgfQp9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NyZWF0ZUNydWRNb2R1bGUnLCBjcmVhdGVDcnVkTW9kdWxlKCBtb2R1bGUgKSlkZAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>console.log(Object.assign(module, staticDataTable))
 console.log(module)
 console.log(staticDataTable)</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y29uc3QgT2JqZWN0LmFzc2lnbihzdGF0aWNEYXRhVGFibGUsIHsKICAgIHJlc291cmNlOiBgc3RhdGljZGF0YS1pdGVtc2AsCiAgICBjdXN0b21VcmxGbih2ZXJzaW9uLCBpZCkgewogICAgICAgIHJldHVybiBgJHtjb25zdGFudC5hcGlfZW5kcG9pbnR9LyR7dmVyc2lvbn0vc3RhdGljLWRhdGEvaXRlbXMke2lkID8gJy8nICsgaWQgOiBudWxsIHx8ICcnfWAKICAgIH0sCiAgICBpZEF0dHJpYnV0ZTogJ2lkJywKICAgIHBhcnNlTGlzdDogKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgcmVzcG9uc2UuZGF0YSA9IE9iamVjdC52YWx1ZXMocmVzcG9uc2UuZGF0YSkKICAgICAgICByZXR1cm4gcmVzcG9uc2UKICAgIH0sCiAgICBvblJlcGxhY2VTdWNjZXNzOihzdGF0ZSwgcmVzcG9uc2UpID0+IHsKICAgICAgICBzdGF0ZS5pc0ZldGNoaW5nTGlzdCA9IHRydWUKICAgIH0KfSApCgpjb25zb2xlLmxvZygnbTEnLG0xKQoKY29uc3QgbTIgPSBPYmplY3QuYXNzaWduKHsKICAgIHJlc291cmNlOiBgc3RhdGljZGF0YS1pdGVtc2AsCiAgICBjdXN0b21VcmxGbih2ZXJzaW9uLCBpZCkgewogICAgICAgIHJldHVybiBgJHtjb25zdGFudC5hcGlfZW5kcG9pbnR9LyR7dmVyc2lvbn0vc3RhdGljLWRhdGEvaXRlbXMke2lkID8gJy8nICsgaWQgOiBudWxsIHx8ICcnfWAKICAgIH0sCiAgICBpZEF0dHJpYnV0ZTogJ2lkJywKICAgIHBhcnNlTGlzdDogKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgcmVzcG9uc2UuZGF0YSA9IE9iamVjdC52YWx1ZXMocmVzcG9uc2UuZGF0YSkKICAgICAgICByZXR1cm4gcmVzcG9uc2UKICAgIH0sCiAgICBvblJlcGxhY2VTdWNjZXNzOihzdGF0ZSwgcmVzcG9uc2UpID0+IHsKICAgICAgICBzdGF0ZS5pc0ZldGNoaW5nTGlzdCA9IHRydWUKICAgIH0KfSwgc3RhdGljRGF0YVRhYmxlICkKCmNvbnNvbGUubG9nKCdtMicsbTIpCgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coc3RhdGljRGF0YVRhYmxlKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>state: {
         selection: null
     },
@@ -617,17 +626,8 @@ console.log(staticDataTable)</text>
         }
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWl0KCdzZXRTZWxlY3Rpb24nLCBzZWxlY3Rpb24pCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb246IG51bGwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RzOiB7CiAgICAgICAgICAgIG9uU2VsZWN0KG5hbWUpewoJCQl9CgkJfQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>m1</text>
+        <text encoding="base64">PSByZXMgPT4gcmVzLA==</text>
       </register>
     </registers>
     <search>
