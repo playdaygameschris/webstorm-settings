@@ -20,6 +20,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1535353334492">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranchcosts.js" timestamp="1535353374059">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -254,6 +261,13 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" timestamp="1535099397777">
+        <mark key="'" line="5" column="24" />
+        <mark key="[" line="121" column="68" />
+        <mark key="]" line="121" column="68" />
+        <mark key="." line="121" column="68" />
+        <mark key="^" line="121" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/api/general-api.js" timestamp="1534492027867">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="16" column="0" />
@@ -265,6 +279,13 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1535014908539">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="175" column="104" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitures.js" timestamp="1535094274026">
         <mark key="[" line="2" column="32" />
@@ -295,6 +316,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machinecosts-table.vue" timestamp="1535099434887">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="162" column="64" />
+        <mark key="]" line="162" column="64" />
+        <mark key="." line="162" column="64" />
+        <mark key="^" line="162" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/pending_transactions.js" timestamp="1534411344287">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="32" />
@@ -306,17 +334,25 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1535099986115">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="44" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-rates.js" timestamp="1535353372293">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1535338089467">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="104" column="11" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1535356992648">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="84" column="17" />
+        <mark key="]" line="84" column="24" />
+        <mark key="." line="84" column="24" />
+        <mark key="^" line="84" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1535014936963">
         <mark key="[" line="2" column="0" />
@@ -334,6 +370,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1535014950625">
+        <mark key="'" line="138" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ingredients.js" timestamp="1535353397883">
         <mark key="[" line="3" column="0" />
@@ -400,6 +443,27 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1535014965535">
+        <mark key="'" line="161" column="27" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="157" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-templates-table.vue" timestamp="1535014957857">
+        <mark key="'" line="49" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-countries.js" timestamp="1535353330547">
+        <mark key="'" line="0" column="43" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-levels-layout.vue" timestamp="1535092838484">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -429,13 +493,20 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535354561918">
+      <file name="/Dummy.txt" timestamp="1535356462410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-rates.js" timestamp="1535353408774">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/table-poptip.vue" timestamp="1535019771429">
+        <mark key="'" line="1" column="20" />
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.base.config.js" timestamp="1535342193998">
         <mark key="[" line="3" column="39" />
@@ -454,6 +525,13 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1535014941732">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-types.js" timestamp="1535353368198">
         <mark key="[" line="3" column="0" />
@@ -528,7 +606,6 @@
       <jump line="158" column="27" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
       <jump line="1" column="20" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/table-poptip.vue" />
       <jump line="148" column="39" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
-      <jump line="14" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
       <jump line="15" column="15" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" />
       <jump line="17" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
@@ -568,6 +645,7 @@
       <jump line="5" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" />
       <jump line="6" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machinecosts-table.vue" />
       <jump line="66" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
+      <jump line="14" column="17" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -576,8 +654,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>passive</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
@@ -604,7 +682,7 @@
         <text encoding="base64">aW1wb3J0IHtnfSBmcm9tICIuLi9saWJzL2dsb2JhbCI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ed</text>
+        <text>passive</text>
       </register>
     </registers>
     <search>
