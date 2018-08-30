@@ -210,12 +210,12 @@
         <mark key="]" line="17" column="35" />
         <mark key="." line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/store-hierarchy.puml" timestamp="1535597004769">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/store-hierarchy.puml" timestamp="1535604972367">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="39" column="48" />
-        <mark key="." line="33" column="28" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/switch-table.vue" timestamp="1535426560646">
         <mark key="[" line="49" column="15" />
@@ -297,11 +297,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1535603159553">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="22" />
-        <mark key="^" line="44" column="22" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1535604752562">
+        <mark key="i" line="44" column="29" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="44" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/build_uml.sh" timestamp="1535601885875">
         <mark key="[" line="0" column="0" />
@@ -378,12 +379,12 @@
         <mark key="^" line="39" column="28" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/README.md" timestamp="1535597075657">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/README.md" timestamp="1535604950143">
         <mark key="'" line="23" column="1" />
         <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="465" />
-        <mark key="^" line="28" column="465" />
-        <mark key="." line="28" column="465" />
+        <mark key="]" line="28" column="111" />
+        <mark key="^" line="28" column="111" />
+        <mark key="." line="28" column="111" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/list-shopmenu.js" timestamp="1535426038398">
         <mark key="[" line="3" column="0" />
@@ -435,6 +436,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="20" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/.gitignore" timestamp="1535604460701">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1535014936963">
         <mark key="[" line="2" column="0" />
@@ -580,7 +587,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535603160544">
+      <file name="/Dummy.txt" timestamp="1535604986816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -735,11 +742,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/uml/store-hierarchy.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBpbWFnZTogYXJib3JuZXR3b3Jrcy1kb2NrZXItcHVibGljLWRvY2tlci5iaW50cmF5LmlvL2NpcmNsZWNpLW5vZGUtYXdzOjguNC4wCg==</text>
+      <register name="&quot;" type="4">
+        <text>http://www.plantuml.com/plantuml/png/TL9DJyCm3BtdL-G8X_O7JDKk82IaeQ5rukwbLYca7ueTnBJrlnEQTisgDAVulMVdsR7IG2G_BFu-6LkyjONLU17I7M9Wt0pNH6B35LT8SYFRqnSg7d5T4JiCZ87p237MtJkSTGl5lJfDqr7IWI7SkTI7nubnjrvuiPoT2A5k_ZmY0tEk_AKVmXfSNBKDpH2e1L0YCveHwAVA-N-YUdRvHpXfN1q0eSQXud82RNF0JeF2t2g5H6DBIM30vzw8sivc2JcVAWyZ41seRoWnRenabXsS6ffIutRhXp5ERKvuTLz0KMO_075kXp-euzIBDKt5rc2SFheVryYE3Vpl-HFDcckdY_OdiskIhBGknBmNNXS-8KIm8zarJHSxBUv3Bmde9HNr8Fpv0m00</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>http://www.plantuml.com/plantuml/png/TL9DJyCm3BtdL-G8X_O7JDKk82IaeQ5rukwbLYca7ueTnBJrlnEQTisgDAVulMVdsR7IG2G_BFu-6LkyjONLU17I7M9Wt0pNH6B35LT8SYFRqnSg7d5T4JiCZ87p237MtJkSTGl5lJfDqr7IWI7SkTI7nubnjrvuiPoT2A5k_ZmY0tEk_AKVmXfSNBKDpH2e1L0YCveHwAVA-N-YUdRvHpXfN1q0eSQXud82RNF0JeF2t2g5H6DBIM30vzw8sivc2JcVAWyZ41seRoWnRenabXsS6ffIutRhXp5ERKvuTLz0KMO_075kXp-euzIBDKt5rc2SFheVryYE3Vpl-HFDcckdY_OdiskIhBGknBmNNXS-8KIm8zarJHSxBUv3Bmde9HNr8Fpv0m00</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -748,31 +755,31 @@
         <text encoding="base64">aW1wb3J0IEZpbHRlclNsb3QgZnJvbSAiLi9zdGF0aWNkYXRhLXRhYmxlLXNsb3QtZmlsdGVyLmh0bWwiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBpbWFnZTogYXJib3JuZXR3b3Jrcy1kb2NrZXItcHVibGljLWRvY2tlci5iaW50cmF5LmlvL2NpcmNsZWNpLW5vZGUtYXdzOjguNC4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdzIHMzIGNwIC4vIHMzOi8vZmFybS11bWwvJENJUkNMRV9QUk9KRUNUX1JFUE9OQU1FLyAtLWFjbCBwdWJsaWMtcmVhZCAtLWV4Y2x1ZGUgIioiIC0taW5jbHVkZSAiKi5wbmciCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbW1hbmQ6IHN1ZG8gYXB0LWdldCAteSAtcXEgaW5zdGFsbCBhd3NjbGkK</text>
+        <text encoding="base64">ICAgICAgLSBpbWFnZTogYXJib3JuZXR3b3Jrcy1kb2NrZXItcHVibGljLWRvY2tlci5iaW50cmF5LmlvL2NpcmNsZWNpLW5vZGUtYXdzOjguNC4wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1hbmQ6IHN1ZG8gYXB0LWdldCAteSAtcXEgaW5zdGFsbCBhd3NjbGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgZGQgICAK</text>
+        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VnVleENydWRNb2R1bGUgPHwtLSBPdGhlck1vZHVsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgZGQgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VnVleENydWRNb2R1bGUgPHwtLSBPdGhlck1vZHVsZXMKQ3J1ZE1vZHVsZSA8fC0tIE90aGVyTW9kdWxlcwo=</text>
+        <text encoding="base64">VnVleENydWRNb2R1bGUgPHwtLSBPdGhlck1vZHVsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q3J1ZE1vZHVsZSA8fC0tIFN0YXRpY0RhdGFUYWJsZU1vZHVsZXMK</text>
+        <text encoding="base64">VnVleENydWRNb2R1bGUgPHwtLSBPdGhlck1vZHVsZXMKQ3J1ZE1vZHVsZSA8fC0tIE90aGVyTW9kdWxlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VnVleENydWRNb2R1bGUgPHwtLSBTdGF0aWNEYXRhVGFibGVNb2R1bGVzCg==</text>
+        <text encoding="base64">Q3J1ZE1vZHVsZSA8fC0tIFN0YXRpY0RhdGFUYWJsZU1vZHVsZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8TWVudUl0ZW0gbmFtZT0iMSI+CiAgICAgICAgICAgICAgICAgICAgPHJvdXRlci1saW5rIHYtYmluZDp0bz0iJy8nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPEljb24gdHlwZT0iaG9tZSI+PC9JY29uPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvcm91dGVyLWxpbms+CiAgICAgICAgICAgICAgICA8L01lbnVJdGVtPi0tPgo=</text>
+        <text encoding="base64">VnVleENydWRNb2R1bGUgPHwtLSBTdGF0aWNEYXRhVGFibGVNb2R1bGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
