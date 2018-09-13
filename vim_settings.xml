@@ -152,6 +152,12 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mongo.js" timestamp="1536806981418">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1535430797298">
         <mark key="'" line="41" column="16" />
         <mark key="[" line="60" column="42" />
@@ -199,11 +205,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/index.js" timestamp="1536803840585">
-        <mark key="[" line="60" column="52" />
-        <mark key="]" line="60" column="53" />
-        <mark key="." line="60" column="53" />
-        <mark key="^" line="3" column="54" />
+      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/index.js" timestamp="1536807008151">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitureskins.js" timestamp="1535425895956">
         <mark key="[" line="9" column="0" />
@@ -305,11 +311,11 @@
         <mark key="." line="49" column="26" />
         <mark key="^" line="48" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mysql.js" timestamp="1536727646445">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="15" />
+      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mysql.js" timestamp="1536806977188">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/build_uml.sh" timestamp="1535601885875">
         <mark key="[" line="0" column="0" />
@@ -756,10 +762,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>conn</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>conn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -768,31 +774,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWCBQVVJHRSBodHRwczovL2NhbW8uZ2l0aHVidXNlcmNvbnRlbnQuY29tLzg5ZWM1OTI4ODI0ZWY5MWE5MmMzMGRkYWYzOGU4YmFiZTk3MjE3NWQvNjg3NDc0NzA3MzNhMmYyZjczMzMyZDc1NzMyZDc3NjU3Mzc0MmQzMjJlNjE2ZDYxN2E2ZjZlNjE3NzczMmU2MzZmNmQyZjY2NjE3MjZkMmQ3NTZkNmMyZjY4NmY2ZDY1MmQ3MDYxNmU2NTZjMmQ2ODc0NmQ2YzJmNzM3NDZmNzI2NTJkNjg2OTY1NzI2MTcyNjM2ODc5MmU3MDZlNjcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVzb2x2ZXJzKQo=</text>
+        <text encoding="base64">Ly8gVGhpcyBpcyBhIChzYW1wbGUpIGNvbGxlY3Rpb24gb2YgYm9va3Mgd2UnbGwgYmUgYWJsZSB0byBxdWVyeQovLyB0aGUgR3JhcGhRTCBzZXJ2ZXIgZm9yLiAgQSBtb3JlIGNvbXBsZXRlIGV4YW1wbGUgbWlnaHQgZmV0Y2gKLy8gZnJvbSBhbiBleGlzdGluZyBkYXRhIHNvdXJjZSBsaWtlIGEgUkVTVCBBUEkgb3IgZGF0YWJhc2UuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbnRleHQpCg==</text>
+        <text encoding="base64">Ly8gVHlwZSBkZWZpbml0aW9ucyBkZWZpbmUgdGhlICJzaGFwZSIgb2YgeW91ciBkYXRhIGFuZCBzcGVjaWZ5Ci8vIHdoaWNoIHdheXMgdGhlIGRhdGEgY2FuIGJlIGZldGNoZWQgZnJvbSB0aGUgR3JhcGhRTCBzZXJ2ZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVHlwZSBkZWZpbml0aW9ucyBkZWZpbmUgdGhlICJzaGFwZSIgb2YgeW91ciBkYXRhIGFuZCBzcGVjaWZ5Ci8vIHdoaWNoIHdheXMgdGhlIGRhdGEgY2FuIGJlIGZldGNoZWQgZnJvbSB0aGUgR3JhcGhRTCBzZXJ2ZXIuCmNvbnN0IHR5cGVEZWZzID0gZ3FsYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobXlzcWwpCg==</text>
+        <text encoding="base64">Ly8gVGhpcyBgbGlzdGVuYCBtZXRob2QgbGF1bmNoZXMgYSB3ZWItc2VydmVyLiAgRXhpc3RpbmcgYXBwcwovLyBjYW4gdXRpbGl6ZSBtaWRkbGV3YXJlIG9wdGlvbnMsIHdoaWNoIHdlJ2xsIGRpc2N1c3MgbGF0ZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjb250ZXh0KQo=</text>
+        <text encoding="base64">Ly8gUmVzb2x2ZXJzIGRlZmluZSB0aGUgdGVjaG5pcXVlIGZvciBmZXRjaGluZyB0aGUgdHlwZXMgaW4gdGhlCi8vIHNjaGVtYS4gIFdlJ2xsIHJldHJpZXZlIGJvb2tzIGZyb20gdGhlICJib29rcyIgYXJyYXkgYWJvdmUuCgoKLy8gSW4gdGhlIG1vc3QgYmFzaWMgc2Vuc2UsIHRoZSBBcG9sbG9TZXJ2ZXIgY2FuIGJlIHN0YXJ0ZWQKLy8gYnkgcGFzc2luZyB0eXBlIGRlZmluaXRpb25zICh0eXBlRGVmcykgYW5kIHRoZSByZXNvbHZlcnMKLy8gcmVzcG9uc2libGUgZm9yIGZldGNoaW5nIHRoZSBkYXRhIGZvciB0aG9zZSB0eXBlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">Ly8gY29uc3QgcmVzb2x2ZXJzID0gewovLyAgICAgUXVlcnk6IHsKLy8gICAgICAgICAgICAgYm9va3M6ICgpID0+IGJvb2tzLAovLyAgICAgICAgICAgICBpdGVtczogKHBhcmVudCwgXywgY29udGV4dCkgPT4gewovLyAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKCAocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Ci8vICAgICAgICAgICAgICAgICAgICAgY29udGV4dC5kYi5xdWVyeSgnU0VMRUNUIHJlZiBGUk9NIGl0ZW1zIExJTUlUIDEwJywgKGVycm9yLCByZXN1bHRzLCBmaWVsZHMpID0+IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZShyZXN1bHRzKQovLyAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICB9KQovLyAgICAgICAgICAgICB9Ci8vICAgICB9LAovLyB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzb2x2ZXJzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbnRleHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSByZXNvbHZlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
