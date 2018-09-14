@@ -521,6 +521,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/uml/graphql-component.puml" timestamp="1536898205186">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table-slot-table.html.js" timestamp="1535428246234">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -658,8 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="12" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-templates-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
@@ -758,46 +762,48 @@
       <jump line="51" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" />
       <jump line="47" column="48" filename="$USER_HOME$/Documents/workspace/graphql-server-example/index.js" />
       <jump line="13" column="19" filename="$USER_HOME$/Documents/workspace/graphql-server-example/src/resolvers.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/Documents/workspace/home-graphql/uml/graphql-component.puml" />
+      <jump line="5" column="17" filename="$USER_HOME$/Documents/workspace/home-graphql/uml/graphql-component.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>subcript</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWCBQVVJHRSBodHRwczovL2NhbW8uZ2l0aHVidXNlcmNvbnRlbnQuY29tLzg5ZWM1OTI4ODI0ZWY5MWE5MmMzMGRkYWYzOGU4YmFiZTk3MjE3NWQvNjg3NDc0NzA3MzNhMmYyZjczMzMyZDc1NzMyZDc3NjU3Mzc0MmQzMjJlNjE2ZDYxN2E2ZjZlNjE3NzczMmU2MzZmNmQyZjY2NjE3MjZkMmQ3NTZkNmMyZjY4NmY2ZDY1MmQ3MDYxNmU2NTZjMmQ2ODc0NmQ2YzJmNzM3NDZmNzI2NTJkNjg2OTY1NzI2MTcyNjM2ODc5MmU3MDZlNjcK</text>
+        <text encoding="base64">QXBwIC4uLiBbR3JhcGhxbF0gOiBjYWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IFN0cmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJsSXRlbTogbW9uZ29vc2UubW9kZWwoJ0JsSXRlbScsIEJsSXRlbVNjaGVtYSkK</text>
+        <text encoding="base64">QQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEJsSXRlbSkK</text>
+        <text encoding="base64">ICAgIFJldHJpZXZlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGIub3BlbigpCg==</text>
+        <text encoding="base64">ICAgIFJlZnJlc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJsSXRlbTogCg==</text>
+        <text encoding="base64">KCkgIk90aGVyIFRhc2tzIiAuLi4gW0dyYXBocWxdIDogY2FsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbnRleHQubW9uZ28pCiAgICAgICAgICAgICAgICBjb250ZXh0Lm1vbmdvLmZpbmQoe3JlZjogJ2JhdDAxNSd9KS5leGVjKChlcnJvciwgcmVzdWx0cykgPT4gewogICAgICAgICAgICAgICAgICAgIHJlc29sdmUocmVzdWx0cykKICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">KCkgIiIgLi4uIFtHcmFwaHFsXSA6IGNhbGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgICBkYjogbW9uZ29vc2UuY29ubmVjdChgbW9uZ29kYjovLyR7aG9zdH06JHtwb3J0fS8ke2RhdGFiYXNlfWAsIHsgdXNlTmV3VXJsUGFyc2VyOiB0cnVlIH0pLAogICAgYmxfaXRlbTogQmxJdGVtCn0K</text>
+        <text encoding="base64">KCkgIk90aGVyIFRhc2tzIiAuLi4gW0dyYXBocWxdIDogY2FsbAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYmxfaXRlbSkK</text>
+        <text encoding="base64">bm90ZSBsZWZ0IG9mICgpICJPdGhlciBUYXNrcyIKICAgIFJlZnJlc2gKZW5kIG5vdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJsX2l0ZW06IEJsSXRlbQo=</text>
+        <text encoding="base64">cGFja2FnZSAiU29tZSBHcm91cCIgewpIVFRQIC0gW0ZpcnN0IENvbXBvbmVudF0KW0Fub3RoZXIgQ29tcG9uZW50XQp9CgpwYWNrYWdlICJPdGhlciBHcm91cHMiIHsKRlRQIC0gW1NlY29uZCBDb21wb25lbnRdCgpbRmlyc3QgQ29tcG9uZW50XSAtLT4gRlRQCn0K</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
