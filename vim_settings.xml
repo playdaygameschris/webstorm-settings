@@ -223,11 +223,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1537240795310">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1537256518464">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/memcached.js" timestamp="1536913318352">
         <mark key="[" line="14" column="4" />
@@ -294,11 +294,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/user.js" timestamp="1537248853546">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/user.js" timestamp="1537256050638">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table-slot-filter.html.js" timestamp="1535428147123">
         <mark key="[" line="24" column="0" />
@@ -649,11 +649,11 @@
         <mark key="]" line="4" column="51" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/index.js" timestamp="1537248847096">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/index.js" timestamp="1537255390684">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+        <mark key="^" line="29" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1535425868581">
         <mark key="[" line="9" column="0" />
@@ -815,10 +815,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>cache</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>cache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -828,31 +828,31 @@
 -</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhcmVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyZW50LF8pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZXJRdWVyeTogewogICAgICAgIHVzZXJfc3RhdHM6ICh7IHVzZXJfaWQgfSwgXyAsIGNvbnRleHQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIGNvbnRleHQubXlzcWwucXVlcnkoU0VMRUNUX1VTRVJfU1RBVFMsIFt1c2VyX2lkXSwgKGVycm9yLCByZXN1bHRzLCBmaWVsZHMpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXNvbHZlKHJlc3VsdHNbMF0pCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVzZXJRdWVyeTogewogICAgICAgIHVzZXJfc3RhdHM6ICh7IHVzZXJfaWQgfSwgXyAsIGNvbnRleHQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIGNvbnRleHQubXlzcWwucXVlcnkoU0VMRUNUX1VTRVJfU1RBVFMsIFt1c2VyX2lkXSwgKGVycm9yLCByZXN1bHRzLCBmaWVsZHMpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXNvbHZlKHJlc3VsdHNbMF0pCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlIFVzZXJRdWVyeXsKICAgIHN0YXRzOiBVc2VyU3RhdHMgCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHVzZXJfaWQgPSBwYXJlbnQgPyBwYXJlbnQudXNlcl9pZCA6IGFyZ3MudXNlcl9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhcmVudCkK</text>
+        <text encoding="base64">ICAgICAgICBtZW1jYWNoZWRfdXNlcjogKHBhcmVudCwgeyB1c2VyX2lkIH0sIGNvbnRleHQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIHJlc29sdmVfY2FjaGUoY29udGV4dCwgcmVzb2x2ZSwgcmVqZWN0LCAnaXRlbScsICd1c2VyJywgdXNlcl9pZCkKICAgICAgICAgICAgfSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXJfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvdXJjZSA9PSAiTVlTUUwiKXsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBhcmVudCl7IGNvbnN0IHVzZXJfaWQgPSBwYXJlbnQudXNlcl9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc291cmNlLCB1c2VyX2lkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
