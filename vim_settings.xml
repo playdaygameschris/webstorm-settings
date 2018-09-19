@@ -223,11 +223,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1537333846405">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1537334980852">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/memcached.js" timestamp="1536913318352">
         <mark key="[" line="14" column="4" />
@@ -813,10 +813,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pickle</text>
+        <text>decode</text>
       </register>
       <register name="-" type="4">
-        <text>pickle</text>
+        <text>decode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
