@@ -211,11 +211,12 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1537333123287">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1537343694973">
+        <mark key="'" line="34" column="14" />
+        <mark key="[" line="42" column="85" />
+        <mark key="]" line="42" column="98" />
+        <mark key="^" line="42" column="98" />
+        <mark key="." line="42" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/uml/before-component.puml" timestamp="1536908442587">
         <mark key="'" line="19" column="0" />
@@ -664,7 +665,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537332187989">
+      <file name="/Dummy.txt" timestamp="1537343617903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-rates.js" timestamp="1535425878946">
@@ -715,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" />
       <jump line="198" column="26" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" />
       <jump line="141" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" />
@@ -815,13 +815,14 @@
       <jump line="5" column="17" filename="$USER_HOME$/Documents/workspace/home-graphql/uml/graphql-component.puml" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/uml/before-component.puml" />
       <jump line="11" column="31" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
+      <jump line="34" column="14" filename="$USER_HOME$/Documents/workspace/home-graphql/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW5zdGFuY2VvZiByZXN1bHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
