@@ -186,7 +186,7 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1539571575473">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1539574403975">
         <mark key="'" line="7" column="35" />
         <mark key="[" line="46" column="29" />
         <mark key="]" line="46" column="33" />
@@ -522,10 +522,11 @@
       <file name="/JavaScript Console" timestamp="1538446190266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/stock.js" timestamp="1539572267990">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/stock.js" timestamp="1539574671853">
+        <mark key="[" line="18" column="85" />
+        <mark key="]" line="18" column="91" />
+        <mark key="." line="18" column="91" />
+        <mark key="^" line="18" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1535014934036">
         <mark key="[" line="2" column="0" />
@@ -689,10 +690,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>world_id</text>
+        <text>userId</text>
       </register>
       <register name="-" type="4">
-        <text>world_id</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
