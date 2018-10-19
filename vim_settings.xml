@@ -300,12 +300,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1539915305419">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="95" column="78" />
-        <mark key="]" line="95" column="87" />
-        <mark key="." line="95" column="87" />
-        <mark key="^" line="95" column="87" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1539917258447">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="30" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="101" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1535014938940">
         <mark key="[" line="2" column="0" />
@@ -430,7 +429,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/google-protobuf/google/protobuf/timestamp_pb.js" timestamp="1539854910850">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/google-protobuf/google/protobuf/timestamp_pb.js" timestamp="1539916570191">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -558,7 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="30" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
       <jump line="14" column="13" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" />
       <jump line="176" column="96" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
       <jump line="16" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
@@ -658,13 +656,14 @@
       <jump line="13" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
       <jump line="16" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/utils.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/utils.js" />
+      <jump line="95" column="95" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -673,31 +672,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdtZW1jYWNoZWQgc2V0IGFiMnN0cicsYWIyc3RyKHJlcy5wYXlsb2FkLnNlcmlhbGl6ZUJpbmFyeSgpKSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChjb25zdCBbaW5kZXgsIHZhbHVlXSBvZiB2YWx1ZXMuZW50cmllcygpKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh2YWx1ZSBpbnN0YW5jZW9mIERhdGUpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlc1tpbmRleF0gPSBbdmFsdWUvMTAwMCwgdmFsdWUuZ2V0TWlsbGlzZWNvbmRzKCldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVzID0gWycxMjMnLCwsWzE1Mzk5MTUyMDcsMTIzXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXAuc2V0U2Vjb25kcygxMDAwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXAuZnJvbURhdGUodmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXQgdGltZXN0YW1wID0gbmV3IHByb3RvLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXAoKVYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXAuc2V0U2Vjb25kcygxKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVzdGFtcC5zZXROYW5vcygxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhYmxlID09ICd1c2VyX3N0YXRzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBheWxvYWQuc2V0Q3JlYXRlVGltZShuZXcgcHJvdG8uZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhpbmRleCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocGF5bG9hZC50b09iamVjdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXAuc2V0U2Vjb25kcygxMDAwMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWVzLnRvT2JqZWN0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXAuZnJvbURhdGUodmFsdWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aW1lc3RhbXAudG9PYmplY3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhYmxlID09ICd1c2VyX3N0YXRzJykK</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
