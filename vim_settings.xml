@@ -520,12 +520,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/index.js" timestamp="1540198821008">
-        <mark key="'" line="37" column="14" />
-        <mark key="[" line="107" column="18" />
-        <mark key="]" line="107" column="18" />
-        <mark key="." line="107" column="18" />
-        <mark key="^" line="107" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/index.js" timestamp="1540200848071">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1535425868581">
         <mark key="[" line="9" column="0" />
@@ -575,7 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="56" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" />
       <jump line="148" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
       <jump line="51" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
@@ -675,6 +674,7 @@
       <jump line="101" column="16" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
       <jump line="61" column="15" filename="$USER_HOME$/Documents/workspace/home-graphql/index.js" />
       <jump line="37" column="14" filename="$USER_HOME$/Documents/workspace/home-graphql/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
