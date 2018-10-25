@@ -51,6 +51,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1540435769588">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -129,12 +135,12 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" timestamp="1540376033037">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" timestamp="1540435265630">
         <mark key="'" line="176" column="41" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
-        <mark key="^" line="201" column="111" />
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/sd.js" timestamp="1540348190924">
         <mark key="'" line="24" column="4" />
@@ -198,11 +204,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1540432869358">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="36" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1540435143235">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="33" column="4" />
         <mark key="^" line="36" column="36" />
-        <mark key="." line="36" column="36" />
+        <mark key="." line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1540350037531">
         <mark key="'" line="49" column="4" />
@@ -537,11 +543,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/index.js" timestamp="1540434057589">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/index.js" timestamp="1540435309596">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1535425868581">
         <mark key="[" line="9" column="0" />
@@ -549,7 +554,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540433608148">
+      <file name="/Dummy.txt" timestamp="1540435197283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -699,11 +704,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTUVNQ0FDSEVEX0hPU1QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>'home_db'</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -712,36 +717,36 @@
         <text encoding="base64">ICAgIHN3aXRjaGVzKHZlcnNpb25Db2RlOiBJbnQ9MCwgc3Rha2Vob2xkZXI6IFN0YWtlaG9sZGVyPUZST05URU5EKTogSlNPTgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTUVNQ0FDSEVEX0hPU1QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTUVNQ0FDSEVEX0hPU1QpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>{
     accessKeyId: &quot;AKIAIRWRBXSTH6JNYW7A&quot;,
     secretAccessKey:&quot;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&quot;
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbikK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
     return user_id + pk == 'worldId' ? '-farm' : '' +  pk == 'houseId' ? '-house' : ''
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgKz0gcGsgPT0gJ2hvdXNlSWQnID8gJy1ob3VzZScgOiAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
