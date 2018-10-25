@@ -51,11 +51,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1540437502748">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1540438928574">
+        <mark key="'" line="18" column="22" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
         <mark key="[" line="23" column="0" />
@@ -608,9 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="43" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machinecosts-table.vue" />
-      <jump line="121" column="68" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animalcosts-table.vue" />
-      <jump line="5" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" />
       <jump line="6" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machinecosts-table.vue" />
       <jump line="66" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
       <jump line="14" column="17" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
@@ -708,13 +706,16 @@
       <jump line="253" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="176" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/.env" />
+      <jump line="16" column="20" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="17" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="18" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">ICAgICAgICAgICAgYXdzIHMzIGNwIC0tcmVjdXJzaXZlIC0tYWNsIHB1YmxpYy1yZWFkIC4vZGlzdCBzMzovLyRDSVJDTEVfQlJBTkNILSRQUk9KRUNULXBhbmVsLWh0bWwvZGlzdAogICAgICAgICAgICBhd3MgczMgY3AgLS1hY2wgcHVibGljLXJlYWQgLi9pbmRleF9wcm9kLmh0bWwgczM6Ly8kQ0lSQ0xFX0JSQU5DSC0kUFJPSkVDVC1wYW5lbC1odG1sLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>panel-html</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
