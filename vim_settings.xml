@@ -51,11 +51,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1540435769588">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1540437502748">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
         <mark key="[" line="23" column="0" />
@@ -519,6 +519,12 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1540437033184">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-levels-layout.vue" timestamp="1535358373916">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="30" />
@@ -704,11 +710,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdzIHMzIGNwIC0tcmVjdXJzaXZlIC0tYWNsIHB1YmxpYy1yZWFkIC4vZGlzdCBzMzovLyRDSVJDTEVfQlJBTkNILSRQUk9KRUNULXBhbmVsLWh0bWwvZGlzdAogICAgICAgICAgICBhd3MgczMgY3AgLS1hY2wgcHVibGljLXJlYWQgLi9pbmRleF9wcm9kLmh0bWwgczM6Ly8kQ0lSQ0xFX0JSQU5DSC0kUFJPSkVDVC1wYW5lbC1odG1sLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>panel-html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -717,36 +723,31 @@
         <text encoding="base64">ICAgIHN3aXRjaGVzKHZlcnNpb25Db2RlOiBJbnQ9MCwgc3Rha2Vob2xkZXI6IFN0YWtlaG9sZGVyPUZST05URU5EKTogSlNPTgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdzIHMzIGNwIC0tcmVjdXJzaXZlIC0tYWNsIHB1YmxpYy1yZWFkIC4vZGlzdCBzMzovLyRDSVJDTEVfQlJBTkNILSRQUk9KRUNULXBhbmVsLWh0bWwvZGlzdAogICAgICAgICAgICBhd3MgczMgY3AgLS1hY2wgcHVibGljLXJlYWQgLi9pbmRleF9wcm9kLmh0bWwgczM6Ly8kQ0lSQ0xFX0JSQU5DSC0kUFJPSkVDVC1wYW5lbC1odG1sLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTUVNQ0FDSEVEX0hPU1QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnBtIHJ1biBidWlsZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3AgLXIgLi9lbnYvY29uc3QuJENJUkNMRV9CUkFOQ0guanMgLi9zcmMvY29uc3QuanMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1cGxvYWQtdW1sOgogICAgZG9ja2VyOgogICAgICAtIGltYWdlOiBjaXJjbGVjaS9vcGVuamRrOjgtamRrLWJyb3dzZXJzCiAgICBzdGVwczoKICAgICAgLSBjaGVja291dAogICAgICAtIHJ1bjoKICAgICAgICAgIGNvbW1hbmQ6IHN1ZG8gYXB0LWdldCAteSAtcXEgaW5zdGFsbCBhd3NjbGkgZ3JhcGh2aXoKICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBidWlsZAogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBjZCB1bWwKICAgICAgICAgICAgamF2YSAtamFyIHBsYW50dW1sLmphciAqLnB1bWwKICAgICAgICAgICAgYXdzIHMzIGNwIC4gczM6Ly9mYXJtLXVtbC8kQ0lSQ0xFX1BST0pFQ1RfUkVQT05BTUUvICAtLXJlY3Vyc2l2ZSAtLWV4Y2x1ZGUgIioiICAtLWluY2x1ZGUgIioucG5nIiAtLWFjbCBwdWJsaWMtcmVhZAogICAgICAtIHJ1bjoKICAgICAgICAgIG5hbWU6IGNsZWFuIGdpdGh1YiBpbWFnZSBjYWNoZQogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBjdXJsIC1YIFBVUkdFIGh0dHBzOi8vY2Ftby5naXRodWJ1c2VyY29udGVudC5jb20vODllYzU5Mjg4MjRlZjkxYTkyYzMwZGRhZjM4ZThiYWJlOTcyMTc1ZC82ODc0NzQ3MDczM2EyZjJmNzMzMzJkNzU3MzJkNzc2NTczNzQyZDMyMmU2MTZkNjE3YTZmNmU2MTc3NzMyZTYzNmY2ZDJmNjY2MTcyNmQyZDc1NmQ2YzJmNjg2ZjZkNjUyZDcwNjE2ZTY1NmMyZDY4NzQ2ZDZjMmY3Mzc0NmY3MjY1MmQ2ODY5NjU3MjYxNzI2MzY4NzkyZTcwNmU2NwogICAgICAgICAgICBjdXJsIC1YIFBVUkdFIGh0dHBzOi8vY2Ftby5naXRodWJ1c2VyY29udGVudC5jb20vNjMxNmNmYTY3NmVhYWY1OGEwYzE0YmEwNjM4MDFlNzdjYTMwYmI3My82ODc0NzQ3MDczM2EyZjJmNzMzMzJkNzU3MzJkNzc2NTczNzQyZDMyMmU2MTZkNjE3YTZmNmU2MTc3NzMyZTYzNmY2ZDJmNjY2MTcyNmQyZDc1NmQ2YzJmNjg2ZjZkNjUyZDcwNjE2ZTY1NmMyZDY4NzQ2ZDZjMmY2MzZmNmQ3MDZmNmU2NTZlNzQyZDY4Njk2NTcyNjE3MjYzNjg3OTJlNzA2ZTY3Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-    accessKeyId: &quot;AKIAIRWRBXSTH6JNYW7A&quot;,
-    secretAccessKey:&quot;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&quot;
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTUVNQ0FDSEVEX0hPU1QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbikK</text>
+        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    return user_id + pk == 'worldId' ? '-farm' : '' +  pk == 'houseId' ? '-house' : ''
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MTEyMTEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
