@@ -221,7 +221,7 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1540779890659">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1540782552471">
         <mark key="[" line="19" column="3" />
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
@@ -503,11 +503,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig.yaml" timestamp="1540519449963">
-        <mark key="[" line="4" column="68" />
-        <mark key="]" line="4" column="75" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig.yaml" timestamp="1540782562346">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
         <mark key="^" line="4" column="75" />
-        <mark key="." line="4" column="75" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1535014938940">
         <mark key="[" line="2" column="0" />
@@ -720,11 +720,11 @@
       <jump line="28" column="25" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gWyBdIHJlcXVlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>PROJECT_NAME</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
