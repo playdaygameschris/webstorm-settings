@@ -162,12 +162,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/query.js" timestamp="1540347651792">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/query.js" timestamp="1540876236588">
         <mark key="'" line="11" column="12" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="4" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="43" column="4" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="^" line="49" column="53" />
+        <mark key="." line="49" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1534411828502">
         <mark key="[" line="17" column="36" />
@@ -226,11 +226,12 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1540350037531">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1540876366601">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/memcached.js" timestamp="1540520794389">
         <mark key="[" line="21" column="35" />
@@ -719,8 +720,8 @@
       <jump line="28" column="25" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW52aXJvbm1lbnQ6CiAgSU9QSVBFX1RPS0VOOiBleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKemRXSWlPaUpsTnpkbFpHTmhOaTB3WVdZM0xUUmhaakF0WWprMlpDMWxZelk0WVdKa1pERTROelFpTENKcWRHa2lPaUprWVRKa05EQm1NaTFsT0RrMkxUUmlaV1F0WVdGaVppMHhZMkU1Wm1GaVpUQmxaVFlpTENKcFlYUWlPakUxTkRBNE5qazJOekFzSW1semN5STZJbWgwZEhCek9pOHZhVzl3YVhCbExtTnZiU0lzSW1GMVpDSTZJbWgwZEhCek9pOHZhVzl3YVhCbExtTnZiU3hvZEhSd2N6b3ZMMjFsZEhKcFkzTXRZWEJwTG1sdmNHbHdaUzVqYjIwdlpYWmxiblF2TEdoMGRIQnpPaTh2WjNKaGNHaHhiQzVwYjNCcGNHVXVZMjl0SW4wLjYzUkZTMi1idnp3aFdqNHJEMkRzWS1MSlJSQXk5ZUlJOVhWSWhnMUpLclEK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
