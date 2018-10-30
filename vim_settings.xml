@@ -9,12 +9,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1540865972354">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="49" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1540867378443">
+        <mark key="'" line="39" column="25" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1535428280582">
         <mark key="[" line="23" column="0" />
@@ -576,7 +576,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540803510067">
+      <file name="/Dummy.txt" timestamp="1540867385185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.base.config.js" timestamp="1535342193998">
@@ -720,8 +720,8 @@
       <jump line="28" column="25" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;cd300524121b402fa04bf6b158638efb&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;cd300524121b402fa04bf6b158638efb&quot;</text>
@@ -733,22 +733,22 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhwb3J0IEFQT0xMT19FTkRQT0lOVD0kKHN1ZG8gc2VydmVybGVzcyBkZXBsb3kgfCBzZWQgLW4gJy8gIFBPU1QgLSAvcCcgfCBzZWQgJ3MvICBQT1NUIC0gLy8nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBzdWJuZXQtMjUzYzU2NmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBzdWJuZXQtYWQzZjU1ZTYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb2xsYmFyLgo=</text>
+        <text encoding="base64">ICAgICAgLSBzdWJuZXQtMjUzYzU2NmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwb3J0IEFQT0xMT19FTkRQT0lOVD0kKHN1ZG8gc2VydmVybGVzcyBkZXBsb3kgfCBzZWQgLW4gJy8gIFBPU1QgLSAvcCcgfCBzZWQgJ3MvICBQT1NUIC0gLy8nKQo=</text>
+        <text encoding="base64">ICAgICAgLSBzdWJuZXQtYWQzZjU1ZTYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb2xsYmFyLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwb3J0IEFQT0xMT19FTkRQT0lOVD0kKHN1ZG8gc2VydmVybGVzcyBkZXBsb3kgfCBzZWQgLW4gJy8gIFBPU1QgLSAvcCcgfCBzZWQgJ3MvICBQT1NUIC0gLy8nKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -757,7 +757,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciByb2xsYmFyID0gbmV3IFJvbGxiYXIoewogICAgLy8gICAgIGFjY2Vzc1Rva2VuOiAiY2QzMDA1MjQxMjFiNDAyZmEwNGJmNmIxNTg2MzhlZmIiLAogICAgLy8gICAgIGNhcHR1cmVVbmNhdWdodDogdHJ1ZSwKICAgIC8vICAgICBjYXB0dXJlVW5oYW5kbGVkUmVqZWN0aW9uczogdHJ1ZQogICAgLy8gfSk7CiAgICAvLwogICAgLy8gZXhwb3J0cy5ncmFwaHFsSGFuZGxlciA9IHJvbGxiYXIubGFtYmRhSGFuZGxlcigoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSA9PiB7CiAgICAvLyAgICAgY29udGV4dC5jYWxsYmFja1dhaXRzRm9yRW1wdHlFdmVudExvb3AgPSBmYWxzZTsKICAgIC8vICAgICB2YXIgZXJyID0gbmV3IEVycm9yKCdib3JrIGJvcmsnKTsKICAgIC8vICAgICBjYWxsYmFjayhlcnIsIG51bGwpOwogICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
