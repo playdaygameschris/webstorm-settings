@@ -477,11 +477,11 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1541145607645">
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="51" />
-        <mark key="^" line="74" column="51" />
-        <mark key="." line="74" column="51" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1541146405881">
+        <mark key="[" line="51" column="106" />
+        <mark key="]" line="51" column="112" />
+        <mark key="^" line="51" column="112" />
+        <mark key="." line="51" column="112" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1541066573650">
         <mark key="[" line="0" column="0" />
@@ -639,7 +639,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541145613226">
+      <file name="/Dummy.txt" timestamp="1541146407326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -865,6 +865,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
