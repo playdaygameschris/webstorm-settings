@@ -196,7 +196,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1541481867268">
+      <file name="/GraphQL.variables.json" timestamp="1541488724057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/README.md" timestamp="1535423093713">
@@ -514,11 +514,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1541481750690">
-        <mark key="[" line="131" column="4" />
-        <mark key="]" line="131" column="8" />
-        <mark key="^" line="131" column="8" />
-        <mark key="." line="131" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1541488744654">
+        <mark key="[" line="121" column="4" />
+        <mark key="]" line="121" column="10" />
+        <mark key="^" line="121" column="10" />
+        <mark key="." line="121" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/index.js" timestamp="1541407607946">
         <mark key="[" line="16" column="4" />
@@ -627,11 +627,11 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/test.js" timestamp="1541482344697">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/test.js" timestamp="1541488612222">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
         <mark key="[" line="5" column="15" />
@@ -815,10 +815,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cwException</text>
+        <text>userId</text>
       </register>
       <register name="-" type="4">
-        <text>cwException</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -827,31 +827,31 @@
         <text encoding="base64">Y29uc3QgcXVlcnkxID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBjb25zdCBvYmogPQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBjb25zb2xlLmxvZyhwYXlsb2FkW2tleV0pCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdHRycykK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIGlmIChwYXlsb2FkW2tleV0gaW5zdGFuY2VvZiBPYmplY3QpIHsKCiAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICBjb25zdCBvYmogPQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBjb25zb2xlLmxvZyhwYXlsb2FkW2tleV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pLmpvaW4oJywnKQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdHRycykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pLmpvaW4oJywnKQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBhdHRycyA9IFtdCiAgICBmb3IgKGF0dHIgb2YgcGF5bG9hZCl7CiAgICAgICAgaWYgKGF0dHIgaW5zdGFuY2VvZiBPYmplY3QpewogICAgICAgICAgICBhdHRycy5hcHBlbmQoYCR7YXR0cn17JHt9YCkKICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgYXR0cnMuYXBwZW5kKGF0dHIpCiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
