@@ -718,11 +718,10 @@
       <file name="/Dummy.txt" timestamp="1541475485669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/jest.js" timestamp="1541478004303">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/jest.js" timestamp="1541478898921">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.base.config.js" timestamp="1535342193998">
         <mark key="[" line="3" column="39" />
@@ -872,7 +871,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyb290RGlyIjogIi4iCg==</text>
+        <text encoding="base64">amVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -884,25 +883,25 @@
         <text encoding="base64">Y29uc3QgcXVlcnkxID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyb290RGlyIjogIi4iCg==</text>
+        <text encoding="base64">amVzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJyb290RGlyIjogIi4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0UmVnZXgiOiAiLi90ZXN0L2FsbC50ZXN0LmpzJCIsCg==</text>
+        <text encoding="base64">ICAgICJyb290RGlyIjogIi4iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0UmVnZXgiOiAiLi90ZXN0L2FsbC50ZXN0LmpzJCIsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRbJ2RhdGEnXVtuYW1lc3BhY2VdID0gYXR0cnMKICAgICAgICAgICAgZXhwZWN0ZWRbJ2RhdGEnXVtgX215c3FsXyR7bmFtZXNwYWNlfWBdID0gYXR0cnMKICAgICAgICAgICAgZXhwZWN0ZWRbJ2RhdGEnXVtgX21lbWNhY2hlZF8ke25hbWVzcGFjZX1gXSA9IGkgPT0gMSA/IG51bGwgOiBhdHRycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRbJ2RhdGEnXVtuYW1lc3BhY2VdID0gYXR0cnMKICAgICAgICAgICAgZXhwZWN0ZWRbJ2RhdGEnXVtgX215c3FsXyR7bmFtZXNwYWNlfWBdID0gYXR0cnMKICAgICAgICAgICAgZXhwZWN0ZWRbJ2RhdGEnXVtgX21lbWNhY2hlZF8ke25hbWVzcGFjZX1gXSA9IGkgPT0gMSA/IG51bGwgOiBhdHRycwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
