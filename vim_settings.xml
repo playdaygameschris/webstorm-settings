@@ -231,7 +231,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1541559858351">
+      <file name="/GraphQL.variables.json" timestamp="1541561431491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/ranch.js" timestamp="1541491263258">
@@ -356,10 +356,10 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/furniture.js" timestamp="1541495330120">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/furniture.js" timestamp="1541561668679">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
         <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table.html.js" timestamp="1535432322324">
@@ -660,11 +660,11 @@
         <mark key="^" line="7" column="108" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1541559797088">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1541561803244">
         <mark key="'" line="72" column="27" />
-        <mark key="[" line="37" column="59" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="37" column="49" />
         <mark key="^" line="37" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
@@ -886,10 +886,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BigInt</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>BigInt</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
