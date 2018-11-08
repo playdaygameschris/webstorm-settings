@@ -57,12 +57,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1541586639165">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1541662009704">
         <mark key="'" line="19" column="25" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="81" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
         <mark key="^" line="16" column="81" />
-        <mark key="." line="16" column="81" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
         <mark key="[" line="23" column="0" />
@@ -847,10 +847,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev-home-gen.0wphg2.cfg.usw2.cache.amazonaws.com:11211</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>dev-home-gen.0wphg2.cfg.usw2.cache.amazonaws.com:11211</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
