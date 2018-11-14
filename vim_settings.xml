@@ -622,6 +622,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table-module.js" timestamp="1542191522133">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1535092804824">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="4" column="0" />
@@ -696,6 +701,7 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="78" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-decorationcosts.js" timestamp="1542191447126" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
         <mark key="]" line="10" column="170" />
@@ -764,7 +770,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542169868050">
+      <file name="/Dummy.txt" timestamp="1542191529446">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -925,8 +931,8 @@
       <jump line="18" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/test/cases/machine.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>version_code</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9uUmVwbGFjZVN1Y2Nlc3M6KHN0YXRlLCByZXNwb25zZSkgPT4gewogICAgICAgIHN0YXRlLmlzRmV0Y2hpbmdMaXN0ID0gdHJ1ZQogICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>version_code</text>
@@ -938,31 +944,31 @@
         <text>isEmpty</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWN0W10K</text>
+        <text encoding="base64">ICAgIG9uUmVwbGFjZVN1Y2Nlc3M6KHN0YXRlLCByZXNwb25zZSkgPT4gewogICAgICAgIHN0YXRlLmlzRmV0Y2hpbmdMaXN0ID0gdHJ1ZQogICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWN0W10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWN0W3hbXV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZGkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3RbeFswXV0gPSB4Lmxlbmd0aCA+IDEgPyBbLi4uKGRpY3RbeF18fFtdKSwgeF0gOiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWN0W3hbXV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxldmVsID0gMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3RbeFswXV0gPSB4Lmxlbmd0aCA+IDEgPyBbLi4uKGRpY3RbeF18fFtdKSwgeF0gOiBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxldmVsID0gMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpY3QgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyb3VwZWQgPSBncm91cEJ5KGNhdGVnb3J5cywgeCA9PiB4WzBdKQogICAgICAgICAgICBjb25zb2xlLmxvZyhncm91cGVkKQogICAgICAgICAgICB2YXIgZGljdCA9IHt9CiAgICAgICAgICAgIE9iamVjdC5rZXlzKGdyb3VwZWQpLm1hcCggeCA9PiB7CiAgICAgICAgICAgICAgICBkaWN0W3hdID0gZ3JvdXBlZFt4XQogICAgICAgICAgICB9KQogICAgICAgICAgICByZXR1cm4gZGljdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpY3QgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4OiBncm91cGVkW3hdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyb3VwZWQgPSBncm91cEJ5KGNhdGVnb3J5cywgeCA9PiB4WzBdKQogICAgICAgICAgICBjb25zb2xlLmxvZyhncm91cGVkKQogICAgICAgICAgICB2YXIgZGljdCA9IHt9CiAgICAgICAgICAgIE9iamVjdC5rZXlzKGdyb3VwZWQpLm1hcCggeCA9PiB7CiAgICAgICAgICAgICAgICBkaWN0W3hdID0gZ3JvdXBlZFt4XQogICAgICAgICAgICB9KQogICAgICAgICAgICByZXR1cm4gZGljdAo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
