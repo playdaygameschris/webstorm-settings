@@ -110,11 +110,11 @@
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animalcosts.js" timestamp="1541736274845">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levels.js" timestamp="1541736548206">
-        <mark key="[" line="18" column="106" />
-        <mark key="]" line="18" column="106" />
-        <mark key="^" line="18" column="106" />
-        <mark key="." line="18" column="106" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levels.js" timestamp="1542169841408">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="49" />
+        <mark key="^" line="10" column="49" />
+        <mark key="." line="10" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/test-component.vue" timestamp="1534491608427">
         <mark key="[" line="5" column="33" />
@@ -764,7 +764,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542165014846">
+      <file name="/Dummy.txt" timestamp="1542169868050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -926,10 +926,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sort production</text>
+        <text>version_code</text>
       </register>
       <register name="-" type="4">
-        <text>sort production</text>
+        <text>version_code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
