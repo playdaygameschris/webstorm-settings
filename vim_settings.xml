@@ -42,11 +42,11 @@
         <mark key="^" line="18" column="106" />
         <mark key="." line="18" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/draggable.vue" timestamp="1542340974163">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/draggable.vue" timestamp="1542346268321">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranchcosts.js" timestamp="1541736316271">
         <mark key="[" line="3" column="0" />
@@ -508,7 +508,7 @@
         <mark key="." line="9" column="64" />
         <mark key="^" line="9" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale.js" timestamp="1542341226784">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale.js" timestamp="1542342211640">
         <mark key="[" line="10" column="60" />
         <mark key="]" line="10" column="75" />
         <mark key="^" line="10" column="75" />
@@ -571,7 +571,7 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1541746944404">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1542344015899">
         <mark key="[" line="68" column="75" />
         <mark key="]" line="68" column="74" />
         <mark key="." line="68" column="74" />
@@ -653,6 +653,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locales.js" timestamp="1542343114088">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="10" column="76" />
+        <mark key="." line="10" column="76" />
+        <mark key="^" line="10" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1535092804824">
         <mark key="[" line="3" column="43" />
@@ -796,11 +802,11 @@
         <mark key="." line="65" column="44" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1542341057864">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="67" />
-        <mark key="^" line="12" column="67" />
-        <mark key="." line="12" column="67" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1542342030790">
+        <mark key="[" line="11" column="87" />
+        <mark key="]" line="11" column="95" />
+        <mark key="^" line="11" column="95" />
+        <mark key="." line="11" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1541736249069">
         <mark key="[" line="3" column="0" />
@@ -970,10 +976,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>locales</text>
+        <text>this.sorted_list</text>
       </register>
       <register name="-" type="4">
-        <text>locales</text>
+        <text>this.sorted_list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -981,23 +987,25 @@
       <register name="0" type="2">
         <text encoding="base64">CWltcG9ydCBMb2NhbGVUYWJsZSBmcm9tICcuLi90YWJsZXMvbG9jYWxlLXRhYmxlLnZ1ZScK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC5yb3cgewogICAgICAgIHBhZGRpbmc6NXB4IDEwcHgKICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGhpcy5zb3J0ZWRfbGlzdCkKICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgY29tcHV0ZWQ6IHsKICAgICAgICAgICAgc29ydGVkX2xpc3Q6IHsKICAgICAgICAgICAgICAgIGdldDogKCkgPT4gewogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHNldDogdmFsdWUgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo8L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RzOgo=</text>
+      <register name="4" type="4">
+        <text>{
+                    return this.list
+                },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldDogKCkgPT4gawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCTxJY29uIHR5cGU9Im1kLW51dHJpdGlvbiIgLz4K</text>
+        <text encoding="base64">ICAgIC5yb3cgewogICAgICAgIHBhZGRpbmc6NXB4IDEwcHgKICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1006,7 +1014,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2RzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
