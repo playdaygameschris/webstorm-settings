@@ -654,11 +654,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locales.js" timestamp="1542343114088">
-        <mark key="[" line="10" column="76" />
-        <mark key="]" line="10" column="76" />
-        <mark key="." line="10" column="76" />
-        <mark key="^" line="10" column="76" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locales.js" timestamp="1542352533561">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1535092804824">
         <mark key="[" line="3" column="43" />
@@ -975,8 +974,8 @@
       <jump line="48" column="52" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.sorted_list</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>this.sorted_list</text>
@@ -987,34 +986,34 @@
       <register name="0" type="2">
         <text encoding="base64">CWltcG9ydCBMb2NhbGVUYWJsZSBmcm9tICcuLi90YWJsZXMvbG9jYWxlLXRhYmxlLnZ1ZScK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">dGhpcy5zb3J0ZWRfbGlzdCkKICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgY29tcHV0ZWQ6IHsKICAgICAgICAgICAgc29ydGVkX2xpc3Q6IHsKICAgICAgICAgICAgICAgIGdldDogKCkgPT4gewogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHNldDogdmFsdWUgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo8L3NjcmlwdD4K</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGUnKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
                     return this.list
                 },</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdldDogKCkgPT4gawo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC5yb3cgewogICAgICAgIHBhZGRpbmc6NXB4IDEwcHgKICAgIH0K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5yb3cgewogICAgICAgIHBhZGRpbmc6NXB4IDEwcHgKICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
