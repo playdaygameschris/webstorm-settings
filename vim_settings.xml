@@ -78,6 +78,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-languages.js" timestamp="1542335334243" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -239,11 +240,11 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1542164965778">
-        <mark key="[" line="141" column="20" />
-        <mark key="]" line="141" column="20" />
-        <mark key="." line="141" column="20" />
-        <mark key="^" line="147" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1542335901349">
+        <mark key="[" line="135" column="38" />
+        <mark key="]" line="135" column="46" />
+        <mark key="." line="135" column="46" />
+        <mark key="^" line="135" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/README.md" timestamp="1535423093713">
         <mark key="[" line="42" column="0" />
@@ -958,10 +959,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Locales</text>
+        <text>locales</text>
       </register>
       <register name="-" type="4">
-        <text>Locales</text>
+        <text>locales</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
