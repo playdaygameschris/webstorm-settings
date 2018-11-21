@@ -320,8 +320,8 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.dev.config.js" timestamp="1542613424883">
-        <mark key="[" line="32" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.dev.config.js" timestamp="1542777406215">
+        <mark key="[" line="39" column="5" />
         <mark key="]" line="32" column="27" />
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="27" />
@@ -799,7 +799,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542191529446">
+      <file name="/Dummy.txt" timestamp="1542777453060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -831,6 +831,12 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/package.json" timestamp="1542777104889">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-types.js" timestamp="1541736268300">
         <mark key="[" line="3" column="0" />
@@ -955,10 +961,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
