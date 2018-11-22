@@ -380,11 +380,11 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" timestamp="1542796268327">
-        <mark key="[" line="41" column="85" />
-        <mark key="]" line="41" column="85" />
-        <mark key="." line="41" column="85" />
-        <mark key="^" line="41" column="85" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" timestamp="1542855446871">
+        <mark key="[" line="41" column="78" />
+        <mark key="]" line="41" column="68" />
+        <mark key="." line="41" column="68" />
+        <mark key="^" line="41" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table.html.js" timestamp="1535432322324">
         <mark key="[" line="4" column="0" />
@@ -990,10 +990,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${this.namespace}</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>${this.namespace}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
