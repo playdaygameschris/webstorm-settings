@@ -380,11 +380,11 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" timestamp="1542855446871">
-        <mark key="[" line="41" column="78" />
-        <mark key="]" line="41" column="68" />
-        <mark key="." line="41" column="68" />
-        <mark key="^" line="41" column="68" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" timestamp="1542856840778">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table.html.js" timestamp="1535432322324">
         <mark key="[" line="4" column="0" />
@@ -461,11 +461,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542790545579">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table-slot-filter.html.js" timestamp="1541736713969">
         <mark key="[" line="16" column="42" />
@@ -739,6 +739,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale-keys.js" timestamp="1542857107746">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1542095589666">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -762,6 +768,12 @@
         <mark key="]" line="113" column="54" />
         <mark key="^" line="113" column="54" />
         <mark key="." line="113" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locals.js" timestamp="1542856920876">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1540871813214">
         <mark key="[" line="29" column="17" />
@@ -816,11 +828,11 @@
         <mark key="." line="65" column="44" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1542602640595">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1542856988038">
         <mark key="[" line="11" column="87" />
-        <mark key="]" line="11" column="91" />
-        <mark key="^" line="11" column="91" />
-        <mark key="." line="11" column="91" />
+        <mark key="]" line="11" column="102" />
+        <mark key="^" line="11" column="102" />
+        <mark key="." line="11" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1541736249069">
         <mark key="[" line="3" column="0" />
@@ -990,10 +1002,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>lines</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>lines</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
