@@ -27,6 +27,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1543377082782">
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1535428280582">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -244,7 +250,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1543375862609">
+      <file name="/GraphQL.variables.json" timestamp="1543376511842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/ranch.js" timestamp="1541491263258">
@@ -433,7 +439,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1543375856743">
+      <file name="/GraphQL.result.json" timestamp="1543376512265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/index.html" timestamp="1543374232344">
@@ -890,6 +896,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="2" column="41" />
       </file>
+      <file name="/Dummy.txt" timestamp="1543376534901">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1541491949261">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="26" />
@@ -958,7 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="168" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="182" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
@@ -1058,13 +1068,14 @@
       <jump line="47" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" />
       <jump line="24" column="27" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
       <jump line="33" column="13" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -1148,6 +1159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
