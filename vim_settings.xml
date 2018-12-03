@@ -654,11 +654,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1543377918515">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1543819151018">
         <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="54" />
-        <mark key="^" line="11" column="54" />
-        <mark key="." line="11" column="54" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/.gitignore" timestamp="1535604460701">
         <mark key="[" line="0" column="0" />
@@ -991,7 +991,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543377923647">
+      <file name="/Dummy.txt" timestamp="1543819268735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1181,11 +1181,11 @@
       <jump line="82" column="51" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLm1vZGVsWydkZXNjXyddID0gcGF5bG9hZC5tb2RlbFsnc3VnZ2VzdGVkX2xvY2FsZV9kZXNjXyddCg==</text>
+      <register name="&quot;" type="4">
+        <text>top</text>
       </register>
       <register name="-" type="4">
-        <text>Suggest</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
