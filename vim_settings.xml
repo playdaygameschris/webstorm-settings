@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-parent.js" timestamp="1543982550798">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-parent.js" timestamp="1543984815791">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="15" column="35" />
         <mark key="." line="15" column="35" />
@@ -602,7 +602,8 @@
         <mark key="^" line="39" column="28" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1543982565491">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1543984785579">
+        <mark key="'" line="74" column="41" />
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
@@ -1147,7 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="32" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
       <jump line="79" column="13" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" />
       <jump line="52" column="46" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/query.js" />
@@ -1247,6 +1247,7 @@
       <jump line="61" column="26" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" />
       <jump line="19" column="23" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
+      <jump line="74" column="41" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
