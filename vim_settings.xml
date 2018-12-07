@@ -518,6 +518,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1544168608485">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1543908554641">
         <mark key="[" line="6" column="88" />
         <mark key="]" line="6" column="88" />
@@ -530,7 +536,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544160006384">
+      <file name="/Dummy.txt" timestamp="1544168881683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1278,10 +1284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>16</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
