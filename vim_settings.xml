@@ -260,7 +260,6 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1544172877388" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/const.js" timestamp="1533994846690">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="8" />
@@ -519,10 +518,10 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1544174528689">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1544406993255">
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="48" column="21" />
         <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1543908554641">
@@ -716,11 +715,11 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1544174467920">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1544406990498">
         <mark key="'" line="170" column="45" />
-        <mark key="[" line="61" column="14" />
-        <mark key="]" line="64" column="27" />
-        <mark key="." line="64" column="27" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
         <mark key="^" line="64" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1534411828502">
@@ -938,11 +937,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1544172834818">
-        <mark key="[" line="19" column="110" />
-        <mark key="]" line="19" column="15" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1544406978496">
+        <mark key="[" line="19" column="129" />
+        <mark key="]" line="19" column="129" />
         <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+        <mark key="." line="19" column="129" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/.gitignore" timestamp="1535604460701">
         <mark key="[" line="0" column="0" />
@@ -1271,10 +1270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
