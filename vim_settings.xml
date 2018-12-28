@@ -633,7 +633,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545973682037">
+      <file name="/Dummy.txt" timestamp="1545986432155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -926,11 +926,12 @@
         <mark key="^" line="9" column="108" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" timestamp="1545876904701">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="35" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" timestamp="1545987106444">
+        <mark key="'" line="64" column="29" />
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/switch-table.vue" timestamp="1544512824128">
         <mark key="[" line="62" column="23" />
@@ -1373,7 +1374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="52" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="157" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="17" column="54" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
@@ -1473,13 +1473,14 @@
       <jump line="80" column="80" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-select.vue" />
       <jump line="27" column="64" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/locale-integrity-alert.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
+      <jump line="64" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>preference</text>
+        <text>200</text>
       </register>
       <register name="-" type="4">
-        <text>preference</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
