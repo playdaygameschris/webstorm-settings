@@ -128,11 +128,11 @@
         <mark key="." line="28" column="109" />
         <mark key="^" line="28" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1545963199292">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="101" column="69" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1545965584315">
+        <mark key="[" line="101" column="48" />
+        <mark key="]" line="101" column="55" />
+        <mark key="." line="101" column="55" />
+        <mark key="^" line="101" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
         <mark key="[" line="15" column="116" />
@@ -1464,10 +1464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>objects</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>objects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
