@@ -337,11 +337,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="35" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1546828737693">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="143" column="22" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1546833564093">
+        <mark key="[" line="94" column="82" />
+        <mark key="]" line="95" column="25" />
+        <mark key="." line="95" column="25" />
+        <mark key="^" line="95" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-xp.js" timestamp="1545963309063">
         <mark key="[" line="11" column="61" />
@@ -1533,11 +1533,11 @@
       <jump line="10" column="30" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kTWVzc2FnZS5lcnJvcih7CiAgICAgICAgICAgICAgICBjb250ZW50OiBjb250ZW50LAogICAgICAgICAgICAgICAgZHVyYXRpb246IDUKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>locales</text>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text>locales</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
