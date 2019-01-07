@@ -626,12 +626,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1546403020009">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1546835391614">
         <mark key="'" line="10" column="30" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="61" column="41" />
+        <mark key="[" line="91" column="73" />
+        <mark key="]" line="91" column="73" />
+        <mark key="." line="91" column="73" />
+        <mark key="^" line="91" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/mixins/object-table.vue" timestamp="1545105147401">
         <mark key="[" line="11" column="20" />
@@ -1534,10 +1534,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>locales</text>
+        <text>obj.id == 'en_US' || obj.id == 'en_UK',</text>
       </register>
       <register name="-" type="4">
-        <text>locales</text>
+        <text>obj.id == 'en_US' || obj.id == 'en_UK',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
