@@ -496,10 +496,11 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1546400868746">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1547087195995">
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="47" />
+        <mark key="." line="76" column="47" />
+        <mark key="^" line="76" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1547025551093">
         <mark key="[" line="0" column="7" />
@@ -1532,11 +1533,11 @@
       <jump line="15" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
