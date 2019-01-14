@@ -1488,11 +1488,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decoration-costs-table.vue" timestamp="1547200002649">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decoration-costs-table.vue" timestamp="1547437533123">
+        <mark key="'" line="78" column="25" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="27" column="50" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.base.config.js" timestamp="1547025853736">
         <mark key="[" line="15" column="0" />
@@ -1512,11 +1513,12 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1547189850796">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="115" column="27" />
-        <mark key="." line="115" column="27" />
-        <mark key="^" line="115" column="27" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1547437886924">
+        <mark key="'" line="38" column="38" />
+        <mark key="[" line="127" column="26" />
+        <mark key="]" line="128" column="32" />
+        <mark key="." line="128" column="32" />
+        <mark key="^" line="128" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-types.js" timestamp="1543215801023">
         <mark key="[" line="1" column="46" />
@@ -1530,7 +1532,8 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1547434166495">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1547437881870">
+        <mark key="'" line="133" column="32" />
         <mark key="[" line="132" column="26" />
         <mark key="]" line="132" column="25" />
         <mark key="." line="132" column="25" />
@@ -1538,9 +1541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createMutations.js" />
-      <jump line="35" column="25" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" />
-      <jump line="10" column="15" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" />
       <jump line="31" column="19" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/filter-slot.vue" />
       <jump line="71" column="78" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" />
@@ -1638,13 +1638,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-template-contents-table.vue" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" />
+      <jump line="78" column="25" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decoration-costs-table.vue" />
+      <jump line="38" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
+      <jump line="133" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVzZXQnLCBjb2x1bW5bJ2tleSddKQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2RzOnsKICAgICAgICAgICAgc2hvd0NyZWF0ZSgpewogICAgICAgICAgICAgICAgdGhpcy4kcmVmcy5jcmVhdGVEaWFsb2dbJ3Zpc2libGUnXSA9IHRydWUKICAgICAgICAgICAgICAgIHRoaXMudG9CZUNyZWF0ZWQuaWQgPSAnMScKICAgICAgICAgICAgfQogICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>model[column.key]</text>
+        <text>objects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -1653,31 +1656,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB2YWwgPT4gaXNOYU4ocGFyc2VJbnQodmFsW3NvcnRfa2V5XSkpID8gcGFyc2VJbnQodmFsW3NvcnRfa2V5XS5yZXBsYWNlKCAvXEQrL2csICcnKSkgOiAxLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVzZXQnLCBjb2x1bW5bJ2tleSddKQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2RzOnsKICAgICAgICAgICAgc2hvd0NyZWF0ZSgpewogICAgICAgICAgICAgICAgdGhpcy4kcmVmcy5jcmVhdGVEaWFsb2dbJ3Zpc2libGUnXSA9IHRydWUKICAgICAgICAgICAgICAgIHRoaXMudG9CZUNyZWF0ZWQuaWQgPSAnMScKICAgICAgICAgICAgfQogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IGRlZmF1bHQgYXMgQ3J1ZFRhYmxlIH0gZnJvbSAnLi8uLi8uLi8uLi9taXhpbnMvY3J1ZC10YWJsZSc7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENydWRUYWJsZS5tZXRob2RzLnNob3dDcmVhdGUoKS5jYWxsKHRoaXMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMuY3JlYXRlRGlhbG9nWyd2aXNpYmxlJ10gPSB0cnVlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVzZXRNb2RlbCgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVzZXQnLCBjb2x1bW5bJ2tleSddKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCB7IGRlZmF1bHQgYXMgQ3J1ZFRhYmxlIH0gZnJvbSAnLi8uLi8uLi8uLi9taXhpbnMvY3J1ZC10YWJsZSc7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENydWRUYWJsZS5tZXRob2RzLnNob3dDcmVhdGUoKS5jYWxsKHRoaXMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMuY3JlYXRlRGlhbG9nWyd2aXNpYmxlJ10gPSB0cnVlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVzZXRNb2RlbCgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQl2LW1vZGVsPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVzZXQnLCBjb2x1bW5bJ2tleSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbmFtZXNwYWNlJywgdGhpcy5uYW1lc3BhY2UpCg==</text>
+        <text encoding="base64">CQkJCQl2LW1vZGVsPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
