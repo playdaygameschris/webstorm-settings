@@ -1556,11 +1556,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1547609226592">
-        <mark key="[" line="32" column="104" />
-        <mark key="]" line="32" column="110" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1547693789696">
+        <mark key="[" line="32" column="99" />
+        <mark key="]" line="32" column="99" />
         <mark key="^" line="32" column="110" />
-        <mark key="." line="32" column="110" />
+        <mark key="." line="32" column="99" />
       </file>
     </filemarks>
     <jumps>
@@ -1666,11 +1666,11 @@
       <jump line="56" column="48" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWFsb2cubW9kZWxbJ3R5cGUnXT0gJ2l0ZW1zJwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
