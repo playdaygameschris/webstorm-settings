@@ -675,7 +675,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547807295087">
+      <file name="/Dummy.txt" timestamp="1548043546447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -881,6 +881,12 @@
         <mark key="]" line="10" column="58" />
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.master.js" timestamp="1548043411754">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-paging.js" timestamp="1547456150097">
         <mark key="[" line="23" column="8" />
@@ -1105,10 +1111,11 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1548042815683">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1548043533388">
+        <mark key="[" line="35" column="64" />
+        <mark key="]" line="35" column="69" />
+        <mark key="." line="35" column="69" />
+        <mark key="^" line="35" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1547787685793">
         <mark key="'" line="136" column="43" />
@@ -1717,11 +1724,11 @@
       <jump line="31" column="45" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CIRCLE_BRANCH</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CIRCLE_BRANCH</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
