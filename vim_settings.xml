@@ -675,7 +675,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548048153519">
+      <file name="/Dummy.txt" timestamp="1548053163493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1111,10 +1111,10 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1548048656623">
-        <mark key="[" line="77" column="9" />
-        <mark key="]" line="77" column="60" />
-        <mark key="." line="77" column="60" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1548053290943">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
         <mark key="^" line="77" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1547787685793">
@@ -1724,8 +1724,8 @@
       <jump line="31" column="45" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://webhooks.gitter.im/e/000000000000000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://webhooks.gitter.im/e/000000000000000</text>
@@ -1752,16 +1752,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGEoKXsKICAgICAgICByZXR1cm57CiAgICAgICAgICAgIGNvbnN0YW50CiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50IGZyb20gJy4vLi4vc3JjL2NvbnN0LmpzJwo=</text>
+        <text encoding="base64">ICAgIGRhdGEoKXsKICAgICAgICByZXR1cm57CiAgICAgICAgICAgIGNvbnN0YW50CiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdENvbHVtbkF0dHJzOnsKICAgICAgICAgICAgICAgIF9vbkNoYW5nZUNhbGxiYWNrOiAoKSA9PiB7fQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbnN0YW50IGZyb20gJy4vLi4vc3JjL2NvbnN0LmpzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdENvbHVtbkF0dHJzOnsKICAgICAgICAgICAgICAgIF9vbkNoYW5nZUNhbGxiYWNrOiAoKSA9PiB7fQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
