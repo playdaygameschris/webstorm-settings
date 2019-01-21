@@ -1278,10 +1278,10 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1547805932565">
-        <mark key="[" line="11" column="132" />
-        <mark key="]" line="11" column="132" />
-        <mark key="." line="11" column="132" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1548055413002">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/.gitignore" timestamp="1535604460701">
         <mark key="[" line="0" column="0" />
@@ -1728,7 +1728,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RhbnQ6IGNvbnN0YW50LAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbnN0YW50IGZyb20gIi4uLy4uL2NvbnN0IjsK</text>
       </register>
       <register name="-" type="4">
         <text>https://webhooks.gitter.im/e/000000000000000</text>
@@ -1740,22 +1740,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RhbnQ6IGNvbnN0YW50LAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbnN0YW50IGZyb20gIi4uLy4uL2NvbnN0IjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9CZUNyZWF0ZWQ6IHt9LAogICAgICAgICAgICB0b0JlVXBkYXRlZDoge30sCiAgICAgICAgICAgIHRvQmVEZWxldGVkOiB7fSwKICAgICAgICAgICAgZW50cnk6IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RhbnQ6IGNvbnN0YW50LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9CZUNyZWF0ZWQ6IHt9LAogICAgICAgICAgICB0b0JlVXBkYXRlZDoge30sCiAgICAgICAgICAgIHRvQmVEZWxldGVkOiB7fSwKICAgICAgICAgICAgZW50cnk6IG51bGwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0YW50OiBjb25zdGFudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0YW50OiBjb25zdGFudAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
