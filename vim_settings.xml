@@ -373,7 +373,7 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1548747684475">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1548814526238">
         <mark key="'" line="94" column="61" />
         <mark key="[" line="106" column="100" />
         <mark key="]" line="80" column="42" />
@@ -545,12 +545,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1548748271176">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1548814548215">
         <mark key="'" line="51" column="35" />
-        <mark key="[" line="106" column="71" />
-        <mark key="]" line="106" column="76" />
-        <mark key="." line="106" column="76" />
-        <mark key="^" line="106" column="76" />
+        <mark key="[" line="113" column="59" />
+        <mark key="]" line="113" column="59" />
+        <mark key="." line="113" column="59" />
+        <mark key="^" line="113" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1548748490162">
         <mark key="[" line="79" column="70" />
@@ -1763,11 +1763,11 @@
       <jump line="30" column="28" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table.html.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>E8E8E8</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
