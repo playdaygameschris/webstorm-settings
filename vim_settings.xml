@@ -339,11 +339,11 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1548825119273">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1548830999685">
         <mark key="'" line="241" column="67" />
-        <mark key="[" line="257" column="85" />
-        <mark key="]" line="257" column="72" />
-        <mark key="." line="257" column="72" />
+        <mark key="[" line="247" column="90" />
+        <mark key="]" line="247" column="91" />
+        <mark key="." line="247" column="91" />
         <mark key="^" line="257" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-xp.js" timestamp="1545963309063">
@@ -873,10 +873,10 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1548821237147">
-        <mark key="[" line="35" column="94" />
-        <mark key="]" line="35" column="87" />
-        <mark key="." line="35" column="87" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1548830990602">
+        <mark key="[" line="35" column="88" />
+        <mark key="]" line="35" column="88" />
+        <mark key="." line="35" column="88" />
         <mark key="^" line="35" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1548815329239">
@@ -1559,12 +1559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else{
-                    list = _.sortBy(list, sort_key)
-                }</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
