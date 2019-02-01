@@ -659,7 +659,7 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548825585225">
+      <file name="/Dummy.txt" timestamp="1549005106384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1541491949261">
@@ -927,11 +927,11 @@
         <mark key="." line="53" column="102" />
         <mark key="^" line="53" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1548745607691">
-        <mark key="[" line="38" column="88" />
-        <mark key="]" line="38" column="90" />
-        <mark key="^" line="38" column="90" />
-        <mark key="." line="38" column="90" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1549004582816">
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="46" column="63" />
+        <mark key="^" line="46" column="63" />
+        <mark key="." line="46" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" timestamp="1548822647277">
         <mark key="[" line="61" column="49" />
@@ -1066,7 +1066,7 @@
         <mark key="." line="26" column="79" />
         <mark key="^" line="79" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/parameter-table.vue" timestamp="1548739143288">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/parameter-table.vue" timestamp="1549003947401">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1343,12 +1343,12 @@
         <mark key="." line="10" column="170" />
         <mark key="^" line="10" column="170" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1548822434233">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1549004735256">
         <mark key="'" line="135" column="39" />
-        <mark key="[" line="225" column="17" />
-        <mark key="]" line="226" column="12" />
-        <mark key="." line="226" column="12" />
-        <mark key="^" line="226" column="12" />
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="30" />
+        <mark key="." line="106" column="30" />
+        <mark key="^" line="106" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locals.js" timestamp="1542856920876">
         <mark key="[" line="10" column="52" />
@@ -1563,10 +1563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
