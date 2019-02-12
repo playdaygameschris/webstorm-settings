@@ -291,7 +291,6 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="/locale-sync-table.vue" timestamp="1549859048597" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1549870943157">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="49" />
@@ -723,7 +722,6 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="118" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/common-table.vue" timestamp="1549862045428" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/decoration/staticdata-decorationcosts-table.vue" timestamp="1546400902466">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1355,7 +1353,8 @@
         <mark key="." line="110" column="35" />
         <mark key="^" line="110" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1540871813214">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1549941374675">
+        <mark key="'" line="21" column="12" />
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="17" />
         <mark key="." line="29" column="17" />
@@ -1453,7 +1452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="23" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
       <jump line="74" column="41" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
       <jump line="23" column="28" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" />
       <jump line="152" column="45" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
@@ -1553,6 +1551,7 @@
       <jump line="241" column="67" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
       <jump line="86" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" />
       <jump line="3" column="15" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" />
+      <jump line="21" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
