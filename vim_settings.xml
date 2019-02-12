@@ -21,7 +21,7 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1543377082782">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1549953111648">
         <mark key="[" line="44" column="13" />
         <mark key="]" line="44" column="17" />
         <mark key="." line="44" column="17" />
@@ -879,12 +879,6 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" timestamp="1549860903114">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mongo.js" timestamp="1536823622971">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="13" />
@@ -1033,6 +1027,12 @@
         <mark key="." line="69" column="24" />
         <mark key="^" line="70" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/dynamodb.js" timestamp="1549953246035">
+        <mark key="[" line="3" column="89" />
+        <mark key="]" line="3" column="87" />
+        <mark key="^" line="3" column="87" />
+        <mark key="." line="3" column="87" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1549862832326">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -1045,11 +1045,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/s3.js" timestamp="1541406160153">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/s3.js" timestamp="1549953223820">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="24" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1549870906678">
         <mark key="[" line="64" column="0" />
@@ -1074,6 +1074,12 @@
         <mark key="]" line="26" column="79" />
         <mark key="." line="26" column="79" />
         <mark key="^" line="79" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mongo.js" timestamp="1549952491091">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/parameter-table.vue" timestamp="1549003947401">
         <mark key="[" line="0" column="7" />
@@ -1566,10 +1572,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>dynamodb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -1578,31 +1584,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRwYXJlbnQuJHBhcmVudC4kZm9yY2VVcGRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZHluYW1vZGIuYmF0Y2hHZXRJdGVtKHBhcmFtcywgZnVuY3Rpb24gKGVyciwgZGF0YSkgewogICAgaWYgKGVycikgY29uc29sZS5sb2coZXJyLCBlcnIuc3RhY2spOyAvLyBhbiBlcnJvciBvY2N1cnJlZAogICAgZWxzZSAgICAgY29uc29sZS5sb2coZGF0YSk7ICAgICAgICAgICAvLyBzdWNjZXNzZnVsIHJlc3BvbnNlCn0pOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBVc2VyU3RhdHMgewogICAgdXNlcklkOiBJRCEKICAgIGNyZWF0ZVRpbWU6IERhdGVUaW1lCiAgICBjcmVhdGVUaW1lU3RyaW5nOiBTdHJpbmcKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJfc3RhdHModXNlcklkOiBTdHJpbmchKTogVXNlclN0YXRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzID0gbWVyZ2UocmVzb2x2ZXJzLCBnZXRfcmVzb2x2ZXJzKCdpdGVtJywgJ3VzZXJfc3RhdHMnLCAndXNlcklkJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3VsdCcsIHJlc3VsdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BhcmVudC51c2VySWQnLCBwYXJlbnQudXNlcklkKQo=</text>
+        <text encoding="base64">dHlwZSBVc2VyU3RhdHMgewogICAgdXNlcklkOiBJRCEKICAgIGNyZWF0ZVRpbWU6IERhdGVUaW1lCiAgICBjcmVhdGVUaW1lU3RyaW5nOiBTdHJpbmcKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2tleXMnLCBrZXlzKQo=</text>
+        <text encoding="base64">ICAgIHVzZXJfc3RhdHModXNlcklkOiBTdHJpbmchKTogVXNlclN0YXRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coCg==</text>
+        <text encoding="base64">cmVzb2x2ZXJzID0gbWVyZ2UocmVzb2x2ZXJzLCBnZXRfcmVzb2x2ZXJzKCdpdGVtJywgJ3VzZXJfc3RhdHMnLCAndXNlcklkJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
