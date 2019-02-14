@@ -125,11 +125,11 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1548747746305">
-        <mark key="[" line="124" column="38" />
-        <mark key="]" line="176" column="40" />
-        <mark key="." line="176" column="40" />
-        <mark key="^" line="176" column="40" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1550131083355">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
         <mark key="[" line="15" column="116" />
@@ -1577,11 +1577,11 @@
       <jump line="28" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdnZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnZ2VtJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbjowLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4Ojk5OTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDo4MCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21pbjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9tYXg6IDk5OTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbGFiZWxfaWNvbjogY29uc3RhbnQuczNfaW1hZ2VfdXJsICsgJy9pdGVtcy9pbTIucG5nJwogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>Formulas for In-Game</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Formulas for In-Game</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
