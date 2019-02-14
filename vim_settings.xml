@@ -21,12 +21,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550109459090">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550111109306">
         <mark key="'" line="55" column="59" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="16" />
-        <mark key="." line="44" column="16" />
-        <mark key="^" line="44" column="16" />
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="59" column="70" />
+        <mark key="." line="59" column="70" />
+        <mark key="^" line="59" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
         <mark key="[" line="15" column="104" />
@@ -557,11 +557,11 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1550049309408">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1550112247307">
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="95" column="30" />
+        <mark key="." line="95" column="30" />
+        <mark key="^" line="94" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
         <mark key="[" line="31" column="8" />
@@ -665,7 +665,7 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550051475536">
+      <file name="/Dummy.txt" timestamp="1550112010261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1541491949261">
@@ -1576,8 +1576,8 @@
       <jump line="21" column="53" filename="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHRsJywgdHRsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1589,28 +1589,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRwYXJlbnQuJHBhcmVudC4kZm9yY2VVcGRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHRsJywgdHRsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25maWcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25maWcpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHRsJywgdHRsKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRvY2tlcgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25maWcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25maWcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHRsJywgdHRsKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
