@@ -21,11 +21,11 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550122065662">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550127124889">
         <mark key="'" line="34" column="41" />
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="28" column="42" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="31" column="54" />
         <mark key="^" line="28" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
@@ -1578,10 +1578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>general error</text>
+        <text>, output</text>
       </register>
       <register name="-" type="4">
-        <text>general error</text>
+        <text>, output</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
