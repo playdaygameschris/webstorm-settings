@@ -21,12 +21,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550111109306">
-        <mark key="'" line="55" column="59" />
-        <mark key="[" line="59" column="70" />
-        <mark key="]" line="59" column="70" />
-        <mark key="." line="59" column="70" />
-        <mark key="^" line="59" column="70" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550115118093">
+        <mark key="'" line="27" column="41" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="56" />
+        <mark key="." line="59" column="56" />
+        <mark key="^" line="59" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
         <mark key="[" line="15" column="104" />
@@ -665,7 +665,7 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550112010261">
+      <file name="/Dummy.txt" timestamp="1550115121080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1541491949261">
@@ -1474,7 +1474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-filter.html.js" />
       <jump line="74" column="23" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" />
       <jump line="165" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="33" column="26" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/control-main-layout.vue" />
@@ -1574,13 +1573,14 @@
       <jump line="20" column="23" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" />
       <jump line="55" column="59" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
       <jump line="21" column="53" filename="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" />
+      <jump line="27" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
