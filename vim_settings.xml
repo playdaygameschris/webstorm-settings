@@ -972,6 +972,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1550042425187">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitureskins.js" timestamp="1546417098861">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="29" />
@@ -1329,6 +1336,13 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1550042252593">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="102" column="17" />
+        <mark key="]" line="102" column="17" />
+        <mark key="^" line="131" column="20" />
+        <mark key="." line="102" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/bus.js" timestamp="1547029230746">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1347,6 +1361,13 @@
         <mark key="." line="10" column="170" />
         <mark key="^" line="10" column="170" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1549856955620">
+        <mark key="'" line="135" column="39" />
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="30" />
+        <mark key="." line="106" column="30" />
+        <mark key="^" line="106" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locals.js" timestamp="1542856920876">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="10" column="67" />
@@ -1358,6 +1379,13 @@
         <mark key="]" line="110" column="35" />
         <mark key="." line="110" column="35" />
         <mark key="^" line="110" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1550214830060">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
         <mark key="[" line="5" column="15" />
@@ -1451,7 +1479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="33" column="26" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/control-main-layout.vue" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/control-main-layout.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" />
@@ -1551,6 +1578,7 @@
       <jump line="21" column="53" filename="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" />
       <jump line="27" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
       <jump line="28" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" />
+      <jump line="26" column="33" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
