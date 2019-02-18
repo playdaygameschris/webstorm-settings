@@ -21,12 +21,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550466552174">
-        <mark key="'" line="18" column="71" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="59" column="61" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1550467614069">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="59" column="67" />
+        <mark key="]" line="59" column="67" />
+        <mark key="^" line="59" column="67" />
+        <mark key="." line="59" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
         <mark key="[" line="15" column="104" />
@@ -661,7 +661,7 @@
         <mark key="^" line="67" column="24" />
         <mark key="." line="67" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550466277630">
+      <file name="/Dummy.txt" timestamp="1550467787623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1541491949261">
@@ -1465,7 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="18" column="49" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
@@ -1565,13 +1564,14 @@
       <jump line="62" column="33" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
       <jump line="18" column="71" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
       <jump line="46" column="31" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InLCBlcnJvcikK</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>ResolverError(error)</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
