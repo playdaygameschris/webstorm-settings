@@ -1327,12 +1327,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1551171188215">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1551173943027">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="38" column="146" />
-        <mark key="]" line="38" column="145" />
-        <mark key="^" line="38" column="145" />
-        <mark key="." line="38" column="145" />
+        <mark key="[" line="39" column="74" />
+        <mark key="]" line="39" column="74" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="39" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/bus.js" timestamp="1547029230746">
         <mark key="[" line="1" column="0" />
@@ -1572,17 +1572,17 @@
       <jump line="380" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmdXJuaXR1cmVfc2tpbiI6ICJTRUxFQ1QgZnVybml0dXJlX2lkLCBudWxsIGFzIHIyLCBudWxsIGFzIHIzLCBob3VzZV9pZCA9ID8iCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRwYXJlbnQuJHBhcmVudC4kZm9yY2VVcGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICJmdXJuaXR1cmUiOiAiU0VMRUNUIGZ1cm5pdHVyZV9pZCwgaG91c2VfaWQsIG51bGwgYXMgcjMsIGZpbmlzaF90aW1lLCBza2lucywgYWN0aXZlX3NraW4sIGNvbnN0cnVjdGluZ19za2luIEZST00gZnVybml0dXJlIFdIRVJFIGhvdXNlX2lkID0gPyIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJmdXJuaXR1cmVfc2tpbiI6ICJTRUxFQ1QgZnVybml0dXJlX2lkLCBudWxsIGFzIHIyLCBudWxsIGFzIHIzLCBob3VzZV9pZCA9ID8iCg==</text>
