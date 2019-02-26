@@ -346,12 +346,12 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1550654416661">
-        <mark key="'" line="495" column="38" />
-        <mark key="[" line="180" column="95" />
-        <mark key="]" line="180" column="83" />
-        <mark key="^" line="180" column="83" />
-        <mark key="." line="180" column="83" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1551147120505">
+        <mark key="'" line="493" column="38" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="178" column="83" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-xp.js" timestamp="1545963309063">
         <mark key="[" line="11" column="61" />
@@ -1573,7 +1573,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWRkICdubyBkZXNjcmlwdGlvbicgdG8gZm9ybXVsYSB0YWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1585,13 +1585,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRwYXJlbnQuJHBhcmVudC4kZm9yY2VVcGRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkICdubyBkZXNjcmlwdGlvbicgdG8gZm9ybXVsYSB0YWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQnV0dG9uR3JvdXA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b25Hcm91cD4K</text>
+        <text encoding="base64">YWRkICdubyBkZXNjcmlwdGlvbicgdG8gZm9ybXVsYSB0YWcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQnV0dG9uR3JvdXA+Cg==</text>
@@ -1600,16 +1600,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b25Hcm91cD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWZyZXNoKHJlc3BvbnNlLmRhdGFbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQnV0dG9uR3JvdXA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b25Hcm91cD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWZyZXNoKHJlc3BvbnNlLmRhdGFbMF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKSA9PiBsb2NhdGlvbi5yZWxvYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
