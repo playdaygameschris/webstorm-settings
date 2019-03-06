@@ -529,12 +529,12 @@
         <mark key="^" line="96" column="118" />
         <mark key="." line="96" column="118" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1550558507590">
-        <mark key="'" line="399" column="9" />
-        <mark key="[" line="116" column="24" />
-        <mark key="]" line="116" column="49" />
-        <mark key="." line="116" column="49" />
-        <mark key="^" line="116" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1551848793393">
+        <mark key="'" line="408" column="9" />
+        <mark key="[" line="381" column="34" />
+        <mark key="]" line="381" column="36" />
+        <mark key="." line="381" column="36" />
+        <mark key="^" line="381" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -1608,10 +1608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAiY3JlYXRlVGltZSI6IHsKICAgICAgICAgICAgInNlY29uZHMiOiAxNTUxMzExODk2LAogICAgICAgICAgICAibmFub3MiOiAwCiAgICAgICAgfSw=</text>
+        <text>unittest</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>unittest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
