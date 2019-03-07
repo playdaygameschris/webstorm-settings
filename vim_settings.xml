@@ -21,12 +21,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1551948722757">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1551951704026">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="42" />
-        <mark key="^" line="42" column="42" />
-        <mark key="." line="42" column="42" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="28" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
         <mark key="[" line="15" column="104" />
@@ -437,10 +437,10 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1550483329669">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1551950441854">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
         <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/list-category-module.js" timestamp="1544510919177">
@@ -675,10 +675,10 @@
         <mark key="^" line="105" column="41" />
         <mark key="." line="105" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551948018252">
+      <file name="/Dummy.txt" timestamp="1551951158050">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1551343332266">
@@ -723,10 +723,10 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1550225334360">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1551950221442">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
         <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/token.js" timestamp="1539673311856">
@@ -1608,11 +1608,11 @@
       <jump line="51" column="42" filename="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNob3BtZW51OiBKU09OCg==</text>
+      <register name="&quot;" type="4">
+        <text>ApolloErros.formatError(error, true)</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>ApolloErros.formatError(error, true)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
