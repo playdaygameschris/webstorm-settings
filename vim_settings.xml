@@ -129,7 +129,8 @@
         <mark key="." line="5" column="98" />
         <mark key="^" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1552469786532">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1552470651698">
+        <mark key="'" line="242" column="99" />
         <mark key="[" line="189" column="96" />
         <mark key="]" line="189" column="101" />
         <mark key="^" line="189" column="101" />
@@ -1556,7 +1557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
       <jump line="64" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
       <jump line="10" column="30" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" />
       <jump line="15" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" />
@@ -1656,6 +1656,7 @@
       <jump line="32" column="5" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
       <jump line="221" column="44" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
       <jump line="46" column="57" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
+      <jump line="242" column="99" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
