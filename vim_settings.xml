@@ -129,12 +129,12 @@
         <mark key="." line="5" column="98" />
         <mark key="^" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1552470651698">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1552533028570">
         <mark key="'" line="242" column="99" />
-        <mark key="[" line="189" column="96" />
-        <mark key="]" line="189" column="101" />
-        <mark key="^" line="189" column="101" />
-        <mark key="." line="189" column="101" />
+        <mark key="[" line="237" column="33" />
+        <mark key="]" line="237" column="36" />
+        <mark key="^" line="237" column="36" />
+        <mark key="." line="237" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
         <mark key="[" line="15" column="116" />
@@ -358,8 +358,8 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1552469118888">
-        <mark key="'" line="529" column="38" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1552533376431">
+        <mark key="'" line="376" column="38" />
         <mark key="[" line="144" column="22" />
         <mark key="]" line="144" column="22" />
         <mark key="." line="144" column="22" />
@@ -1557,7 +1557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
       <jump line="10" column="30" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" />
       <jump line="15" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" />
       <jump line="18" column="15" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" />
@@ -1657,13 +1656,14 @@
       <jump line="221" column="44" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
       <jump line="46" column="57" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
       <jump line="242" column="99" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" />
+      <jump line="376" column="38" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix number field validation error</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>fix number field validation error</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
