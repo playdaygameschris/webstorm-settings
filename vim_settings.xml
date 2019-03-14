@@ -689,11 +689,11 @@
         <mark key="^" line="105" column="41" />
         <mark key="." line="105" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552466254074">
+      <file name="/Dummy.txt" timestamp="1552529462915">
         <mark key="y" line="0" column="12" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1551343332266">
@@ -1659,11 +1659,11 @@
       <jump line="242" column="99" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3J1bGVzJywgc2VsZi5ydWxlcykK</text>
+      <register name="&quot;" type="4">
+        <text>fix number field validation error</text>
       </register>
       <register name="-" type="4">
-        <text>blur</text>
+        <text>fix number field validation error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
