@@ -377,11 +377,12 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1552644538830">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1552875421084">
         <mark key="'" line="87" column="35" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+        <mark key="[" line="133" column="72" />
+        <mark key="]" line="133" column="77" />
+        <mark key="." line="133" column="77" />
+        <mark key="^" line="133" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/context.js" timestamp="1550052754534">
         <mark key="[" line="23" column="18" />
@@ -1460,11 +1461,11 @@
         <mark key="." line="10" column="67" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-select.vue" timestamp="1552645652564">
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="73" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-select.vue" timestamp="1552875464872">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="40" />
         <mark key="^" line="19" column="40" />
-        <mark key="." line="18" column="73" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1550465203073">
         <mark key="'" line="26" column="33" />
@@ -1669,10 +1670,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
