@@ -468,11 +468,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1552885624059">
-        <mark key="[" line="116" column="35" />
-        <mark key="]" line="116" column="35" />
-        <mark key="." line="116" column="35" />
-        <mark key="^" line="116" column="60" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1553076866083">
+        <mark key="[" line="147" column="25" />
+        <mark key="]" line="147" column="24" />
+        <mark key="." line="147" column="24" />
+        <mark key="^" line="147" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1553056304497">
         <mark key="[" line="61" column="12" />
@@ -520,6 +520,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1553077250671">
+        <mark key="[" line="272" column="104" />
+        <mark key="]" line="272" column="104" />
+        <mark key="^" line="272" column="104" />
+        <mark key="." line="272" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -1598,10 +1604,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
