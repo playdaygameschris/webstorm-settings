@@ -301,7 +301,7 @@
         <mark key="^" line="230" column="37" />
         <mark key="." line="230" column="37" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1553056028828">
+      <file name="/GraphQL.result.json" timestamp="1553058031267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1549870943157">
@@ -521,12 +521,6 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1553052533917">
-        <mark key="[" line="367" column="43" />
-        <mark key="]" line="377" column="25" />
-        <mark key="^" line="377" column="25" />
-        <mark key="." line="377" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
         <mark key="]" line="5" column="103" />
@@ -659,7 +653,7 @@
         <mark key="^" line="105" column="41" />
         <mark key="." line="105" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553055487099">
+      <file name="/Dummy.txt" timestamp="1553058010792">
         <mark key="y" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1604,10 +1598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>speedup</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>speedup</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
