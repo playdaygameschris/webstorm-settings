@@ -438,11 +438,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1552615215711">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="38" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1553054071705">
+        <mark key="[" line="9" column="110" />
+        <mark key="]" line="9" column="117" />
+        <mark key="." line="9" column="117" />
+        <mark key="^" line="9" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/list-category-module.js" timestamp="1544510919177">
         <mark key="[" line="1" column="18" />
@@ -654,7 +654,7 @@
         <mark key="^" line="105" column="41" />
         <mark key="." line="105" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552979031171">
+      <file name="/Dummy.txt" timestamp="1553054089135">
         <mark key="y" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1601,11 +1601,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>test sentry i</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>test sentry i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
