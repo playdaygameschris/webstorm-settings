@@ -992,11 +992,11 @@
         <mark key="^" line="38" column="18" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/tag-legend.vue" timestamp="1553146075595">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="30" column="12" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/tag-legend.vue" timestamp="1553150000734">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="25" column="63" />
+        <mark key="^" line="25" column="63" />
+        <mark key="." line="25" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranch-attrs-table.vue" timestamp="1548411416130">
         <mark key="[" line="47" column="0" />
@@ -1245,11 +1245,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1553145900049">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1553149985584">
+        <mark key="[" line="84" column="82" />
+        <mark key="]" line="84" column="113" />
+        <mark key="." line="84" column="113" />
+        <mark key="^" line="84" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1553138609251">
         <mark key="[" line="115" column="38" />
@@ -1634,11 +1634,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWZ0ZXJGZXRjaChyZXNwb25zZSkgewogICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
