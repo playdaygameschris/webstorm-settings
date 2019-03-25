@@ -15,7 +15,6 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="171" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/map-layout.vue" timestamp="1553228228076" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-table.js" timestamp="1534238974597">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="25" />
@@ -136,12 +135,12 @@
         <mark key="." line="5" column="98" />
         <mark key="^" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1553236406850">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1553479097667">
         <mark key="'" line="184" column="37" />
-        <mark key="[" line="281" column="38" />
-        <mark key="]" line="281" column="37" />
+        <mark key="[" line="281" column="35" />
+        <mark key="]" line="281" column="36" />
         <mark key="^" line="281" column="37" />
-        <mark key="." line="281" column="37" />
+        <mark key="." line="281" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
         <mark key="[" line="15" column="116" />
@@ -777,12 +776,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="35" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/control-main-layout.vue" timestamp="1553246346607">
-        <mark key="'" line="72" column="62" />
-        <mark key="[" line="72" column="90" />
-        <mark key="]" line="72" column="93" />
-        <mark key="." line="72" column="93" />
-        <mark key="^" line="72" column="93" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/control-main-layout.vue" timestamp="1553479833865">
+        <mark key="'" line="74" column="62" />
+        <mark key="[" line="48" column="67" />
+        <mark key="]" line="49" column="44" />
+        <mark key="." line="49" column="44" />
+        <mark key="^" line="49" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/.babelrc" timestamp="1541391409292">
         <mark key="[" line="0" column="0" />
@@ -1304,14 +1303,14 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1553243199425">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1553479230492">
         <mark key="'" line="147" column="13" />
-        <mark key="[" line="127" column="104" />
+        <mark key="[" line="55" column="34" />
         <mark key="k" line="29" column="28" />
-        <mark key="]" line="127" column="106" />
+        <mark key="]" line="55" column="42" />
         <mark key="m" line="21" column="24" />
-        <mark key="." line="127" column="106" />
-        <mark key="^" line="127" column="106" />
+        <mark key="." line="55" column="42" />
+        <mark key="^" line="55" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-attrs.js" timestamp="1548411461219">
         <mark key="[" line="9" column="71" />
@@ -1343,7 +1342,6 @@
         <mark key="^" line="60" column="40" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1553242180482" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-errors.js" timestamp="1544170818489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1646,10 +1644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'',</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>'',</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
