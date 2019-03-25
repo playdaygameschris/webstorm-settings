@@ -693,7 +693,7 @@
         <mark key="^" line="105" column="41" />
         <mark key="." line="105" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553500451525">
+      <file name="/Dummy.txt" timestamp="1553507987623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1551343332266">
@@ -947,10 +947,17 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1553500338521">
-        <mark key="]" line="78" column="75" />
-        <mark key="^" line="78" column="75" />
-        <mark key="." line="78" column="75" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1553507986420">
+        <mark key="[" line="85" column="94" />
+        <mark key="]" line="85" column="95" />
+        <mark key="^" line="85" column="95" />
+        <mark key="." line="85" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1553507707898">
+        <mark key="[" line="50" column="41" />
+        <mark key="]" line="50" column="41" />
+        <mark key="." line="50" column="41" />
+        <mark key="^" line="50" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1534411828502">
         <mark key="[" line="17" column="36" />
@@ -1651,10 +1658,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>18px</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>18px</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
