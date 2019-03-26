@@ -485,12 +485,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1553576473644">
-        <mark key="'" line="107" column="24" />
-        <mark key="[" line="90" column="62" />
-        <mark key="]" line="90" column="62" />
-        <mark key="." line="90" column="62" />
-        <mark key="^" line="90" column="114" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1553588885683">
+        <mark key="'" line="109" column="24" />
+        <mark key="[" line="91" column="31" />
+        <mark key="]" line="92" column="33" />
+        <mark key="." line="92" column="33" />
+        <mark key="^" line="92" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1553236920021">
         <mark key="[" line="9" column="21" />
@@ -1677,11 +1677,11 @@
       <jump line="24" column="42" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMubmFtZXNwYWNlID09ICdtYXAtZGVjb3JhdGlvbi10YWdzJykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NydWQtY29tcG9uZW50JywgJ2FmdGVyRmV0Y2gnKQogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_.isObject(item)?item.value:item</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>_.isObject(item)?item.value:item</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
