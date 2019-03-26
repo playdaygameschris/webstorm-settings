@@ -1298,6 +1298,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1553586139812">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1553138609251">
         <mark key="[" line="115" column="38" />
         <mark key="]" line="19" column="40" />
@@ -1672,8 +1677,8 @@
       <jump line="24" column="42" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMubmFtZXNwYWNlID09ICdtYXAtZGVjb3JhdGlvbi10YWdzJykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NydWQtY29tcG9uZW50JywgJ2FmdGVyRmV0Y2gnKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -1685,10 +1690,10 @@
         <text encoding="base64">ICAgICAgICA8Q29sPjwvQ29sPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIDpzaG93LWhlYWRlcj0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMubmFtZXNwYWNlID09ICdtYXAtZGVjb3JhdGlvbi10YWdzJykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NydWQtY29tcG9uZW50JywgJ2FmdGVyRmV0Y2gnKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIDpzaG93LWhlYWRlcj0iZmFsc2UiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1697,19 +1702,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFibGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYmFja2VuZCcK</text>
+        <text encoding="base64">ICAgICAgICA8VGFibGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
