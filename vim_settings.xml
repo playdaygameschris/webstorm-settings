@@ -387,12 +387,12 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1553570468864">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1553671673007">
         <mark key="'" line="11" column="50" />
-        <mark key="[" line="284" column="14" />
-        <mark key="]" line="288" column="13" />
-        <mark key="." line="288" column="13" />
-        <mark key="^" line="288" column="13" />
+        <mark key="[" line="158" column="60" />
+        <mark key="]" line="158" column="65" />
+        <mark key="." line="158" column="65" />
+        <mark key="^" line="158" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/context.js" timestamp="1550052754534">
         <mark key="[" line="23" column="18" />
@@ -484,12 +484,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1553662318470">
-        <mark key="'" line="109" column="24" />
-        <mark key="[" line="93" column="60" />
-        <mark key="]" line="93" column="60" />
-        <mark key="." line="93" column="60" />
-        <mark key="^" line="93" column="71" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1553671586816">
+        <mark key="'" line="110" column="24" />
+        <mark key="[" line="63" column="41" />
+        <mark key="]" line="63" column="41" />
+        <mark key="." line="63" column="41" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1553236920021">
         <mark key="[" line="9" column="21" />
@@ -1459,11 +1459,11 @@
         <mark key="." line="10" column="170" />
         <mark key="^" line="10" column="170" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1553571018574">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1553671683598">
+        <mark key="[" line="223" column="75" />
+        <mark key="]" line="223" column="78" />
+        <mark key="." line="223" column="78" />
+        <mark key="^" line="223" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/sidemenu.vue" timestamp="1553670179305">
         <mark key="[" line="43" column="0" />
@@ -1689,11 +1689,11 @@
       <jump line="24" column="42" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGlzdC51bnNoaWZ0KHsKICAgICAgICAgICAgICAgICAgICAiaWQiOiAiYWxsIiwKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiYWxsIgogICAgICAgICAgICAgICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>change</text>
       </register>
       <register name="-" type="4">
-        <text>{&quot;id&quot;}</text>
+        <text>change</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
