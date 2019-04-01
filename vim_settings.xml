@@ -1326,6 +1326,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1554112872335">
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="82" column="41" />
+        <mark key="." line="82" column="41" />
+        <mark key="^" line="82" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-attrs.js" timestamp="1548411461219">
         <mark key="[" line="9" column="71" />
         <mark key="]" line="9" column="75" />
@@ -1701,11 +1707,11 @@
       <jump line="21" column="8" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhbHVlID0gSlNPTi5zdHJpbmdpZnkodmFsdWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>add `parseTimeString()`</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
