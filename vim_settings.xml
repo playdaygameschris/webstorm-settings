@@ -63,11 +63,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1550460336118">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="21" />
-        <mark key="^" line="41" column="21" />
-        <mark key="." line="41" column="21" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1554086667310">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/stock.js" timestamp="1540192258991">
         <mark key="[" line="18" column="8" />
@@ -166,7 +166,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1553835746297" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/Circle.vue" timestamp="1545187958046">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="77" />
@@ -508,7 +507,6 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="/config-table.vue" timestamp="1553829851325" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1553825868091">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="22" />
@@ -599,11 +597,11 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1553854912904">
-        <mark key="[" line="33" column="89" />
-        <mark key="]" line="37" column="78" />
-        <mark key="^" line="37" column="78" />
-        <mark key="." line="37" column="78" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1554086422119">
+        <mark key="[" line="26" column="62" />
+        <mark key="]" line="26" column="88" />
+        <mark key="." line="26" column="88" />
+        <mark key="^" line="26" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
         <mark key="[" line="31" column="8" />
@@ -759,11 +757,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1551950221442">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="20" column="25" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1554086616379">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags.vue" timestamp="1553150858969">
         <mark key="[" line="26" column="35" />
@@ -1430,11 +1428,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1553851972515">
-        <mark key="[" line="51" column="65" />
-        <mark key="]" line="51" column="73" />
-        <mark key="." line="51" column="73" />
-        <mark key="^" line="51" column="73" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1554087375406">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="55" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-child.js" timestamp="1553659186559">
         <mark key="[" line="15" column="40" />
@@ -1448,7 +1446,6 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1553833704424" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/bus.js" timestamp="1547029230746">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1461,10 +1458,11 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1553850724480">
-        <mark key="[" line="98" column="95" />
-        <mark key="]" line="98" column="95" />
-        <mark key="." line="98" column="95" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1554087490420">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -1709,11 +1707,11 @@
       <jump line="21" column="8" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>general</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlc29sdmVfbWVtY2FjaGVkOiAoY29udGV4dCwgdG9rZW4pID0+IHsKICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoIGFzeW5jIChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY29udGV4dC5tYy5nZXQoaGFzaCh0b2tlbikpCgogICAgICAgICAgICBsZXQge3R5cGUsIHRhYmxlLCBrZXl9ID0gdG9rZW4KICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChyZXN1bHQgJiYgcmVzdWx0ICE9PSB1bmRlZmluZWQpewoKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBKU09OLnBhcnNlKHJlc3VsdCkKICAgICAgICAgICAgICAgICAgICB9Y2F0Y2ggKGVycm9yKXsKICAgICAgICAgICAgICAgICAgICAgICAgLy9wYXNzCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChpc0FycmF5KHJlc3VsdCkpewogICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkID0gcmVzdWx0Lm1hcCh4ID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBldmFsKGAke2dldF9jbGFzc25hbWUodGFibGUpfS5kZXNlcmlhbGl6ZUJpbmFyeShzdHIyYWIoeCkpYCkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkID0gZXZhbChgJHtnZXRfY2xhc3NuYW1lKHRhYmxlKX0uZGVzZXJpYWxpemVCaW5hcnkoc3RyMmFiKHJlc3VsdCkpYCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZSh7Y29udGV4dCwgdG9rZW4sIHBheWxvYWR9KQogICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZCA9IHR5cGUgPT0gJ2xpc3QnID8gW10gOiBudWxsCiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZSh7Y29udGV4dCwgdG9rZW4sIHBheWxvYWR9KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoKGVycm9yKSB7CiAgICAgICAgICAgICAgICByZWplY3QoIGVycm9yXygiTWVtY2FjaGVkUmVzb2x2ZUVycm9yIiwgZXJyb3IpICkKICAgICAgICAgICAgfQogICAgICAgIH0pCiAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>general</text>
+        <text>mc</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1722,31 +1720,28 @@
         <text encoding="base64">Y29uc3QgcmVkaXMgPSByZWRpcy5jcmVhdGVJbnN0YW5jZSgnZ2VuZXJhbCcsIHJlZGlzX2NvbmZpZy5nZW5lcmFsLmhvc3RzLCByZWRpc19jb25maWcuZ2VuZXJhbC5vcHRpb25zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBNZW1jYWNoZWRDYWNoZSB9ID0gcmVxdWlyZSgnYXBvbGxvLXNlcnZlci1jYWNoZS1tZW1jYWNoZWQnKQo=</text>
+        <text encoding="base64">ICAgIHJlc29sdmVfbWVtY2FjaGVkOiAoY29udGV4dCwgdG9rZW4pID0+IHsKICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoIGFzeW5jIChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY29udGV4dC5tYy5nZXQoaGFzaCh0b2tlbikpCgogICAgICAgICAgICBsZXQge3R5cGUsIHRhYmxlLCBrZXl9ID0gdG9rZW4KICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChyZXN1bHQgJiYgcmVzdWx0ICE9PSB1bmRlZmluZWQpewoKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBKU09OLnBhcnNlKHJlc3VsdCkKICAgICAgICAgICAgICAgICAgICB9Y2F0Y2ggKGVycm9yKXsKICAgICAgICAgICAgICAgICAgICAgICAgLy9wYXNzCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChpc0FycmF5KHJlc3VsdCkpewogICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkID0gcmVzdWx0Lm1hcCh4ID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBldmFsKGAke2dldF9jbGFzc25hbWUodGFibGUpfS5kZXNlcmlhbGl6ZUJpbmFyeShzdHIyYWIoeCkpYCkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkID0gZXZhbChgJHtnZXRfY2xhc3NuYW1lKHRhYmxlKX0uZGVzZXJpYWxpemVCaW5hcnkoc3RyMmFiKHJlc3VsdCkpYCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZSh7Y29udGV4dCwgdG9rZW4sIHBheWxvYWR9KQogICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZCA9IHR5cGUgPT0gJ2xpc3QnID8gW10gOiBudWxsCiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZSh7Y29udGV4dCwgdG9rZW4sIHBheWxvYWR9KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoKGVycm9yKSB7CiAgICAgICAgICAgICAgICByZWplY3QoIGVycm9yXygiTWVtY2FjaGVkUmVzb2x2ZUVycm9yIiwgZXJyb3IpICkKICAgICAgICAgICAgfQogICAgICAgIH0pCiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ3JlY29ubmVjdGluZycsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkUmVjb25uZWN0aW5nKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGByZWNvbm5lY3Rpbmcgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsKCiAgICAgICAgaW5zdGFuY2UuY2xpZW50Lm9uKCdpc3N1ZScsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkSXNzdWUoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYGlzc3VlIHdpdGggaG9zdHMgJHtob3N0c31gLAogICAgICAgICAgICAgICAgZGF0YToge25hbWV9LAogICAgICAgICAgICAgICAgaW50ZXJuYWxEYXRhOnsgaG9zdHMsIG9wdGlvbnMsIGRldGFpbHN9CiAgICAgICAgICAgIH0pCiAgICAgICAgfSk7CgogICAgICAgIGluc3RhbmNlLmNsaWVudC5vbigncmVjb25uZWN0JywgZGV0YWlscyA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBNZW1jYWNoZWRSZWNvbm5lY3QoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYHJlY29ubmVjdCB3aXRoIGhvc3RzICR7aG9zdHN9YCwKICAgICAgICAgICAgICAgIGRhdGE6IHtuYW1lfSwKICAgICAgICAgICAgICAgIGludGVybmFsRGF0YTp7IGhvc3RzLCBvcHRpb25zLCBkZXRhaWxzfQogICAgICAgICAgICB9KQogICAgICAgIH0pOwoKICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ3JlbW92ZScsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkUmVtb3ZlKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGByZW1vdmUgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Ly8gY29uc3QgbWNfY29uZmlnID0gewovLyAgICAgZ2VuZXJhbDp7Ci8vICAgICAgICAgaG9zdHM6WwovLyAgICAgICAgICAgICBwcm9jZXNzLmVudi5HRU5FUkFMX01FTUNBQ0hFRF9IT1NUCi8vICAgICAgICAgXSwKLy8gICAgICAgICBvcHRpb25zOnsKLy8gICAgICAgICAgICAgcmV0cmllczogMywKLy8gICAgICAgICAgICAgdGltZW91dDo1MDAsCi8vICAgICAgICAgICAgIHJldHJ5OiA1MDAKLy8gICAgICAgICB9Ci8vICAgICB9LAovLyAgICAgc2Q6IHsKLy8gICAgICAgICBob3N0czogW3Byb2Nlc3MuZW52LkdSQVBIUUxfTUVNQ0FDSEVEX0hPU1RdLAovLyAgICAgICAgIG9wdGlvbnM6eyByZXRyaWVzOiAzLCB0aW1lb3V0OjUwMCwgcmV0cnk6IDUwMCB9Ci8vICAgICB9Ci8vIH0KLy8KLy8gY29uc3QgbWMgPSBtZW1jYWNoZWQuY3JlYXRlSW5zdGFuY2UoJ2dlbmVyYWwnLCBtY19jb25maWcuZ2VuZXJhbC5ob3N0cywgbWNfY29uZmlnLmdlbmVyYWwub3B0aW9ucykKLy8gY29uc3QgY2FjaGUgPSBtZW1jYWNoZWQuY3JlYXRlSW5zdGFuY2UoJ3NkJywgbWNfY29uZmlnLnNkLmhvc3RzLCBtY19jb25maWcuc2Qub3B0aW9ucykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbWM6IG1lbWNhY2hlZC5jcmVhdGVJbnN0YW5jZSgnZ2VuZXJhbCcsIG1jX2NvbmZpZy5nZW5lcmFsLmhvc3RzLCBtY19jb25maWcuZ2VuZXJhbC5vcHRpb25zKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ2ZhaWx1cmUnLCBkZXRhaWxzID0+IHsKICAgICAgICAgICAgdGhyb3cgbmV3IE1lbWNhY2hlZEZhaWx1cmUoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYGZhaWx1cmUgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsKICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ3JlY29ubmVjdGluZycsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkUmVjb25uZWN0aW5nKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGByZWNvbm5lY3Rpbmcgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsKCiAgICAgICAgaW5zdGFuY2UuY2xpZW50Lm9uKCdpc3N1ZScsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkSXNzdWUoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYGlzc3VlIHdpdGggaG9zdHMgJHtob3N0c31gLAogICAgICAgICAgICAgICAgZGF0YToge25hbWV9LAogICAgICAgICAgICAgICAgaW50ZXJuYWxEYXRhOnsgaG9zdHMsIG9wdGlvbnMsIGRldGFpbHN9CiAgICAgICAgICAgIH0pCiAgICAgICAgfSk7CgogICAgICAgIGluc3RhbmNlLmNsaWVudC5vbigncmVjb25uZWN0JywgZGV0YWlscyA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBNZW1jYWNoZWRSZWNvbm5lY3QoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYHJlY29ubmVjdCB3aXRoIGhvc3RzICR7aG9zdHN9YCwKICAgICAgICAgICAgICAgIGRhdGE6IHtuYW1lfSwKICAgICAgICAgICAgICAgIGludGVybmFsRGF0YTp7IGhvc3RzLCBvcHRpb25zLCBkZXRhaWxzfQogICAgICAgICAgICB9KQogICAgICAgIH0pOwoKICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ3JlbW92ZScsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkUmVtb3ZlKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGByZW1vdmUgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXM6IHJlZGlzLmNyZWF0ZUlucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>new MemcachedCache(
-            hosts,
-            options
-        )</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">Y29uc3QgeyBNZW1jYWNoZWRDYWNoZSB9ID0gcmVxdWlyZSgnYXBvbGxvLXNlcnZlci1jYWNoZS1tZW1jYWNoZWQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ3JlY29ubmVjdGluZycsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkUmVjb25uZWN0aW5nKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGByZWNvbm5lY3Rpbmcgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsKCiAgICAgICAgaW5zdGFuY2UuY2xpZW50Lm9uKCdpc3N1ZScsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkSXNzdWUoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYGlzc3VlIHdpdGggaG9zdHMgJHtob3N0c31gLAogICAgICAgICAgICAgICAgZGF0YToge25hbWV9LAogICAgICAgICAgICAgICAgaW50ZXJuYWxEYXRhOnsgaG9zdHMsIG9wdGlvbnMsIGRldGFpbHN9CiAgICAgICAgICAgIH0pCiAgICAgICAgfSk7CgogICAgICAgIGluc3RhbmNlLmNsaWVudC5vbigncmVjb25uZWN0JywgZGV0YWlscyA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBNZW1jYWNoZWRSZWNvbm5lY3QoewogICAgICAgICAgICAgICAgbWVzc2FnZTogYHJlY29ubmVjdCB3aXRoIGhvc3RzICR7aG9zdHN9YCwKICAgICAgICAgICAgICAgIGRhdGE6IHtuYW1lfSwKICAgICAgICAgICAgICAgIGludGVybmFsRGF0YTp7IGhvc3RzLCBvcHRpb25zLCBkZXRhaWxzfQogICAgICAgICAgICB9KQogICAgICAgIH0pOwoKICAgICAgICBpbnN0YW5jZS5jbGllbnQub24oJ3JlbW92ZScsIGRldGFpbHMgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgTWVtY2FjaGVkUmVtb3ZlKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGByZW1vdmUgd2l0aCBob3N0cyAke2hvc3RzfWAsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0cywgb3B0aW9ucywgZGV0YWlsc30KICAgICAgICAgICAgfSkKICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
