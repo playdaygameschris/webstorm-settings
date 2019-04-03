@@ -603,7 +603,6 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1554101699516" />
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="8" />
@@ -705,9 +704,9 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554101615119">
+      <file name="/Dummy.txt" timestamp="1554277822029">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1551343332266">
@@ -1708,10 +1707,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>disable `filterable` of config dailog (because of framework bug)</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>disable `filterable` of config dailog (because of framework bug)</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
