@@ -815,11 +815,11 @@
         <mark key="^" line="19" column="83" />
         <mark key="." line="19" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555301944099">
-        <mark key="[" line="84" column="70" />
-        <mark key="]" line="84" column="76" />
-        <mark key="." line="84" column="76" />
-        <mark key="^" line="84" column="76" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555305623313">
+        <mark key="[" line="127" column="31" />
+        <mark key="]" line="127" column="34" />
+        <mark key="." line="127" column="34" />
+        <mark key="^" line="127" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/common/sub-staticdata-singleton-table.vue" timestamp="1535098375128">
         <mark key="[" line="2" column="0" />
@@ -1705,10 +1705,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>primary</text>
+        <text>append</text>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>append</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1717,31 +1717,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30sIHBhcmFtcy5yb3cub2xkX3ZhbHVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmtleSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ21kLWFkZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZTogJzE2JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGtlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbdmFsLnZhbHVlLCAnZGVmYXVsdCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsaXN0ID0gWwogICAgICAgICAgICAgICAgICAgIFsndHJ1ZScsICdncmVlbiddLAogICAgICAgICAgICAgICAgICAgIFsnZmFsc2UnLCAncmVkJ10sCiAgICAgICAgICAgICAgICAgICAgW3ZhbC52YWx1ZSwgJ2RlZmF1bHQnXQogICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbGRfdmFsdWUnLCBvbGRfdmFsdWUpCiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbmV3X3ZhbHVlJywgbmV3X3ZhbHVlKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2RpZmYnLCBkaWZmKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>else {
+                }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2godHlwZSl7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ2NyZWF0ZSc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZGlmZiA9IGRldGFpbGVkRGlmZigpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHZhciBkaWZmID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmtleSwK</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
