@@ -693,7 +693,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554977504307">
+      <file name="/Dummy.txt" timestamp="1555388168735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -818,11 +818,11 @@
         <mark key="^" line="19" column="83" />
         <mark key="." line="19" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555383902300">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555388139181">
         <mark key="[" line="132" column="34" />
         <mark key="]" line="132" column="34" />
+        <mark key="^" line="132" column="34" />
         <mark key="." line="132" column="34" />
-        <mark key="^" line="127" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/common/sub-staticdata-singleton-table.vue" timestamp="1535098375128">
         <mark key="[" line="2" column="0" />
@@ -1707,8 +1707,8 @@
       <jump line="33" column="8" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1720,32 +1720,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30sIHBhcmFtcy5yb3cub2xkX3ZhbHVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ21kLWFkZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZTogJzE2JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ21kLWFkZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZTogJzE2JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbGRfdmFsdWUnLCBvbGRfdmFsdWUpCiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbmV3X3ZhbHVlJywgbmV3X3ZhbHVlKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2RpZmYnLCBkaWZmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>else {
-                }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2godHlwZSl7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ2NyZWF0ZSc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZGlmZiA9IGRldGFpbGVkRGlmZigpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHZhciBkaWZmID0K</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmtleSwK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbGRfdmFsdWUnLCBvbGRfdmFsdWUpCiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbmV3X3ZhbHVlJywgbmV3X3ZhbHVlKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2RpZmYnLCBkaWZmKQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>else {
+                }</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
