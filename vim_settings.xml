@@ -192,10 +192,11 @@
       <file name="/GraphQL.variables.json" timestamp="1555996986574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1555997290399">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1556004127282">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1541556937265">
         <mark key="[" line="44" column="67" />
@@ -481,11 +482,11 @@
         <mark key="." line="29" column="100" />
         <mark key="^" line="29" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/redis/lib/utils.js" timestamp="1555997077576">
-        <mark key="[" line="142" column="20" />
-        <mark key="]" line="142" column="21" />
-        <mark key="^" line="142" column="35" />
-        <mark key="." line="142" column="21" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/redis/lib/utils.js" timestamp="1556003539231">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/list-category-module.js" timestamp="1544510919177">
         <mark key="[" line="1" column="18" />
@@ -715,7 +716,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555994820959">
+      <file name="/Dummy.txt" timestamp="1556004128748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -1465,11 +1466,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1555987111175">
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="23" />
-        <mark key="^" line="58" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1556003529301">
+        <mark key="'" line="41" column="51" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="84" column="20" />
+        <mark key="." line="84" column="20" />
+        <mark key="^" line="84" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-child.js" timestamp="1553659186559">
         <mark key="[" line="15" column="40" />
@@ -1652,7 +1654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" />
       <jump line="37" column="34" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" />
       <jump line="16" column="4" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
       <jump line="9" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
@@ -1752,13 +1753,14 @@
       <jump line="35" column="33" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" />
       <jump line="33" column="8" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" />
       <jump line="45" column="37" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machine-costs-table.vue" />
+      <jump line="41" column="51" filename="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VfdGltZV9wYXJhbSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1767,31 +1769,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30sIHBhcmFtcy5yb3cub2xkX3ZhbHVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VfdGltZV9wYXJhbSkK</text>
+        <text encoding="base64">CmNvbnN0IHBhcnNlVGltZVBhcmFtID0gKHBhcmFtKSA9PiB7CiAgICB2YXIgdW5pdCA9IHBhcmFtLnN1YnN0cmluZyhwYXJhbS5sZW5ndGgtMSwgcGFyYW0ubGVuZ3RoKQogICAgaWYgKHVuaXQubWF0Y2goL15bYS16XXsxfSQvKSA9PT0gbnVsbCkgewogICAgICAgIHJldHVybiBwYXJhbQogICAgfQogICAgdmFyIG11bHRpcGxlciA9IHsncyc6MSwgJ20nOjYwLCAnaCc6MzYwMCwgJ2QnOiA4NjQwMH0KICAgIHJldHVybiBwYXJzZUludChwYXJhbS5zdWJzdHJpbmcoMCwgcGFyYW0ubGVuZ3RoLTEpKSAqIG11bHRpcGxlclt1bml0XQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhcnNlX3RpbWVfcGFyYW0pCg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3BhcnNlVGltZVN0cmluZycsIGJhc2VSZXNvbHZlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdPYmplY3QudmFsdWVzKHJlc3VsdCknLCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3VsVCcsIGRhdGEpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3V0aWxzJywgdXRpbHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQpCiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnT2JqZWN0LnZhbHVlcyhyZXN1bHQpJywgT2JqZWN0LnZhbHVlcyhyZXN1bHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VsaXRzJywgdXRpbHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2RlY29yYXRlKHJlc3VsdCknLCBkZWNvcmF0ZShyZXN1bHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSByZXN1bHRbJ2NvbmZpZ3MnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3V0aWxzJywgdXRpbHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMudG9rZW4pCiAgICAgICAgY29uc29sZS5sb2codmFsdWUpCiAgICAgICAgY29uc29sZS5sb2codHRsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
