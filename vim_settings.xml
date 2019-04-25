@@ -189,7 +189,7 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1556180920850">
+      <file name="/GraphQL.variables.json" timestamp="1556182827878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1556004127282">
@@ -530,10 +530,10 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1556180842358">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="72" column="12" />
-        <mark key="." line="72" column="12" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1556182840050">
+        <mark key="[" line="72" column="10" />
+        <mark key="]" line="72" column="11" />
+        <mark key="." line="72" column="11" />
         <mark key="^" line="72" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1553825868091">
@@ -1515,11 +1515,11 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1554977487257">
-        <mark key="[" line="80" column="6" />
-        <mark key="]" line="110" column="5" />
-        <mark key="^" line="110" column="5" />
-        <mark key="." line="110" column="5" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1556183040361">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -1769,16 +1769,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stats</text>
+        <text>varibale</text>
       </register>
       <register name="-" type="4">
-        <text>stats</text>
+        <text>varibale</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30sIHBhcmFtcy5yb3cub2xkX3ZhbHVlKSwK</text>
+        <text encoding="base64">ICAgICJ1c2VyX3N0YXRzIjogIlNFTEVDVCB1c2VyX2lkLCBudWxsIGFzIHIyLCBudWxsIGFzIHIzLCBjcmVhdGVfdGltZSBGUk9NIHVzZXJfc3RhdHMgV0hFUkUgdXNlcl9pZCA9ID8gTElNSVQgMSIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmNvbnN0IHBhcnNlVGltZVBhcmFtID0gKHBhcmFtKSA9PiB7CiAgICB2YXIgdW5pdCA9IHBhcmFtLnN1YnN0cmluZyhwYXJhbS5sZW5ndGgtMSwgcGFyYW0ubGVuZ3RoKQogICAgaWYgKHVuaXQubWF0Y2goL15bYS16XXsxfSQvKSA9PT0gbnVsbCkgewogICAgICAgIHJldHVybiBwYXJhbQogICAgfQogICAgdmFyIG11bHRpcGxlciA9IHsncyc6MSwgJ20nOjYwLCAnaCc6MzYwMCwgJ2QnOiA4NjQwMH0KICAgIHJldHVybiBwYXJzZUludChwYXJhbS5zdWJzdHJpbmcoMCwgcGFyYW0ubGVuZ3RoLTEpKSAqIG11bHRpcGxlclt1bml0XQp9Cg==</text>
