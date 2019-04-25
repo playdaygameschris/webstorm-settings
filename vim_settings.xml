@@ -189,7 +189,7 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1555996986574">
+      <file name="/GraphQL.variables.json" timestamp="1556180920850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1556004127282">
@@ -221,6 +221,12 @@
         <mark key="]" line="5" column="54" />
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1556181009804">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1540462775373">
         <mark key="[" line="4" column="0" />
@@ -336,7 +342,7 @@
         <mark key="." line="73" column="29" />
         <mark key="^" line="73" column="29" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555986598049">
+      <file name="/GraphQL.result.json" timestamp="1556180752024">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
@@ -512,17 +518,23 @@
         <mark key="^" line="67" column="37" />
         <mark key="." line="67" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1556181125737">
+        <mark key="[" line="69" column="61" />
+        <mark key="]" line="69" column="68" />
+        <mark key="^" line="69" column="68" />
+        <mark key="." line="69" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1554717589357">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1555996802622">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1556180842358">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="12" />
+        <mark key="." line="72" column="12" />
+        <mark key="^" line="72" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1553825868091">
         <mark key="[" line="12" column="18" />
@@ -1757,10 +1769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>stats</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
