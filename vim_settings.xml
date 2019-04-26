@@ -399,6 +399,12 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1556264153267">
+        <mark key="[" line="142" column="81" />
+        <mark key="]" line="142" column="81" />
+        <mark key="^" line="142" column="81" />
+        <mark key="." line="142" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/context.js" timestamp="1554976598128">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="24" column="13" />
@@ -717,8 +723,10 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556262898241">
+      <file name="/Dummy.txt" timestamp="1556264155516">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
         <mark key="[" line="34" column="9" />
@@ -1762,10 +1770,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>space</text>
+        <text>s `type_` `to type</text>
       </register>
       <register name="-" type="4">
-        <text>space</text>
+        <text>s `type_` `to type</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
