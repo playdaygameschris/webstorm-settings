@@ -189,7 +189,7 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1556183900862">
+      <file name="/GraphQL.variables.json" timestamp="1556262888798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1556184481263">
@@ -519,11 +519,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1556188179543">
-        <mark key="[" line="137" column="4" />
-        <mark key="]" line="137" column="8" />
-        <mark key="." line="137" column="8" />
-        <mark key="^" line="137" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1556262896673">
+        <mark key="[" line="104" column="4" />
+        <mark key="]" line="104" column="8" />
+        <mark key="." line="104" column="8" />
+        <mark key="^" line="104" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1553825868091">
         <mark key="[" line="12" column="18" />
@@ -717,7 +717,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556262126586">
+      <file name="/Dummy.txt" timestamp="1556262898241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1762,10 +1762,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>level</text>
+        <text>space</text>
       </register>
       <register name="-" type="4">
-        <text>level</text>
+        <text>space</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
