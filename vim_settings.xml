@@ -586,10 +586,11 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1556613495448">
-        <mark key="[" line="78" column="48" />
-        <mark key="]" line="78" column="48" />
-        <mark key="." line="78" column="48" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1556615969016">
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="78" column="43" />
+        <mark key="." line="78" column="43" />
+        <mark key="^" line="78" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1555394050588">
         <mark key="[" line="105" column="37" />
@@ -1647,11 +1648,11 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1553570393712">
-        <mark key="[" line="74" column="14" />
-        <mark key="]" line="78" column="13" />
-        <mark key="." line="78" column="13" />
-        <mark key="^" line="78" column="13" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1556616002475">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-types.js" timestamp="1543215801023">
         <mark key="[" line="1" column="46" />
@@ -1676,6 +1677,12 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1556615982639">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -1782,10 +1789,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>200</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
