@@ -63,11 +63,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1555989064152">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1557391919596">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1555297734773">
         <mark key="[" line="12" column="34" />
@@ -521,7 +521,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1556789421721">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1557391406887">
+        <mark key="'" line="69" column="70" />
         <mark key="[" line="8" column="75" />
         <mark key="]" line="8" column="75" />
         <mark key="." line="8" column="75" />
@@ -731,7 +732,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557379210979">
+      <file name="/Dummy.txt" timestamp="1557391924522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -784,7 +785,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1557309847589">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1557391587467">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
@@ -1694,7 +1695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
       <jump line="87" column="35" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
       <jump line="89" column="37" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" />
@@ -1794,13 +1794,14 @@
       <jump line="43" column="6" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
       <jump line="35" column="51" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
+      <jump line="69" column="70" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>locale-tutors</text>
+        <text>dev-home-gen.0wphg2.cfg.usw2.cache.amazonaws.com</text>
       </register>
       <register name="-" type="4">
-        <text>locale-tutors</text>
+        <text>dev-home-gen.0wphg2.cfg.usw2.cache.amazonaws.com</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
