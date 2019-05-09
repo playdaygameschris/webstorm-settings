@@ -153,11 +153,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1557366166567">
-        <mark key="[" line="298" column="36" />
-        <mark key="]" line="298" column="37" />
-        <mark key="." line="298" column="37" />
-        <mark key="^" line="298" column="37" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1557367579570">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
         <mark key="[" line="15" column="116" />
@@ -287,6 +287,11 @@
         <mark key="]" line="11" column="65" />
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-items-layout.vue" timestamp="1557367657523">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/ui-color-item-tags.js" timestamp="1553763331649">
         <mark key="[" line="10" column="60" />
@@ -717,7 +722,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557311551822">
+      <file name="/Dummy.txt" timestamp="1557367791554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1165,6 +1170,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1557367627016">
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="99" column="12" />
+        <mark key="^" line="99" column="12" />
+        <mark key="." line="99" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/radio.vue" timestamp="1547718090587">
         <mark key="[" line="3" column="109" />
         <mark key="]" line="2" column="46" />
@@ -1531,11 +1542,11 @@
         <mark key="." line="10" column="170" />
         <mark key="^" line="10" column="170" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1557366593436">
-        <mark key="[" line="240" column="24" />
-        <mark key="]" line="240" column="43" />
-        <mark key="." line="240" column="43" />
-        <mark key="^" line="240" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1557367435827">
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/sidemenu.vue" timestamp="1553670179305">
         <mark key="[" line="43" column="0" />
@@ -1777,10 +1788,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy5jb2x1bW5zLmZpbHRlcih4PT54WydrZXknXT09J25vdGVfJykubGVuZ3RoPT0w</text>
+        <text>level furniture default not required</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5jb2x1bW5zLmZpbHRlcih4PT54WydrZXknXT09J25vdGVfJykubGVuZ3RoPT0w</text>
+        <text>level furniture default not required</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
