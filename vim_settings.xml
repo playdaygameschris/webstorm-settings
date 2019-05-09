@@ -198,11 +198,11 @@
       <file name="/GraphQL.variables.json" timestamp="1557119060038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1557371905953">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="155" column="35" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1557379144797">
+        <mark key="[" line="201" column="35" />
+        <mark key="]" line="201" column="47" />
+        <mark key="." line="201" column="47" />
+        <mark key="^" line="201" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1541556937265">
         <mark key="[" line="44" column="67" />
@@ -731,7 +731,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557375289594">
+      <file name="/Dummy.txt" timestamp="1557379210979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -1796,11 +1796,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>locale-tutors</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>locale-tutors</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
