@@ -520,11 +520,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1557915008046">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="61" column="12" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1557915831622">
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="71" column="47" />
+        <mark key="^" line="71" column="47" />
+        <mark key="." line="71" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1557903190966">
         <mark key="'" line="52" column="8" />
@@ -1805,10 +1805,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>integer</text>
+        <text encoding="base64">PiB0aGlzLiRmb3JjZVVwZGF0ZSgpIg==</text>
       </register>
       <register name="-" type="4">
-        <text>integer</text>
+        <text encoding="base64">PiB0aGlzLiRmb3JjZVVwZGF0ZSgpIg==</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
