@@ -592,6 +592,9 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/node_modules/iview/src/components/form/form-item.vue" timestamp="1557974331401">
+        <mark key="[" line="118" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1557393199059">
         <mark key="[" line="77" column="38" />
         <mark key="]" line="78" column="43" />
@@ -1802,8 +1805,8 @@
       <jump line="173" column="14" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PiB0aGlzLiRmb3JjZVVwZGF0ZSgpIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRWYWx1ZSAoKSB7CiAgICAgICAgICAgICAgICBjb25zdCBtb2RlbCA9IHRoaXMuZm9ybS5tb2RlbDsKICAgICAgICAgICAgICAgIGlmICghbW9kZWwgfHwgIXRoaXMucHJvcCkgeyByZXR1cm47IH0KCiAgICAgICAgICAgICAgICBsZXQgcGF0aCA9IHRoaXMucHJvcDsKICAgICAgICAgICAgICAgIGlmIChwYXRoLmluZGV4T2YoJzonKSAhPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICBwYXRoID0gcGF0aC5yZXBsYWNlKC86LywgJy4nKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXR1cm4gZ2V0UHJvcEJ5UGF0aChtb2RlbCwgcGF0aCkudjsKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PiB0aGlzLiRmb3JjZVVwZGF0ZSgpIg==</text>
@@ -1815,31 +1818,41 @@
         <text encoding="base64">ICAgICJ1c2VyX3N0YXRzIjogIlNFTEVDVCB1c2VyX2lkLCBudWxsIGFzIHIyLCBudWxsIGFzIHIzLCBjcmVhdGVfdGltZSBGUk9NIHVzZXJfc3RhdHMgV0hFUkUgdXNlcl9pZCA9ID8gTElNSVQgMSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTwvSW5wdXROdW1iZXI+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRWYWx1ZSAoKSB7CiAgICAgICAgICAgICAgICBjb25zdCBtb2RlbCA9IHRoaXMuZm9ybS5tb2RlbDsKICAgICAgICAgICAgICAgIGlmICghbW9kZWwgfHwgIXRoaXMucHJvcCkgeyByZXR1cm47IH0KCiAgICAgICAgICAgICAgICBsZXQgcGF0aCA9IHRoaXMucHJvcDsKICAgICAgICAgICAgICAgIGlmIChwYXRoLmluZGV4T2YoJzonKSAhPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICBwYXRoID0gcGF0aC5yZXBsYWNlKC86LywgJy4nKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXR1cm4gZ2V0UHJvcEJ5UGF0aChtb2RlbCwgcGF0aCkudjsKICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>fieldValue () {
+                const model = this.form.model;
+                if (!model || !this.prop) { return; }
+
+                let path = this.prop;
+                if (path.indexOf(':') !== -1) {
+                    path = path.replace(/:/, '.');
+                }
+
+                return getPropByPath(model, path).v;
+            },</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTwvSW5wdXROdW1iZXI+Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCTxJbnB1dAoJCQkJCQk6c3R5bGU9ImNvbHVtbi5fbG9uZyAhPSB1bmRlZmluZWQ/ICd3aWR0aDoxNTBweCc6ICd3aWR0aDo1MCciCgkJCQkJCXYtaWY9ImdldFR5cGUoY29sdW1uLmtleSkgPT0gJ251bWJlciciCgkJCQkJCTptaW49ImNvbHVtbi5fbWluIgoJCQkJCQk6bWF4PSJjb2x1bW4uX21heCIKCQkJCQkJOnN0ZXA9ImNvbHVtbi5fc3RlcCIKCQkJCQkJOnByZWNpc2lvbj0id3JhcChjb2x1bW4uX3ByZWNpc2lvbiwgbW9kZWwpIgoJCQkJCQl2LW1vZGVsPSJtb2RlbFtjb2x1bW4ua2V5XSIKCQkJCQkJOmRpc2FibGVkPSJmaWVsZF9kaXNhYmxlZFtjb2x1bW4ua2V5XSIKCQkJCQkJQGtleXVwLmVudGVyLm5hdGl2ZT0ib2siPgoKCQkJCTwvSW5wdXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxJbnB1dAoJCQkJCQk6c3R5bGU9ImNvbHVtbi5fbG9uZyAhPSB1bmRlZmluZWQ/ICd3aWR0aDoxNTBweCc6ICd3aWR0aDo1MCciCgkJCQkJCXYtaWY9ImdldFR5cGUoY29sdW1uLmtleSkgPT0gJ251bWJlciciCgkJCQkJCTptaW49ImNvbHVtbi5fbWluIgoJCQkJCQk6bWF4PSJjb2x1bW4uX21heCIKCQkJCQkJOnN0ZXA9ImNvbHVtbi5fc3RlcCIKCQkJCQkJOnByZWNpc2lvbj0id3JhcChjb2x1bW4uX3ByZWNpc2lvbiwgbW9kZWwpIgoJCQkJCQl2LW1vZGVsPSJtb2RlbFtjb2x1bW4ua2V5XSIKCQkJCQkJOmRpc2FibGVkPSJmaWVsZF9kaXNhYmxlZFtjb2x1bW4ua2V5XSIKCQkJCQkJQGtleXVwLmVudGVyLm5hdGl2ZT0ib2siPgoKCQkJCTwvSW5wdXQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJOm1pbj0iY29sdW1uLl9taW4iCgkJCQkJCTptYXg9ImNvbHVtbi5fbWF4IgoJCQkJCQk6c3RlcD0iY29sdW1uLl9zdGVwIgoJCQkJCQk6cHJlY2lzaW9uPSJ3cmFwKGNvbHVtbi5fcHJlY2lzaW9uLCBtb2RlbCkiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY29sdW1uLnJ1bGVzICE9dW5kZWZpbmVkKXsKICAgICAgICAgICAgICAgIHNlbGYucnVsZXNbY29sdW1uLmtleV0gPSBjb2x1bW4ucnVsZXMKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCQkJOm1pbj0iY29sdW1uLl9taW4iCgkJCQkJCTptYXg9ImNvbHVtbi5fbWF4IgoJCQkJCQk6c3RlcD0iY29sdW1uLl9zdGVwIgoJCQkJCQk6cHJlY2lzaW9uPSJ3cmFwKGNvbHVtbi5fcHJlY2lzaW9uLCBtb2RlbCkiCg==</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
