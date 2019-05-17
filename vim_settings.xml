@@ -713,7 +713,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558060607879">
+      <file name="/Dummy.txt" timestamp="1558066696451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1028,11 +1028,11 @@
         <mark key="." line="53" column="102" />
         <mark key="^" line="53" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1557394765965">
-        <mark key="[" line="49" column="156" />
-        <mark key="]" line="49" column="159" />
-        <mark key="." line="49" column="159" />
-        <mark key="^" line="49" column="159" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1558066694632">
+        <mark key="[" line="49" column="60" />
+        <mark key="]" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+        <mark key="^" line="49" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" timestamp="1553679606304">
         <mark key="[" line="29" column="50" />
@@ -1381,10 +1381,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1557990237202">
-        <mark key="[" line="52" column="51" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1558067076789">
+        <mark key="[" line="102" column="47" />
+        <mark key="]" line="102" column="47" />
+        <mark key="." line="102" column="47" />
         <mark key="^" line="52" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-attrs.js" timestamp="1548411461219">
@@ -1792,16 +1792,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ1c2VyX3N0YXRzIjogIlNFTEVDVCB1c2VyX2lkLCBudWxsIGFzIHIyLCBudWxsIGFzIHIzLCBjcmVhdGVfdGltZSBGUk9NIHVzZXJfc3RhdHMgV0hFUkUgdXNlcl9pZCA9ID8gTElNSVQgMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIHR5cGU6J3N0cmluZycsIHBhdHRlcm46L14oW2EtejAtOV1bOi1cXC5dPykrW2EtejAtOV0qJC8sIG1lc3NhZ2U6ICd3cm9uZyBpZCBmb3JtYXQsIG9ubHkgZGlnaXRzLCBsZXR0ZXJzIGFuZCAtLCA6LCAuIGFyZSBhbGxvd2VkJywgdHJpZ2dlcjogJ2JsdXInIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHYtaWY9IiFyZWFkb25seSIK</text>
