@@ -721,7 +721,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558412902924">
+      <file name="/Dummy.txt" timestamp="1558415984525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1311,11 +1311,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mysql.js" timestamp="1549961015662">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mysql.js" timestamp="1558415743656">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1553675846948">
         <mark key="[" line="60" column="64" />
@@ -1800,10 +1800,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:chakracore-10.13</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:chakracore-10.13</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
