@@ -347,10 +347,11 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1558429765825">
-        <mark key="[" line="165" column="56" />
-        <mark key="]" line="165" column="56" />
-        <mark key="." line="165" column="56" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1558501094478">
+        <mark key="[" line="126" column="39" />
+        <mark key="]" line="126" column="44" />
+        <mark key="." line="126" column="44" />
+        <mark key="^" line="126" column="44" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1558488988905">
         <mark key="[" line="0" column="0" />
@@ -739,7 +740,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558429767496">
+      <file name="/Dummy.txt" timestamp="1558501098332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1828,10 +1829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
