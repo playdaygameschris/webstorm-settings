@@ -195,7 +195,7 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1558579108923">
+      <file name="/GraphQL.variables.json" timestamp="1558685902793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1557803992566">
@@ -543,11 +543,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1558579115037">
-        <mark key="[" line="170" column="12" />
-        <mark key="]" line="170" column="12" />
-        <mark key="^" line="171" column="8" />
-        <mark key="." line="170" column="12" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1558685612721">
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="81" column="16" />
+        <mark key="^" line="81" column="16" />
+        <mark key="." line="81" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1556619098677">
         <mark key="[" line="32" column="0" />
@@ -740,7 +740,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558579975502">
+      <file name="/Dummy.txt" timestamp="1558685614335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1573,12 +1573,12 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1558508639156">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1558685121017">
         <mark key="'" line="26" column="24" />
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="76" />
-        <mark key="." line="48" column="76" />
-        <mark key="^" line="48" column="28" />
+        <mark key="[" line="38" column="66" />
+        <mark key="]" line="38" column="132" />
+        <mark key="." line="38" column="132" />
+        <mark key="^" line="38" column="132" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -1829,10 +1829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>drop_silo_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>drop_silo_count</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
