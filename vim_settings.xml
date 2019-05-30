@@ -392,11 +392,11 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559206420460">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559208104667">
+        <mark key="[" line="2" column="79" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="80" />
+        <mark key="." line="2" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
         <mark key="[" line="1" column="30" />
@@ -740,7 +740,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559201214017">
+      <file name="/Dummy.txt" timestamp="1559208110066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1829,10 +1829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
