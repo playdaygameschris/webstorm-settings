@@ -353,7 +353,7 @@
         <mark key="." line="126" column="44" />
         <mark key="^" line="126" column="44" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559180219714">
+      <file name="/GraphQL.result.json" timestamp="1559266317532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
@@ -392,10 +392,10 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559208104667">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559272530687">
         <mark key="[" line="2" column="79" />
         <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="80" />
+        <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
@@ -740,7 +740,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559208110066">
+      <file name="/Dummy.txt" timestamp="1559272532126">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1828,11 +1828,11 @@
       <jump line="31" column="27" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>mysqlPassword</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
