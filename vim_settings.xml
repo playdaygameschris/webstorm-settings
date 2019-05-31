@@ -21,11 +21,11 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1559113220975">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1559295214024">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
         <mark key="[" line="15" column="104" />
@@ -62,12 +62,6 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1559293612081">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1555297734773">
         <mark key="[" line="12" column="34" />
@@ -730,8 +724,8 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559293634967">
-        <mark key="[" line="0" column="15" />
+      <file name="/Dummy.txt" timestamp="1559295518493">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -1494,11 +1488,11 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig.yaml" timestamp="1558580293486">
-        <mark key="[" line="4" column="68" />
-        <mark key="]" line="4" column="75" />
-        <mark key="^" line="4" column="75" />
-        <mark key="." line="4" column="75" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig.yaml" timestamp="1559294779919">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+        <mark key="." line="5" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranch-costs.js" timestamp="1555395917248">
         <mark key="[" line="19" column="52" />
@@ -1803,11 +1797,11 @@
       <jump line="31" column="27" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhd3NLbXNLZXlBcm46ICR7c2VsZjpjdXN0b20ua21zQXJuLiR7c2VsZjpwcm92aWRlci5zdGFnZX19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:8.4.0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1816,28 +1810,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIHR5cGU6J3N0cmluZycsIHBhdHRlcm46L14oW2EtejAtOV1bOi1cXC5dPykrW2EtejAtOV0qJC8sIG1lc3NhZ2U6ICd3cm9uZyBpZCBmb3JtYXQsIG9ubHkgZGlnaXRzLCBsZXR0ZXJzIGFuZCAtLCA6LCAuIGFyZSBhbGxvd2VkJywgdHJpZ2dlcjogJ2JsdXInIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhd3NLbXNLZXlBcm46ICR7c2VsZjpjdXN0b20ua21zQXJuLiR7c2VsZjpwcm92aWRlci5zdGFnZX19Cg==</text>
+        <text encoding="base64">ICB1cGxvYWRzOiBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrbXNBcm46CiAgICBkZXY6IGFybjphd3M6a21zOnVzLXdlc3QtMjoyMjk4MDIxNTA3MzY6a2V5LzM4YWJjNjM1LThmYjItNGU1Yy05ODQxLWEwZDAyM2VmYmEyOAogICAgcHJvZDogYXJuOmF3czprbXM6dXMtd2VzdC0yOjIyOTgwMjE1MDczNjprZXkvMTYzNmNlZTQtYmZiZC00Njc5LWJkNGMtZjlkMDIwOWZlMGNjCg==</text>
+        <text encoding="base64">ICBhd3NLbXNLZXlBcm46ICR7c2VsZjpjdXN0b20ua21zQXJuLiR7c2VsZjpwcm92aWRlci5zdGFnZX19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrbXNBcm46CiAgICBkZXY6IGFybjphd3M6a21zOnVzLXdlc3QtMjoyMjk4MDIxNTA3MzY6a2V5LzM4YWJjNjM1LThmYjItNGU1Yy05ODQxLWEwZDAyM2VmYmEyOAogICAgcHJvZDogYXJuOmF3czprbXM6dXMtd2VzdC0yOjIyOTgwMjE1MDczNjprZXkvMTYzNmNlZTQtYmZiZC00Njc5LWJkNGMtZjlkMDIwOWZlMGNjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Uk9MTEJBUl9UT0tFTj1jZDMwMDUyNDEyMWI0MDJmYTA0YmY2YjE1ODYzOGVmYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJPTExCQVJfVE9LRU46IGNkMzAwNTI0MTIxYjQwMmZhMDRiZjZiMTU4NjM4ZWZiCg==</text>
+        <text encoding="base64">Uk9MTEJBUl9UT0tFTj1jZDMwMDUyNDEyMWI0MDJmYTA0YmY2YjE1ODYzOGVmYgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFJPTExCQVJfVE9LRU46IGNkMzAwNTI0MTIxYjQwMmZhMDRiZjZiMTU4NjM4ZWZiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrbXMK</text>
+        <text encoding="base64">ICAgIFJPTExCQVJfVE9LRU46IGNkMzAwNTI0MTIxYjQwMmZhMDRiZjZiMTU4NjM4ZWZiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrbXMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
