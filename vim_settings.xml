@@ -21,7 +21,7 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1559547826837">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1559614839394">
         <mark key="[" line="70" column="8" />
         <mark key="]" line="70" column="7" />
         <mark key="^" line="70" column="7" />
@@ -63,11 +63,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1559548668565">
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="67" column="1" />
-        <mark key="." line="67" column="1" />
-        <mark key="^" line="67" column="1" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1559614611072">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="5" />
+        <mark key="." line="61" column="5" />
+        <mark key="^" line="61" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1555297734773">
         <mark key="[" line="12" column="34" />
@@ -730,7 +730,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559557601282">
+      <file name="/Dummy.txt" timestamp="1559614612462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -1597,11 +1597,11 @@
         <mark key="." line="3" column="67" />
         <mark key="^" line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1559557599755">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1559614022928">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-table.html.js" timestamp="1553656115582">
         <mark key="[" line="38" column="26" />
@@ -1804,10 +1804,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:8.4.0</text>
+        <text>chakracore-8.10.0</text>
       </register>
       <register name="-" type="4">
-        <text>arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:8.4.0</text>
+        <text>chakracore-8.10.0</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
