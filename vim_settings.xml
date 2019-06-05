@@ -21,7 +21,7 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1559614839394">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1559712309798">
         <mark key="[" line="70" column="8" />
         <mark key="]" line="70" column="7" />
         <mark key="^" line="70" column="7" />
@@ -195,7 +195,7 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1559706795050">
+      <file name="/GraphQL.variables.json" timestamp="1559712417259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1557803992566">
@@ -228,11 +228,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1558426195783">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1559711856724">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1540462775373">
         <mark key="[" line="4" column="0" />
@@ -525,12 +525,12 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1559705338605">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="142" column="60" />
-        <mark key="]" line="142" column="61" />
-        <mark key="^" line="142" column="61" />
-        <mark key="." line="142" column="61" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1559712798463">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="157" column="45" />
+        <mark key="]" line="157" column="45" />
+        <mark key="^" line="150" column="13" />
+        <mark key="." line="157" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1554717589357">
         <mark key="[" line="9" column="21" />
@@ -1102,9 +1102,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1558426292606">
-        <mark key="'" line="31" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitureskins.js" timestamp="1546417098861">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="29" />
@@ -1278,6 +1275,9 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="101" />
+      </file>
+      <file name="/fragment.js" timestamp="1559712390473">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-decorations-layout.vue" timestamp="1547190543791">
         <mark key="[" line="16" column="97" />
@@ -1525,7 +1525,7 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1559705923858">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1559712251527">
         <mark key="[" line="67" column="77" />
         <mark key="]" line="67" column="77" />
         <mark key="." line="67" column="77" />
@@ -1549,12 +1549,12 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1558685121017">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1559712649287">
         <mark key="'" line="26" column="24" />
-        <mark key="[" line="38" column="66" />
-        <mark key="]" line="38" column="132" />
-        <mark key="." line="38" column="132" />
-        <mark key="^" line="38" column="132" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -1615,6 +1615,9 @@
         <mark key="]" line="7" column="65" />
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1559712529452">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/stock.js" timestamp="1539672800607">
         <mark key="[" line="12" column="46" />
@@ -1805,10 +1808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>args</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
