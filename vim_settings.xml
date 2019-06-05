@@ -195,7 +195,7 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1559712417259">
+      <file name="/GraphQL.variables.json" timestamp="1559719529544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1559716948886">
@@ -538,11 +538,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1559706264428">
-        <mark key="[" line="195" column="15" />
-        <mark key="]" line="195" column="16" />
-        <mark key="^" line="195" column="14" />
-        <mark key="." line="195" column="16" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1559719539691">
+        <mark key="[" line="184" column="4" />
+        <mark key="]" line="184" column="5" />
+        <mark key="^" line="184" column="5" />
+        <mark key="." line="184" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1556619098677">
         <mark key="[" line="32" column="0" />
@@ -1808,10 +1808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e: resolver('cache-item', 'treasure', 'userId')</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>e: resolver('cache-item', 'treasure', 'userId')</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
