@@ -123,11 +123,12 @@
         <mark key="." line="29" column="100" />
         <mark key="^" line="29" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1560322522852">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1560326428392">
         <mark key="'" line="124" column="17" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+        <mark key="[" line="123" column="16" />
+        <mark key="]" line="124" column="21" />
+        <mark key="." line="124" column="21" />
+        <mark key="^" line="124" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
         <mark key="[" line="15" column="116" />
@@ -657,7 +658,7 @@
         <mark key="^" line="117" column="41" />
         <mark key="." line="117" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560248607050">
+      <file name="/Dummy.txt" timestamp="1560326429489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -1824,10 +1825,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
