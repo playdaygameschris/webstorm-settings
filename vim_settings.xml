@@ -3,696 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" timestamp="1555059305906">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/map-layout.vue" timestamp="1553842728449">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="32" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-table.js" timestamp="1534238974597">
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1560134940037">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
-        <mark key="[" line="15" column="104" />
-        <mark key="]" line="15" column="115" />
-        <mark key="^" line="15" column="115" />
-        <mark key="." line="15" column="115" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/draggable.vue" timestamp="1542621320309">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranchcosts.js" timestamp="1541736316271">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="9" column="103" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.master.js" timestamp="1533994829199">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1547190183054">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/util.js" timestamp="1547029223607">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1560245539951">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1555297734773">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/stock.js" timestamp="1540192258991">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/settings.js" timestamp="1553226328123">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/services/general-service.js" timestamp="1534406595567">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levels.js" timestamp="1545193214322">
-        <mark key="[" line="15" column="104" />
-        <mark key="]" line="15" column="115" />
-        <mark key="^" line="15" column="115" />
-        <mark key="." line="15" column="115" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/test-component.vue" timestamp="1543914703563">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templatecontents.js" timestamp="1547190165682">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/config.js" timestamp="1553227608052">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="68" />
-        <mark key="." line="11" column="68" />
-        <mark key="^" line="11" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/case/user.js" timestamp="1541407161888">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-sku-layout.vue" timestamp="1547612148072">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1554961012011">
-        <mark key="[" line="2" column="81" />
-        <mark key="]" line="2" column="82" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="2" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-templates-layout.vue" timestamp="1547190202538">
-        <mark key="[" line="19" column="95" />
-        <mark key="]" line="24" column="68" />
-        <mark key="." line="24" column="68" />
-        <mark key="^" line="24" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-filter.html.js" timestamp="1553663223320">
-        <mark key="[" line="19" column="145" />
-        <mark key="]" line="19" column="145" />
-        <mark key="." line="19" column="145" />
-        <mark key="^" line="19" column="164" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-config-prefixes.js" timestamp="1553489569628">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1558428527978">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
-        <mark key="[" line="15" column="116" />
-        <mark key="]" line="15" column="116" />
-        <mark key="." line="15" column="116" />
-        <mark key="^" line="15" column="116" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/versions.js" timestamp="1554718807021">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/Circle.vue" timestamp="1545187958046">
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="1" column="77" />
-        <mark key="^" line="1" column="77" />
-        <mark key="." line="1" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/setting.js" timestamp="1553225397241">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="58" />
-        <mark key="." line="11" column="58" />
-        <mark key="^" line="11" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/protos/.gitignore" timestamp="1540463118816">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-qualifications.js" timestamp="1552022588836">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="64" />
-        <mark key="^" line="10" column="64" />
-      </file>
-      <file name="/GraphQL.variables.json" timestamp="1560248379679">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1560139230023">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="32" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1541556937265">
-        <mark key="[" line="44" column="67" />
-        <mark key="]" line="45" column="24" />
-        <mark key="." line="45" column="24" />
-        <mark key="^" line="45" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/const.js" timestamp="1557375275082">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
-        <mark key="^" line="5" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furniture-skins.js" timestamp="1548728746716">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
-        <mark key="^" line="20" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/memcached.js" timestamp="1556186082204">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1560248411002">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="61" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1540462775373">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/constants.js" timestamp="1546933270776">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/list-layout.vue" timestamp="1553826908521">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/locale-integrity-alert.vue" timestamp="1547527443227">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="25" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/object-type-locale-templates.js" timestamp="1543313653690">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="83" />
-        <mark key="." line="10" column="83" />
-        <mark key="^" line="10" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table.js" timestamp="1535086682341">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="14" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/user.js" timestamp="1539672817302">
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-        <mark key="^" line="31" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/gqlplayground-main-layout.vue" timestamp="1541059846306">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locales.js" timestamp="1547110297506">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="65" />
-        <mark key="^" line="10" column="65" />
-        <mark key="." line="10" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/other-formulas.js" timestamp="1552469447443">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="65" />
-        <mark key="." line="11" column="65" />
-        <mark key="^" line="11" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/ui-color-item-tags.js" timestamp="1553763331649">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="60" />
-        <mark key="." line="10" column="60" />
-        <mark key="^" line="10" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.dev.js" timestamp="1533994836148">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/furniture.js" timestamp="1551343290747">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" timestamp="1553827205859">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="15" column="68" />
-        <mark key="^" line="15" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table.html.js" timestamp="1542861435133">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranch-costs-table.vue" timestamp="1555399257981">
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="79" column="38" />
-        <mark key="^" line="79" column="38" />
-        <mark key="." line="79" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mysql.js" timestamp="1536808866662">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1554950898843">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="36" column="36" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1559721166294">
-        <mark key="[" line="302" column="28" />
-        <mark key="]" line="302" column="28" />
-        <mark key="." line="302" column="28" />
-        <mark key="^" line="302" column="28" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1560321146151">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
-        <mark key="[" line="53" column="72" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="49" />
-        <mark key="^" line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/const.js" timestamp="1533994846690">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/import-dialog.vue" timestamp="1548748619826">
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="11" />
-        <mark key="^" line="53" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/docs/index.md" timestamp="1553656106434">
-        <mark key="[" line="122" column="2" />
-        <mark key="]" line="122" column="2" />
-        <mark key="^" line="72" column="18" />
-        <mark key="." line="122" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/items.js" timestamp="1534236998958">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-items.js" timestamp="1553659002000">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="1" column="38" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559272530687">
-        <mark key="[" line="2" column="79" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="45" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" timestamp="1547189771519">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1558429454908">
-        <mark key="[" line="295" column="29" />
-        <mark key="]" line="295" column="74" />
-        <mark key="." line="295" column="74" />
-        <mark key="^" line="295" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-xp.js" timestamp="1545963309063">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="61" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="11" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/context.js" timestamp="1560245830703">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/list-shopmenu.js" timestamp="1541736227908">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig" timestamp="1539337244087">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-templates.js" timestamp="1543309580211">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/alert-message.vue" timestamp="1545191152040">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="46" />
-        <mark key="." line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-locales.js" timestamp="1542333896275">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="9" column="64" />
-        <mark key="^" line="9" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale.js" timestamp="1542342211640">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="75" />
-        <mark key="^" line="10" column="75" />
-        <mark key="." line="10" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/line-keys.js" timestamp="1542795579103">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/map-radio.vue" timestamp="1545109827306">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-        <mark key="^" line="25" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/component-hierarchy.puml" timestamp="1553656103628">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="156" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-storage-costs.js" timestamp="1555395929155">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="20" column="77" />
-        <mark key="^" line="20" column="77" />
-        <mark key="." line="20" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/mapping-table.vue" timestamp="1543227785898">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1560144191462">
-        <mark key="[" line="29" column="96" />
-        <mark key="]" line="29" column="100" />
-        <mark key="." line="29" column="100" />
-        <mark key="^" line="29" column="100" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/redis/lib/utils.js" timestamp="1556003539231">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/list-category-module.js" timestamp="1544510919177">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-decoration-tags.js" timestamp="1552034947476">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="65" />
-        <mark key="." line="10" column="65" />
-        <mark key="^" line="10" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/parameters.js" timestamp="1546933248788">
-        <mark key="[" line="14" column="82" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1558427448010">
         <mark key="[" line="41" column="44" />
         <mark key="]" line="41" column="44" />
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1559727938651">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="143" column="62" />
-        <mark key="]" line="143" column="66" />
-        <mark key="^" line="143" column="66" />
-        <mark key="." line="143" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1554717589357">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1560248531676">
-        <mark key="'" line="124" column="17" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1556619098677">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranchcosts-table.vue" timestamp="1547189760779">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-sku-items.js" timestamp="1547605094656">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="72" />
-        <mark key="." line="9" column="72" />
-        <mark key="^" line="9" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table-module.js" timestamp="1553658766302">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="17" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-filterable.js" timestamp="1543914967795">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="110" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1547189862240">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="7" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storage-costs-table.vue" timestamp="1555475454900">
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="43" />
-        <mark key="." line="73" column="43" />
-        <mark key="^" line="73" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/local-integrity-alert.vue" timestamp="1545191516703">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1557994986310">
-        <mark key="[" line="81" column="82" />
-        <mark key="]" line="82" column="31" />
-        <mark key="." line="82" column="31" />
-        <mark key="^" line="82" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1558059858806">
-        <mark key="[" line="105" column="37" />
-        <mark key="]" line="105" column="38" />
-        <mark key="." line="105" column="38" />
-        <mark key="^" line="106" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
-        <mark key="[" line="5" column="103" />
-        <mark key="]" line="5" column="103" />
-        <mark key="." line="5" column="103" />
-        <mark key="^" line="5" column="103" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/user_stats.js" timestamp="1551343374333">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/dialog/create-dialog.html.js" timestamp="1545295143170">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-decorations.js" timestamp="1547784529610">
-        <mark key="[" line="16" column="116" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="12" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-sku.js" timestamp="1545973096292">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="63" />
-        <mark key="." line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1560245703395">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="8" />
-        <mark key="^" line="31" column="8" />
-        <mark key="." line="31" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/config-layout.vue" timestamp="1546399127919">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="25" column="41" />
-        <mark key="." line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale.js" timestamp="1554950444819">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="9" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/info-alert.vue" timestamp="1545877214831">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/index.js" timestamp="1548066341588">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1547189854665">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="41" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale-keys.js" timestamp="1542876135219">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="18" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/modules.js" timestamp="1534990440808">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="34" column="28" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-countries.js" timestamp="1546933193569">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-levels-layout.vue" timestamp="1547190286718">
         <mark key="[" line="17" column="33" />
@@ -700,401 +15,35 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/test.js" timestamp="1560248409507">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/stock.js" timestamp="1551343267991">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1559721031881">
-        <mark key="[" line="123" column="95" />
-        <mark key="]" line="123" column="95" />
-        <mark key="." line="123" column="95" />
-        <mark key="^" line="88" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/mixins/object-table.vue" timestamp="1545105147401">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1557982722110">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="52" />
-        <mark key="." line="29" column="52" />
-        <mark key="^" line="29" column="52" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/sidemenu.vue" timestamp="1558324871432">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-keys.js" timestamp="1542875614725">
-        <mark key="[" line="15" column="82" />
-        <mark key="]" line="15" column="101" />
-        <mark key="." line="15" column="101" />
-        <mark key="^" line="15" column="101" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/user.js" timestamp="1539672817302">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+        <mark key="^" line="31" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560322105729">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/config.js" timestamp="1553227608052">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="68" />
+        <mark key="." line="11" column="68" />
+        <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="34" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/parameter-table-color.js" timestamp="1552033115025">
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="51" />
-        <mark key="." line="8" column="51" />
-        <mark key="^" line="8" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/dropdown.html.js" timestamp="1544068784828">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.babelrc" timestamp="1558340181936">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-others.js" timestamp="1547457833701">
-        <mark key="[" line="10" column="64" />
-        <mark key="]" line="10" column="69" />
-        <mark key="." line="10" column="69" />
-        <mark key="^" line="10" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/filter-slot.vue" timestamp="1542868892093">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="30" column="13" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/map-module.js" timestamp="1552034556047">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="132" />
-        <mark key="." line="3" column="132" />
-        <mark key="^" line="3" column="132" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/package.json" timestamp="1545273616377">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1560245676057">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags.vue" timestamp="1553150858969">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/token.js" timestamp="1539673311856">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/cascader.vue" timestamp="1547448881011">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/tab-legend.vue" timestamp="1552880200340">
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="1" column="59" />
-        <mark key="." line="1" column="59" />
-        <mark key="^" line="1" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/decoration/staticdata-decorationcosts-table.vue" timestamp="1546400902466">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="35" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/.babelrc" timestamp="1541391409292">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/item-type-locale-template.js" timestamp="1543313467139">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="77" />
-        <mark key="." line="10" column="77" />
-        <mark key="^" line="10" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/remote-alert.vue" timestamp="1547535985856">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="36" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1535428280582">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="15" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-skus.js" timestamp="1547605123908">
-        <mark key="[" line="19" column="83" />
-        <mark key="]" line="19" column="83" />
-        <mark key="^" line="19" column="83" />
-        <mark key="." line="19" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555394399062">
-        <mark key="[" line="155" column="83" />
-        <mark key="]" line="155" column="83" />
-        <mark key="^" line="155" column="83" />
-        <mark key="." line="155" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/common/sub-staticdata-singleton-table.vue" timestamp="1535098375128">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/object-type-locale-template.js" timestamp="1543313460884">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="14" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.sandbox.js" timestamp="1557995530705">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
-        <mark key="^" line="5" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/check-locale-integrity.js" timestamp="1545193091996">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animal-costs-table.vue" timestamp="1557914758943">
-        <mark key="[" line="74" column="38" />
-        <mark key="]" line="74" column="39" />
-        <mark key="." line="74" column="39" />
-        <mark key="^" line="74" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" timestamp="1554970691371">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/tag-table.vue" timestamp="1553244070263">
-        <mark key="[" line="12" column="53" />
-        <mark key="]" line="12" column="53" />
-        <mark key="." line="12" column="53" />
-        <mark key="^" line="12" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud-module.js" timestamp="1548667416810">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="19" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-levelrewards-table.vue" timestamp="1546400896392">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="48" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animalcosts.js" timestamp="1547189411412">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locales-others.js" timestamp="1546230276603">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="58" />
-        <mark key="^" line="10" column="65" />
-        <mark key="." line="10" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table.html.js" timestamp="1555582819698">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.master.js" timestamp="1557995535307">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
-        <mark key="^" line="5" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-paging.js" timestamp="1547456150097">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/msgpack/lib/msgpack.js" timestamp="1537340502520">
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-objects-layout.vue" timestamp="1548411814847">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levelrewards.js" timestamp="1541736302170">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" timestamp="1541387977372">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" timestamp="1554714887500">
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="62" column="23" />
-        <mark key="^" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mongo.js" timestamp="1536823622971">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1555571564583">
-        <mark key="[" line="64" column="50" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="50" />
-        <mark key="^" line="50" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1558060305407">
-        <mark key="[" line="180" column="16" />
-        <mark key="]" line="180" column="18" />
-        <mark key="^" line="180" column="18" />
-        <mark key="." line="180" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1534411828502">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523174832891">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/package.json" timestamp="1560142651974">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="54" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-template-keys.js" timestamp="1543309688780">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="10" column="67" />
-        <mark key="^" line="10" column="67" />
-        <mark key="." line="10" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/input/text-label.vue" timestamp="1545117898455">
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-tags.js" timestamp="1553763362821">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-template-contents-table.vue" timestamp="1548820928941">
-        <mark key="[" line="53" column="102" />
-        <mark key="]" line="53" column="102" />
-        <mark key="." line="53" column="102" />
-        <mark key="^" line="53" column="102" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1558066694632">
-        <mark key="[" line="49" column="60" />
-        <mark key="]" line="49" column="60" />
-        <mark key="." line="49" column="60" />
-        <mark key="^" line="49" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" timestamp="1553679606304">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="61" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/ranch.js" timestamp="1556260830555">
-        <mark key="[" line="14" column="135" />
-        <mark key="]" line="14" column="139" />
-        <mark key="." line="14" column="139" />
-        <mark key="^" line="14" column="139" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/table-row-errors.js" timestamp="1553496546655">
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="39" column="61" />
-        <mark key="^" line="25" column="32" />
-        <mark key="." line="39" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/README.md" timestamp="1553145931486">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/tag-legend.vue" timestamp="1558336726715">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="83" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranch-attrs-table.vue" timestamp="1548411416130">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="46" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/base.js" timestamp="1560148417133">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/all.test.js" timestamp="1554976196906">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/protos/index.js" timestamp="1549957202285">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/setting-layout.vue" timestamp="1553226099088">
         <mark key="[" line="4" column="75" />
@@ -1102,11 +51,792 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="4" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/mixins/crud-table.js" timestamp="1534238974597">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-gem.js" timestamp="1545193113538">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/case/user.js" timestamp="1541407161888">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui-main-layout.vue" timestamp="1554714861309">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/dynamodb.js" timestamp="1549963329932">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1534319019941">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="^" line="8" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-costs.js" timestamp="1555395941027">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="13" column="77" />
+        <mark key="^" line="13" column="77" />
+        <mark key="." line="13" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/item-type-locale-templates.js" timestamp="1543313637793">
+        <mark key="[" line="10" column="79" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decorationcosts-table.vue" timestamp="1546400872121">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="4" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/circle.vue" timestamp="1545188668318">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1560144191462">
+        <mark key="[" line="29" column="96" />
+        <mark key="]" line="29" column="100" />
+        <mark key="." line="29" column="100" />
+        <mark key="^" line="29" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1560328202782">
+        <mark key="'" line="124" column="17" />
+        <mark key="[" line="123" column="16" />
+        <mark key="]" line="124" column="17" />
+        <mark key="." line="124" column="17" />
+        <mark key="^" line="124" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1545193275433">
+        <mark key="[" line="15" column="116" />
+        <mark key="]" line="15" column="116" />
+        <mark key="." line="15" column="116" />
+        <mark key="^" line="15" column="116" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/base.js" timestamp="1560148417133">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/package.json" timestamp="1545273616377">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-filterable.js" timestamp="1543914967795">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="110" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/component-hierarchy.puml" timestamp="1553656103628">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
+        <mark key="^" line="156" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templatecontents.js" timestamp="1547190165682">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" timestamp="1555059305906">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/list-layout.vue" timestamp="1553826908521">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1560248379679">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furniture-skins.js" timestamp="1548728746716">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-errors.js" timestamp="1544170818489">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/ui-color-item-tags.js" timestamp="1553763331649">
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+        <mark key="^" line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.master.js" timestamp="1533994829199">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
+        <mark key="[" line="53" column="72" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1547189862240">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1558060481138">
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="79" column="26" />
+        <mark key="." line="79" column="26" />
+        <mark key="^" line="79" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/line-keys.js" timestamp="1542795579103">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/redis.js" timestamp="1556186657775">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+        <mark key="^" line="5" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranchcosts-table.vue" timestamp="1547189760779">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/stock.js" timestamp="1551343267991">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/utils.js" timestamp="1541067874109">
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="48" column="8" />
+        <mark key="." line="48" column="8" />
+        <mark key="^" line="48" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-items.js" timestamp="1553659002000">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.master.js" timestamp="1557995535307">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="79" />
+        <mark key="." line="5" column="79" />
+        <mark key="^" line="5" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/test.js" timestamp="1560248409507">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/radio.vue" timestamp="1547718090587">
+        <mark key="[" line="3" column="109" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/user_stats.js" timestamp="1551343374333">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1557994576874">
+        <mark key="[" line="62" column="48" />
+        <mark key="]" line="65" column="25" />
+        <mark key="^" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/const.js" timestamp="1533994846690">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-objects-layout.vue" timestamp="1548411814847">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1560134940037">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1560321146151">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/config.js" timestamp="1551340735949">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/switch-table.vue" timestamp="1544512824128">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+        <mark key="^" line="62" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/dialog/create-dialog.html.js" timestamp="1545295143170">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/filter-slot.vue" timestamp="1542868892093">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-attrs.js" timestamp="1548411461219">
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="75" />
+        <mark key="^" line="9" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/constants.js" timestamp="1546933270776">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1558060305407">
+        <mark key="[" line="180" column="16" />
+        <mark key="]" line="180" column="18" />
+        <mark key="^" line="180" column="18" />
+        <mark key="." line="180" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1558429454908">
+        <mark key="[" line="295" column="29" />
+        <mark key="]" line="295" column="74" />
+        <mark key="." line="295" column="74" />
+        <mark key="^" line="295" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-qualifications.js" timestamp="1552022588836">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-coin.js" timestamp="1545887767048">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="64" />
+        <mark key="." line="11" column="64" />
+        <mark key="^" line="11" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/ingame-formulas.js" timestamp="1552469046810">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="11" column="67" />
+        <mark key="." line="11" column="67" />
+        <mark key="^" line="11" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/lines.js" timestamp="1542617052836">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig.yaml" timestamp="1559528337911">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="77" />
+        <mark key="^" line="5" column="77" />
+        <mark key="." line="5" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/protos/object_pb.js" timestamp="1556188184148">
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="8" />
+        <mark key="." line="70" column="8" />
+        <mark key="^" line="70" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559272530687">
+        <mark key="[" line="2" column="79" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-table.html.js" timestamp="1553656115582">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-config-prefixes.js" timestamp="1553489569628">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locales-others.js" timestamp="1546230276603">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="10" column="65" />
+        <mark key="." line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/list-global-tag-groups.js" timestamp="1553826978188">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/test-component.vue" timestamp="1543914703563">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-xp.js" timestamp="1545963309063">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table.html.js" timestamp="1535428280582">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1560245703395">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1555297734773">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-other-table.vue" timestamp="1547107187754">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1558060493763">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="21" />
+        <mark key="^" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/form-item.vue" timestamp="1557982797746">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="41" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/map-layout.vue" timestamp="1553842728449">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="32" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/furniture.js" timestamp="1551343290747">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/import-dialog.vue" timestamp="1548748619826">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-templatecontents-table.vue" timestamp="1547190183054">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-objects-table.vue" timestamp="1557994986310">
+        <mark key="[" line="81" column="82" />
+        <mark key="]" line="82" column="31" />
+        <mark key="." line="82" column="31" />
+        <mark key="^" line="82" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/cascader.vue" timestamp="1547448881011">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/main.js" timestamp="1534472748702">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/draggable.vue" timestamp="1542621320309">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/other-formulas.js" timestamp="1552469447443">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="65" />
+        <mark key="." line="11" column="65" />
+        <mark key="^" line="11" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-global-tag-groups.js" timestamp="1553827212518">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/all.test.js" timestamp="1554976196906">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/list-category-module.js" timestamp="1544510919177">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levels.js" timestamp="1545193214322">
+        <mark key="[" line="15" column="104" />
+        <mark key="]" line="15" column="115" />
+        <mark key="^" line="15" column="115" />
+        <mark key="." line="15" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-keys.js" timestamp="1542875614725">
+        <mark key="[" line="15" column="82" />
+        <mark key="]" line="15" column="101" />
+        <mark key="." line="15" column="101" />
+        <mark key="^" line="15" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-template-contents-table.vue" timestamp="1548820928941">
+        <mark key="[" line="53" column="102" />
+        <mark key="]" line="53" column="102" />
+        <mark key="." line="53" column="102" />
+        <mark key="^" line="53" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1557911576504">
+        <mark key="[" line="46" column="96" />
+        <mark key="]" line="46" column="96" />
+        <mark key="." line="46" column="96" />
+        <mark key="^" line="46" column="96" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/modules.js" timestamp="1534990440808">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" timestamp="1554714665543">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="112" />
+        <mark key="." line="49" column="112" />
+        <mark key="^" line="49" column="112" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1554956336743">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-table.vue" timestamp="1559721031881">
+        <mark key="[" line="123" column="95" />
+        <mark key="]" line="123" column="95" />
+        <mark key="." line="123" column="95" />
+        <mark key="^" line="88" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createState.js" timestamp="1554951127760">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/sortable-list.vue" timestamp="1553827205859">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="15" column="68" />
+        <mark key="." line="15" column="68" />
+        <mark key="^" line="15" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="8" />
+        <mark key="^" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animalcosts.js" timestamp="1547189411412">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-filter.html.js" timestamp="1553663223320">
+        <mark key="[" line="19" column="145" />
+        <mark key="]" line="19" column="145" />
+        <mark key="." line="19" column="145" />
+        <mark key="^" line="19" column="164" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale.js" timestamp="1554950444819">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="9" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/.babelrc" timestamp="1541391409292">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig" timestamp="1539337244087">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1557993985013">
+        <mark key="[" line="116" column="59" />
+        <mark key="]" line="117" column="41" />
+        <mark key="^" line="117" column="41" />
+        <mark key="." line="117" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560328269998">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/resolvers.js" timestamp="1536824913302">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="39" column="28" />
+        <mark key="." line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/alert-message.vue" timestamp="1545191152040">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/docs/index.md" timestamp="1553656106434">
+        <mark key="[" line="122" column="2" />
+        <mark key="]" line="122" column="2" />
+        <mark key="^" line="72" column="18" />
+        <mark key="." line="122" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/settings.js" timestamp="1553226328123">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-storage-costs.js" timestamp="1555395929155">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="20" column="77" />
+        <mark key="^" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1557367627016">
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="99" column="12" />
+        <mark key="^" line="99" column="12" />
+        <mark key="." line="99" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.env" timestamp="1560245676057">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table.js" timestamp="1535086682341">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locales.js" timestamp="1547110297506">
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="10" column="65" />
+        <mark key="^" line="10" column="65" />
+        <mark key="." line="10" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storagecosts-table.vue" timestamp="1547189771519">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/context.js" timestamp="1560245830703">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/formula-table.vue" timestamp="1548138758271">
+        <mark key="[" line="26" column="78" />
+        <mark key="]" line="26" column="79" />
+        <mark key="." line="26" column="79" />
+        <mark key="^" line="79" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-templates.js" timestamp="1543309580211">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1560248411002">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="61" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/dropdown.html.js" timestamp="1544068784828">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" timestamp="1553679606304">
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="61" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mongo.js" timestamp="1536823622971">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/table-row-errors.js" timestamp="1553496546655">
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="39" column="61" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="39" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranch-costs.js" timestamp="1555395917248">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="20" column="77" />
+        <mark key="^" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" timestamp="1554714887500">
+        <mark key="[" line="88" column="22" />
+        <mark key="]" line="62" column="23" />
+        <mark key="^" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decoration-costs-table.vue" timestamp="1555571648439">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="39" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.babelrc" timestamp="1558340181936">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locals.js" timestamp="1542856920876">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale-categories.js" timestamp="1542871722967">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/tag-legend.vue" timestamp="1558336726715">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="83" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1560139230023">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+        <mark key="^" line="32" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1558428527978">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/redis/lib/utils.js" timestamp="1556003539231">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers.js" timestamp="1560236638813">
         <mark key="'" line="24" column="21" />
@@ -1115,184 +845,11 @@
         <mark key="." line="84" column="72" />
         <mark key="^" line="84" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitureskins.js" timestamp="1546417098861">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" timestamp="1556273698094">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/switch-table.vue" timestamp="1544512824128">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-        <mark key="^" line="62" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/common-slot-info.html.js" timestamp="1545875971095">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/shared-parameters.js" timestamp="1546933278849">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="67" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1556273948970">
-        <mark key="[" line="122" column="24" />
-        <mark key="]" line="122" column="27" />
-        <mark key="." line="122" column="27" />
-        <mark key="^" line="122" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animals-table.vue" timestamp="1548820853959">
-        <mark key="[" line="51" column="91" />
-        <mark key="]" line="51" column="91" />
-        <mark key="^" line="51" column="90" />
-        <mark key="." line="51" column="91" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/picture.js" timestamp="1543377913116">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="43" />
-        <mark key="^" line="1" column="48" />
-        <mark key="." line="1" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.dev.config.js" timestamp="1545274592500">
-        <mark key="[" line="67" column="36" />
-        <mark key="]" line="69" column="24" />
-        <mark key="." line="69" column="24" />
-        <mark key="^" line="70" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" timestamp="1554714665543">
-        <mark key="[" line="49" column="36" />
-        <mark key="]" line="49" column="112" />
-        <mark key="." line="49" column="112" />
-        <mark key="^" line="49" column="112" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/dynamodb.js" timestamp="1549963329932">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1557367627016">
-        <mark key="[" line="95" column="14" />
-        <mark key="]" line="99" column="12" />
-        <mark key="^" line="99" column="12" />
-        <mark key="." line="99" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1558425847912">
-        <mark key="[" line="131" column="60" />
-        <mark key="]" line="131" column="75" />
-        <mark key="." line="131" column="75" />
-        <mark key="^" line="131" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/radio.vue" timestamp="1547718090587">
-        <mark key="[" line="3" column="109" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/s3.js" timestamp="1549953223820">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/machine.js" timestamp="1556188100076">
-        <mark key="[" line="138" column="9" />
-        <mark key="]" line="138" column="13" />
-        <mark key="." line="138" column="13" />
-        <mark key="^" line="138" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1554956336743">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/info-alert.vue" timestamp="1545877555719">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/formula-table.vue" timestamp="1548138758271">
-        <mark key="[" line="26" column="78" />
-        <mark key="]" line="26" column="79" />
-        <mark key="." line="26" column="79" />
-        <mark key="^" line="79" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mongo.js" timestamp="1549952491091">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="15" />
-        <mark key="^" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/parameter-table.vue" timestamp="1553767496632">
-        <mark key="[" line="57" column="108" />
-        <mark key="]" line="57" column="108" />
-        <mark key="." line="57" column="108" />
-        <mark key="^" line="57" column="108" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-dialog-form.js" timestamp="1557915106302">
         <mark key="[" line="31" column="45" />
         <mark key="]" line="31" column="50" />
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/config.js" timestamp="1551340735949">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/api/general-api.js" timestamp="1534492027867">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table-slot-filter.html.js" timestamp="1542862644752">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-gem.js" timestamp="1545193113538">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="3" column="49" />
-        <mark key="^" line="39" column="28" />
-        <mark key="." line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/static-formulas.js" timestamp="1547712233899">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="75" />
-        <mark key="." line="11" column="75" />
-        <mark key="^" line="11" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/views/layouts/items-layout.vue" timestamp="1534319019941">
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="61" />
-        <mark key="." line="8" column="61" />
-        <mark key="^" line="8" column="101" />
-      </file>
-      <file name="/fragment.js" timestamp="1560235960442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-decorations-layout.vue" timestamp="1547190543791">
         <mark key="[" line="16" column="97" />
@@ -1300,77 +857,23 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-sortable.js" timestamp="1555298305885">
-        <mark key="[" line="69" column="31" />
-        <mark key="]" line="69" column="43" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/stock.js" timestamp="1539672800607">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machinecosts-table.vue" timestamp="1547189742299">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="50" />
-        <mark key="^" line="28" column="50" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table.html.js" timestamp="1555582819698">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/pending_transactions.js" timestamp="1534411344287">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-coin.js" timestamp="1545887767048">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="64" />
-        <mark key="." line="11" column="64" />
-        <mark key="^" line="11" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/protos/index.js" timestamp="1549957202285">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mysql.js" timestamp="1558415743656">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1553675846948">
-        <mark key="[" line="60" column="64" />
-        <mark key="]" line="61" column="56" />
-        <mark key="." line="61" column="56" />
-        <mark key="^" line="61" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-rates.js" timestamp="1543215573742">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1557911576504">
-        <mark key="[" line="46" column="96" />
-        <mark key="]" line="46" column="96" />
-        <mark key="." line="46" column="96" />
-        <mark key="^" line="46" column="96" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-costs.js" timestamp="1555395941027">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="13" column="77" />
-        <mark key="^" line="13" column="77" />
-        <mark key="." line="13" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/table-taggable.js" timestamp="1557911611202">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/.gitignore" timestamp="1535604460701">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/object-type-locale-template.js" timestamp="1543313460884">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1554952139851">
         <mark key="[" line="48" column="19" />
@@ -1378,101 +881,53 @@
         <mark key="^" line="55" column="34" />
         <mark key="." line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1553138609251">
-        <mark key="[" line="115" column="38" />
-        <mark key="]" line="19" column="40" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="40" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1558059858806">
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="105" column="38" />
+        <mark key="." line="105" column="38" />
+        <mark key="^" line="106" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/utils.js" timestamp="1541067874109">
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="^" line="48" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/item-type-locale-template.js" timestamp="1543313467139">
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="77" />
+        <mark key="." line="10" column="77" />
+        <mark key="^" line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/protos/object_pb.js" timestamp="1556188184148">
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="8" />
-        <mark key="." line="70" column="8" />
-        <mark key="^" line="70" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table.html.js" timestamp="1542861435133">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/resolvers.js" timestamp="1536824913302">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="44" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/map-radio.vue" timestamp="1545109827306">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/object.js" timestamp="1540280753531">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-template-keys.js" timestamp="1543309688780">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="67" />
+        <mark key="^" line="10" column="67" />
+        <mark key="." line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1558067076789">
-        <mark key="[" line="102" column="47" />
-        <mark key="]" line="102" column="47" />
-        <mark key="." line="102" column="47" />
-        <mark key="^" line="52" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/memcached.js" timestamp="1556186082204">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-attrs.js" timestamp="1548411461219">
-        <mark key="[" line="9" column="71" />
-        <mark key="]" line="9" column="75" />
-        <mark key="." line="9" column="75" />
-        <mark key="^" line="9" column="75" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mongo.js" timestamp="1549952491091">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale-categories.js" timestamp="1542871722967">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/index.js" timestamp="1541407607946">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/form-item.vue" timestamp="1557982797746">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="41" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-storagecosts.js" timestamp="1541736322360">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="9" column="105" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1557993985013">
-        <mark key="[" line="116" column="59" />
-        <mark key="]" line="117" column="41" />
-        <mark key="^" line="117" column="41" />
-        <mark key="." line="117" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-errors.js" timestamp="1544170818489">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/item-type-locale-templates.js" timestamp="1543313637793">
-        <mark key="[" line="10" column="79" />
-        <mark key="]" line="10" column="79" />
-        <mark key="." line="10" column="79" />
-        <mark key="^" line="10" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitures-skins.js" timestamp="1547189839276">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-other-table.vue" timestamp="1547107187754">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/info-alert.vue" timestamp="1545877555719">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/uml/graphql-component.puml" timestamp="1536908513673">
         <mark key="[" line="37" column="14" />
@@ -1480,53 +935,11 @@
         <mark key="^" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/circle.vue" timestamp="1545188668318">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/version-layout.vue" timestamp="1553138635805">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/decoration/staticdata-decoration-costs-table.vue" timestamp="1547196873611">
-        <mark key="[" line="107" column="10" />
-        <mark key="]" line="112" column="9" />
-        <mark key="^" line="112" column="9" />
-        <mark key="." line="112" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/lines.js" timestamp="1542617052836">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-tags.js" timestamp="1553160127547">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.graphqlconfig.yaml" timestamp="1559528337911">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="77" />
-        <mark key="^" line="5" column="77" />
-        <mark key="." line="5" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranch-costs.js" timestamp="1555395917248">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="20" column="77" />
-        <mark key="^" line="20" column="77" />
-        <mark key="." line="20" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decorationcosts-table.vue" timestamp="1546400872121">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="4" column="50" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1559637348908">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-child.js" timestamp="1553659186559">
         <mark key="[" line="15" column="40" />
@@ -1534,11 +947,580 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/list-global-tag-groups.js" timestamp="1553826978188">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-templates-layout.vue" timestamp="1547190202538">
+        <mark key="[" line="19" column="95" />
+        <mark key="]" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/decoration/staticdata-decorationcosts-table.vue" timestamp="1546400902466">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="35" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/setting.js" timestamp="1553225397241">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/env/const.dev.js" timestamp="1533994836148">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1558425847912">
+        <mark key="[" line="131" column="60" />
+        <mark key="]" line="131" column="75" />
+        <mark key="." line="131" column="75" />
+        <mark key="^" line="131" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale-layout.vue" timestamp="1557982722110">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/list-shopmenu.js" timestamp="1541736227908">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags.vue" timestamp="1553150858969">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/common/sub-staticdata-singleton-table.vue" timestamp="1535098375128">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1556273948970">
+        <mark key="[" line="122" column="24" />
+        <mark key="]" line="122" column="27" />
+        <mark key="." line="122" column="27" />
+        <mark key="^" line="122" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/machine/staticdata-machinecosts-table.vue" timestamp="1547189742299">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/Circle.vue" timestamp="1545187958046">
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="1" column="77" />
+        <mark key="^" line="1" column="77" />
+        <mark key="." line="1" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/map-module.js" timestamp="1552034556047">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="132" />
+        <mark key="." line="3" column="132" />
+        <mark key="^" line="3" column="132" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animal-costs-table.vue" timestamp="1557914758943">
+        <mark key="[" line="74" column="38" />
+        <mark key="]" line="74" column="39" />
+        <mark key="." line="74" column="39" />
+        <mark key="^" line="74" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/uml/.gitignore" timestamp="1535604460701">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/index.js" timestamp="1541407607946">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/locale-integrity-alert.vue" timestamp="1547527443227">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="25" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/common-slot-info.html.js" timestamp="1545875971095">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/input/text-label.vue" timestamp="1545117898455">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/mapping-table.vue" timestamp="1543227785898">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/object-type-locale-templates.js" timestamp="1543313653690">
         <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
+        <mark key="]" line="10" column="83" />
+        <mark key="." line="10" column="83" />
+        <mark key="^" line="10" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1553138609251">
+        <mark key="[" line="115" column="38" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/gqlplayground-main-layout.vue" timestamp="1541059846306">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" timestamp="1556273698094">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/tab-legend.vue" timestamp="1552880200340">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="59" />
+        <mark key="." line="1" column="59" />
+        <mark key="^" line="1" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/package.json" timestamp="1560142651974">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="54" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1554717589357">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-storagecosts.js" timestamp="1541736322360">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="105" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1557994571910">
+        <mark key="[" line="54" column="48" />
+        <mark key="]" line="64" column="35" />
+        <mark key="." line="64" column="35" />
+        <mark key="^" line="64" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storage-costs-table.vue" timestamp="1555475454900">
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="43" />
+        <mark key="." line="73" column="43" />
+        <mark key="^" line="73" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
+        <mark key="[" line="5" column="103" />
+        <mark key="]" line="5" column="103" />
+        <mark key="." line="5" column="103" />
+        <mark key="^" line="5" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1554961012011">
+        <mark key="[" line="2" column="81" />
+        <mark key="]" line="2" column="82" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="2" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/picture.js" timestamp="1543377913116">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="48" />
+        <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/decoration/staticdata-decoration-costs-table.vue" timestamp="1547196873611">
+        <mark key="[" line="107" column="10" />
+        <mark key="]" line="112" column="9" />
+        <mark key="^" line="112" column="9" />
+        <mark key="." line="112" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-sortable.js" timestamp="1555298305885">
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="43" />
+        <mark key="." line="69" column="43" />
+        <mark key="^" line="69" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-sku-layout.vue" timestamp="1547612148072">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-decoration-tags.js" timestamp="1552034947476">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="65" />
+        <mark key="." line="10" column="65" />
+        <mark key="^" line="10" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/store/index.js" timestamp="1523174832891">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1556619098677">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-categories.js" timestamp="1555060453538">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/ranch.js" timestamp="1556260830555">
+        <mark key="[" line="14" column="135" />
+        <mark key="]" line="14" column="139" />
+        <mark key="." line="14" column="139" />
+        <mark key="^" line="14" column="139" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/api/general-api.js" timestamp="1534492027867">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-locales.js" timestamp="1542333896275">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="9" column="64" />
+        <mark key="^" line="9" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/token.js" timestamp="1539673311856">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud-module.js" timestamp="1548667416810">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="19" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/pending_transactions.js" timestamp="1534411344287">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/info-alert.vue" timestamp="1545877214831">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/tag-table.vue" timestamp="1553244070263">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/table-taggable.js" timestamp="1557911611202">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/services/general-service.js" timestamp="1534406595567">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1559721166294">
+        <mark key="[" line="302" column="28" />
+        <mark key="]" line="302" column="28" />
+        <mark key="." line="302" column="28" />
+        <mark key="^" line="302" column="28" />
+      </file>
+      <file name="/fragment.js" timestamp="1560235960442">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-levelrewards-table.vue" timestamp="1546400896392">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="48" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/bus.js" timestamp="1547029230746">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/util.js" timestamp="1547029223607">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale-keys.js" timestamp="1542876135219">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/text-label.vue" timestamp="1558058929425">
+        <mark key="[" line="39" column="87" />
+        <mark key="]" line="39" column="87" />
+        <mark key="^" line="39" column="87" />
+        <mark key="." line="39" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/connectors/mysql.js" timestamp="1536808866662">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-types.js" timestamp="1543215801023">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-countries.js" timestamp="1546933193569">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1558067076789">
+        <mark key="[" line="102" column="47" />
+        <mark key="]" line="102" column="47" />
+        <mark key="." line="102" column="47" />
+        <mark key="^" line="52" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-ranchcosts.js" timestamp="1541736316271">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="103" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1558066694632">
+        <mark key="[" line="49" column="60" />
+        <mark key="]" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+        <mark key="^" line="49" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mysql.js" timestamp="1558415743656">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/object.js" timestamp="1540280753531">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/parameter-table-color.js" timestamp="1552033115025">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+        <mark key="^" line="8" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/index.js" timestamp="1548066341588">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1555571564583">
+        <mark key="[" line="64" column="50" />
+        <mark key="]" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="50" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitures-skins.js" timestamp="1547189839276">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/parameters.js" timestamp="1546933248788">
+        <mark key="[" line="14" column="82" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/remote-alert.vue" timestamp="1547535985856">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1540462775373">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/index.js" timestamp="1534411828502">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="61" />
+        <mark key="^" line="17" column="61" />
+        <mark key="." line="17" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-objects.js" timestamp="1545193224405">
+        <mark key="[" line="15" column="104" />
+        <mark key="]" line="15" column="115" />
+        <mark key="^" line="15" column="115" />
+        <mark key="." line="15" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-sku-items.js" timestamp="1547605094656">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+        <mark key="^" line="9" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/machine.js" timestamp="1556188100076">
+        <mark key="[" line="138" column="9" />
+        <mark key="]" line="138" column="13" />
+        <mark key="." line="138" column="13" />
+        <mark key="^" line="138" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1553675846948">
+        <mark key="[" line="60" column="64" />
+        <mark key="]" line="61" column="56" />
+        <mark key="." line="61" column="56" />
+        <mark key="^" line="61" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1541556937265">
+        <mark key="[" line="44" column="67" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="24" />
+        <mark key="^" line="45" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furnitureskins.js" timestamp="1546417098861">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animals-table.vue" timestamp="1548820853959">
+        <mark key="[" line="51" column="91" />
+        <mark key="]" line="51" column="91" />
+        <mark key="^" line="51" column="90" />
+        <mark key="." line="51" column="91" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-decorations.js" timestamp="1547784529610">
+        <mark key="[" line="16" column="116" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-rates.js" timestamp="1543215676570">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="13" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/version-layout.vue" timestamp="1553138635805">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/msgpack/lib/msgpack.js" timestamp="1537340502520">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/const.js" timestamp="1557375275082">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="79" />
+        <mark key="." line="5" column="79" />
+        <mark key="^" line="5" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furnitureskins-table.vue" timestamp="1547189854665">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="41" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-skus.js" timestamp="1547605123908">
+        <mark key="[" line="19" column="83" />
+        <mark key="]" line="19" column="83" />
+        <mark key="^" line="19" column="83" />
+        <mark key="." line="19" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-tags.js" timestamp="1553763362821">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="10" column="61" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-types.js" timestamp="1543215901058">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/static-data-table-module.js" timestamp="1553658766302">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-decoration-costs.js" timestamp="1547189728267">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locale.js" timestamp="1542342211640">
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="10" column="75" />
+        <mark key="^" line="10" column="75" />
+        <mark key="." line="10" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/check-locale-integrity.js" timestamp="1545193091996">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/s3.js" timestamp="1549953223820">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" timestamp="1554970691371">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1559807175050">
         <mark key="'" line="95" column="0" />
@@ -1547,30 +1529,129 @@
         <mark key="." line="73" column="23" />
         <mark key="^" line="73" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1558060493763">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="21" />
-        <mark key="^" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1543215660852">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/libs/bus.js" timestamp="1547029230746">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/stock.js" timestamp="1540192258991">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/template/staticdata-table/staticdata-table-slot-filter.html.js" timestamp="1542862644752">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="3" column="17" />
+        <mark key="^" line="14" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/text-label.vue" timestamp="1558058929425">
-        <mark key="[" line="39" column="87" />
-        <mark key="]" line="39" column="87" />
-        <mark key="^" line="39" column="87" />
-        <mark key="." line="39" column="87" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/versions.js" timestamp="1554718807021">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1560322094121">
-        <mark key="'" line="206" column="17" />
-        <mark key="[" line="64" column="50" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="50" />
-        <mark key="^" line="196" column="27" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1560245539951">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="4" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1560237998125">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-paging.js" timestamp="1547456150097">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/README.md" timestamp="1553145931486">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1559727938651">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="143" column="62" />
+        <mark key="]" line="143" column="66" />
+        <mark key="^" line="143" column="66" />
+        <mark key="." line="143" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/config-layout.vue" timestamp="1546399127919">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.js" timestamp="1541387977372">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/static-formulas.js" timestamp="1547712233899">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+        <mark key="^" line="11" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-others.js" timestamp="1547457833701">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+        <mark key="^" line="10" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/local-integrity-alert.vue" timestamp="1545191516703">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-tags.js" timestamp="1553160127547">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/items.js" timestamp="1534236998958">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-rates.js" timestamp="1543215573742">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555394399062">
+        <mark key="[" line="155" column="83" />
+        <mark key="]" line="155" column="83" />
+        <mark key="^" line="155" column="83" />
+        <mark key="." line="155" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-sku.js" timestamp="1545973096292">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/protos/.gitignore" timestamp="1540463118816">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/shared-parameters.js" timestamp="1546933278849">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="67" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -1578,92 +1659,29 @@
         <mark key="." line="10" column="170" />
         <mark key="^" line="10" column="170" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1558060481138">
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-        <mark key="^" line="79" column="26" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1554950898843">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/sidemenu.vue" timestamp="1558324871432">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranch-costs-table.vue" timestamp="1555399257981">
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="38" />
+        <mark key="^" line="79" column="38" />
+        <mark key="." line="79" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/sortable-locals.js" timestamp="1542856920876">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="67" />
-        <mark key="." line="10" column="67" />
-        <mark key="^" line="10" column="67" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/ranch/staticdata-ranch-attrs-table.vue" timestamp="1548411416130">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-select.vue" timestamp="1557993360884">
-        <mark key="[" line="70" column="19" />
-        <mark key="]" line="70" column="24" />
-        <mark key="." line="70" column="24" />
-        <mark key="^" line="70" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/redis.js" timestamp="1556186657775">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="67" />
-        <mark key="." line="5" column="67" />
-        <mark key="^" line="5" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui-main-layout.vue" timestamp="1554714861309">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="67" />
-        <mark key="." line="3" column="67" />
-        <mark key="^" line="3" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1559637348908">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-table.html.js" timestamp="1553656115582">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/dynamic_price_logs.js" timestamp="1534231580767">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="7" column="65" />
-        <mark key="^" line="7" column="65" />
-        <mark key="." line="7" column="65" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1560237998125">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/items/stock.js" timestamp="1539672800607">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="50" />
-        <mark key="^" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-furniture-rates.js" timestamp="1543215660852">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-decoration-costs.js" timestamp="1547189728267">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-rates.js" timestamp="1543215676570">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="13" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-decoration-costs-table.vue" timestamp="1555571648439">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/parameter-table.vue" timestamp="1553767496632">
+        <mark key="[" line="57" column="108" />
+        <mark key="]" line="57" column="108" />
+        <mark key="." line="57" column="108" />
+        <mark key="^" line="57" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.base.config.js" timestamp="1547025853736">
         <mark key="[" line="15" column="0" />
@@ -1671,53 +1689,36 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/locale-categories.js" timestamp="1555060453538">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="15" column="56" />
-        <mark key="^" line="15" column="56" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.sandbox.js" timestamp="1557995530705">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="79" />
+        <mark key="." line="5" column="79" />
+        <mark key="^" line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-select.vue" timestamp="1557993360884">
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="24" />
+        <mark key="." line="70" column="24" />
+        <mark key="^" line="70" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1557994571910">
-        <mark key="[" line="54" column="48" />
-        <mark key="]" line="64" column="35" />
-        <mark key="." line="64" column="35" />
-        <mark key="^" line="64" column="35" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levelrewards.js" timestamp="1541736302170">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-object-types.js" timestamp="1543215801023">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1560328372275">
+        <mark key="'" line="206" column="17" />
+        <mark key="[" line="64" column="50" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/ingame-formulas.js" timestamp="1552469046810">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="11" column="67" />
-        <mark key="." line="11" column="67" />
-        <mark key="^" line="11" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-global-tag-groups.js" timestamp="1553827212518">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-item-types.js" timestamp="1543215901058">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-decorations-table.vue" timestamp="1557994576874">
-        <mark key="[" line="62" column="48" />
-        <mark key="]" line="65" column="25" />
-        <mark key="^" line="65" column="25" />
-        <mark key="." line="65" column="25" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/webpack.dev.config.js" timestamp="1545274592500">
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="70" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -1824,10 +1825,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d`</text>
+        <text encoding="base64">YG1hY2hpbmVgIGZpZWxkcyBpbnQgPiBib29s</text>
       </register>
       <register name="-" type="4">
-        <text>d`</text>
+        <text encoding="base64">YG1hY2hpbmVgIGZpZWxkcyBpbnQgPiBib29s</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
