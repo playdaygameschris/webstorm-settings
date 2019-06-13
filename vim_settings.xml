@@ -64,10 +64,10 @@
         <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1560410268425">
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="55" column="29" />
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+        <mark key="^" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1555297734773">
         <mark key="[" line="12" column="34" />
@@ -747,7 +747,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560412395677">
+      <file name="/Dummy.txt" timestamp="1560413218454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1609,11 +1609,11 @@
         <mark key="." line="3" column="67" />
         <mark key="^" line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/redis.js" timestamp="1560393635088">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="67" />
-        <mark key="." line="5" column="67" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/redis.js" timestamp="1560413216982">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="67" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/tags-select.vue" timestamp="1557993360884">
         <mark key="[" line="70" column="19" />
@@ -1830,8 +1830,8 @@
       <jump line="3" column="27" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>warning</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>warning</text>
@@ -1843,31 +1843,31 @@
         <text encoding="base64">ICAgIGRldjogYTNjQUptVGdVNVgyLUxBaXF6VXE4UQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YWdlOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xpZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cDogSW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29ucwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQub24oJ2Vycm9yJywgZXJyb3IgPT4gewogICAgICAgICAgICB0aHJvdyBuZXcgUmVkaXNSZXNvbHZlRXJyb3IoewogICAgICAgICAgICAgICAgbWVzc2FnZTogZXJyb3IsCiAgICAgICAgICAgICAgICBkYXRhOiB7bmFtZX0sCiAgICAgICAgICAgICAgICBpbnRlcm5hbERhdGE6eyBob3N0LCBvcHRpb25zLCBlcnJvcn0KICAgICAgICAgICAgfSkKICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXI6IHsKICAgICAgICBfZ2V0OiAoY29udGV4dCwgdG9rZW4sIHNvdXJjZSkgPT4gewogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZV9yZWRpcyhjb250ZXh0LCB0b2tlbikudGhlbihhc3luYyByZXMgPT4gewogICAgICAgICAgICAgICAgaWYgKGlzRW1wdHkocmVzLnBheWxvYWQpKXsKICAgICAgICAgICAgICAgICAgICBpZiAoIXRva2VuLnR5cGUuaW5jbHVkZXMoJ2NhY2hlJykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYodG9rZW4udHlwZT09J2R5bmFtb2RiJyl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXMgPSBhd2FpdCByZXNvbHZlX2R5bmFtb2RiKHJlcy5jb250ZXh0LCB0b2tlbikKICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzID0gYXdhaXQgcmVzb2x2ZV9teXNxbChyZXMuY29udGV4dCwgdG9rZW4pCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVzID0gYXdhaXQgY2FjaGUocmVzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHJlcwogICAgICAgICAgICB9KQogICAgICAgIH0sCiAgICAgICAgZ2V0IDogKGNvbnRleHQsIHRva2VuLCBzb3VyY2U9J215c3FsJykgPT4gewogICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHNlbGYubWFuYWdlci5fZ2V0KGNvbnRleHQsIHRva2VuLCBzb3VyY2UpKQogICAgICAgIH0KICAgIH0sCiAgICBnZXRfbG9hZGVyOiAoY29udGV4dCwgdHlwZSwgdGFibGUpID0+IHsKICAgICAgICBpZiAoIWhhcyhjb250ZXh0LmxvYWRlcnMsIHRhYmxlKSl7CiAgICAgICAgICAgIGNvbnRleHQubG9hZGVyc1t0YWJsZV0gPSBuZXcgRGF0YUxvYWRlcigga2V5cyA9PiBuZXcgUHJvbWlzZSggIChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IHNlbGYubWFuYWdlci5nZXQoY29udGV4dCwge3R5cGUsIHRhYmxlLCBrZXk6IGtleXNbMF19KQogICAgICAgICAgICAgICAgcmV0dXJuIHJlc29sdmUoW3Jlc3VsdF0pCiAgICAgICAgICAgIH0pKQogICAgICAgIH0KICAgICAgICByZXR1cm4gY29udGV4dC5sb2FkZXJzW3RhYmxlXQogICAgfSwK</text>
+        <text encoding="base64">ICAgIHN0YWdlOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBpc0VtcHR5LCB0b0xvd2VyIH0gPSByZXF1aXJlKCdsb2Rhc2gnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgeyBpc0VtcHR5LCB0b0xvd2VyIH0gPSByZXF1aXJlKCdsb2Rhc2gnKQo=</text>
+        <text encoding="base64">ICAgIGV4cDogSW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbWQ1ID0gcmVxdWlyZSgnbWQ1JykK</text>
+        <text encoding="base64">Y29ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYWIyc3RyID0gcmVxdWlyZSgnYXJyYXlidWZmZXItdG8tc3RyaW5nJykK</text>
+        <text encoding="base64">ICAgIG1hbmFnZXI6IHsKICAgICAgICBfZ2V0OiAoY29udGV4dCwgdG9rZW4sIHNvdXJjZSkgPT4gewogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZV9yZWRpcyhjb250ZXh0LCB0b2tlbikudGhlbihhc3luYyByZXMgPT4gewogICAgICAgICAgICAgICAgaWYgKGlzRW1wdHkocmVzLnBheWxvYWQpKXsKICAgICAgICAgICAgICAgICAgICBpZiAoIXRva2VuLnR5cGUuaW5jbHVkZXMoJ2NhY2hlJykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYodG9rZW4udHlwZT09J2R5bmFtb2RiJyl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXMgPSBhd2FpdCByZXNvbHZlX2R5bmFtb2RiKHJlcy5jb250ZXh0LCB0b2tlbikKICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzID0gYXdhaXQgcmVzb2x2ZV9teXNxbChyZXMuY29udGV4dCwgdG9rZW4pCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVzID0gYXdhaXQgY2FjaGUocmVzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHJlcwogICAgICAgICAgICB9KQogICAgICAgIH0sCiAgICAgICAgZ2V0IDogKGNvbnRleHQsIHRva2VuLCBzb3VyY2U9J215c3FsJykgPT4gewogICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHNlbGYubWFuYWdlci5fZ2V0KGNvbnRleHQsIHRva2VuLCBzb3VyY2UpKQogICAgICAgIH0KICAgIH0sCiAgICBnZXRfbG9hZGVyOiAoY29udGV4dCwgdHlwZSwgdGFibGUpID0+IHsKICAgICAgICBpZiAoIWhhcyhjb250ZXh0LmxvYWRlcnMsIHRhYmxlKSl7CiAgICAgICAgICAgIGNvbnRleHQubG9hZGVyc1t0YWJsZV0gPSBuZXcgRGF0YUxvYWRlcigga2V5cyA9PiBuZXcgUHJvbWlzZSggIChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IHNlbGYubWFuYWdlci5nZXQoY29udGV4dCwge3R5cGUsIHRhYmxlLCBrZXk6IGtleXNbMF19KQogICAgICAgICAgICAgICAgcmV0dXJuIHJlc29sdmUoW3Jlc3VsdF0pCiAgICAgICAgICAgIH0pKQogICAgICAgIH0KICAgICAgICByZXR1cm4gY29udGV4dC5sb2FkZXJzW3RhYmxlXQogICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
