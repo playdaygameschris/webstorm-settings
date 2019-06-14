@@ -341,7 +341,7 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560397040223">
+      <file name="/GraphQL.result.json" timestamp="1560477145890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
@@ -518,13 +518,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/classes/general.js" timestamp="1559727938651">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="143" column="62" />
-        <mark key="]" line="143" column="66" />
-        <mark key="^" line="143" column="66" />
-        <mark key="." line="143" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/.gitignore" timestamp="1560391627270">
         <mark key="[" line="2" column="6" />
       </file>
@@ -533,13 +526,6 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" timestamp="1560400257185">
-        <mark key="'" line="124" column="17" />
-        <mark key="[" line="207" column="9" />
-        <mark key="]" line="207" column="11" />
-        <mark key="." line="207" column="11" />
-        <mark key="^" line="207" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1556619098677">
         <mark key="[" line="32" column="0" />
@@ -595,11 +581,11 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560418767136">
-        <mark key="[" line="201" column="57" />
-        <mark key="]" line="201" column="74" />
-        <mark key="." line="201" column="74" />
-        <mark key="^" line="201" column="74" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560478101485">
+        <mark key="[" line="132" column="30" />
+        <mark key="]" line="132" column="50" />
+        <mark key="." line="132" column="50" />
+        <mark key="^" line="132" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -1824,11 +1810,11 @@
       <jump line="3" column="27" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2gnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>warning</text>
       </register>
       <register name="-" type="4">
-        <text>reloadDependency</text>
+        <text>warning</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
