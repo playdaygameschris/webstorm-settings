@@ -210,11 +210,11 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/const.js" timestamp="1557375275082">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
-        <mark key="^" line="5" column="79" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/const.js" timestamp="1560494408514">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furniture-skins.js" timestamp="1548728746716">
         <mark key="[" line="20" column="7" />
@@ -335,6 +335,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.dev.js" timestamp="1560494402907">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1560421732010">
         <mark key="[" line="301" column="0" />
         <mark key="]" line="301" column="0" />
@@ -385,11 +390,11 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1559272530687">
-        <mark key="[" line="2" column="79" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="79" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.prod.js" timestamp="1560494400643">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="89" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
         <mark key="[" line="1" column="30" />
@@ -897,10 +902,10 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.sandbox.js" timestamp="1557995530705">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.sandbox.js" timestamp="1560494405114">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
         <mark key="^" line="5" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" timestamp="1554970691371">
@@ -945,10 +950,10 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.master.js" timestamp="1557995535307">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.master.js" timestamp="1560494397267">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
         <mark key="^" line="5" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-paging.js" timestamp="1547456150097">
@@ -1459,10 +1464,10 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.stage.js" timestamp="1560412470643">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.stage.js" timestamp="1560494413610">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
         <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/item-type-locale-templates.js" timestamp="1543313637793">
@@ -1831,10 +1836,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
