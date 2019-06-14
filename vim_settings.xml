@@ -588,11 +588,10 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560479158702">
-        <mark key="[" line="333" column="37" />
-        <mark key="]" line="334" column="36" />
-        <mark key="." line="334" column="36" />
-        <mark key="^" line="334" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560486784576">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -1807,11 +1806,11 @@
       <jump line="269" column="10" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix apollo token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjojNTE1YTZlOyI+CiAgICAgICAgICAgICAgICByZWFkLW9ubHkKICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fix apollo token</text>
+        <text>text-align:center;</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1820,31 +1819,31 @@
         <text encoding="base64">ICAgIF9yZWRpc19vcmRlcih1c2VySWQ6IFN0cmluZyEpIDogW09yZGVyXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9yZWRpc190dXRvcih1c2VySWQ6IFN0cmluZyEpOiBUdXRvcgogICAgX2R5bmFtb2RiX3R1dG9yKHVzZXJJZDogU3RyaW5nISk6IFR1dG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjojNTE1YTZlOyI+CiAgICAgICAgICAgICAgICByZWFkLW9ubHkKICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2gnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWZyZXNoZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQWxlcnQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWZyZXNoZWQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbG9hZCcsIG5hbWVzcGFjZSwgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIHYtYmluZDpocmVmPSJ0aGlzLmNvbnN0YW50LmFwaV9kb2NfZW5kcG9pbnQiIHRhcmdldD0iX2JsYW5rIj5BUEkgRG9jdW1lbnRzPC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJlbG9hZERlcGVuZGVuY3koJ2FsbCcpCg==</text>
+        <text encoding="base64">ICAgIF9yZWRpc190dXRvcih1c2VySWQ6IFN0cmluZyEpOiBUdXRvcgogICAgX2R5bmFtb2RiX3R1dG9yKHVzZXJJZDogU3RyaW5nISk6IFR1dG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5hbWVzcGFjZT09J2FsbCcpIHsKICAgICAgICAgICAgICAgIGZsdXNoX2FsbCA9IAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2gnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWZyZXNoZWQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWZyZXNoZWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
