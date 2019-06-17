@@ -9,6 +9,7 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="65" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-parent.js" timestamp="1560762114498" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/map-layout.vue" timestamp="1553842728449">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -129,7 +130,7 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1560420908352">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1560762415116">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="46" column="40" />
@@ -195,9 +196,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1560488342182">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/setting.js" timestamp="1560139230023">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="32" column="16" />
@@ -227,11 +225,6 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1560488459342">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1560391327230">
         <mark key="[" line="0" column="6" />
@@ -341,19 +334,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1560504465642">
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1554950898843">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="36" column="36" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1560735985424">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
         <mark key="[" line="53" column="72" />
@@ -378,6 +363,12 @@
         <mark key="]" line="122" column="2" />
         <mark key="^" line="72" column="18" />
         <mark key="." line="122" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/commits.js" timestamp="1560761229772">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="9" column="73" />
+        <mark key="." line="12" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-items.js" timestamp="1553659002000">
         <mark key="[" line="1" column="39" />
@@ -421,6 +412,12 @@
         <mark key="]" line="11" column="61" />
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/commit-table.vue" timestamp="1560762246576">
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/context.js" timestamp="1560245830703">
         <mark key="[" line="12" column="26" />
@@ -530,20 +527,17 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.gitignore" timestamp="1560391627270">
-        <mark key="[" line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/configs.js" timestamp="1554717589357">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/commithistory-layout.vue" timestamp="1560754348683">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="37" column="42" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/commithistory-layout.vue" timestamp="1560760609114">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/view-item-tags.js" timestamp="1556619098677">
         <mark key="[" line="32" column="0" />
@@ -599,8 +593,8 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560754521496">
-        <mark key="[" line="34" column="99" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560759583376">
+        <mark key="[" line="34" column="107" />
         <mark key="]" line="34" column="108" />
         <mark key="." line="34" column="108" />
         <mark key="^" line="34" column="108" />
@@ -863,7 +857,7 @@
         <mark key="^" line="19" column="83" />
         <mark key="." line="19" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1555394399062">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/log-layout.vue" timestamp="1560758686372">
         <mark key="[" line="155" column="83" />
         <mark key="]" line="155" column="83" />
         <mark key="^" line="155" column="83" />
@@ -887,7 +881,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animal-costs-table.vue" timestamp="1557914758943">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animal-costs-table.vue" timestamp="1560758334588">
         <mark key="[" line="74" column="38" />
         <mark key="]" line="74" column="39" />
         <mark key="." line="74" column="39" />
@@ -995,7 +989,7 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1558060305407">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1560761773260">
         <mark key="[" line="180" column="16" />
         <mark key="]" line="180" column="18" />
         <mark key="^" line="180" column="18" />
@@ -1271,6 +1265,7 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/commits-table.vue" timestamp="1560761024902" />
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/app.vue" timestamp="1533994032092">
         <mark key="[" line="3" column="49" />
         <mark key="]" line="3" column="49" />
@@ -1288,11 +1283,6 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="101" />
-      </file>
-      <file name="/fragment.js" timestamp="1560235960442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-decorations-layout.vue" timestamp="1547190543791">
         <mark key="[" line="16" column="97" />
@@ -1372,11 +1362,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1560504436892">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/version-table.vue" timestamp="1560416055344">
         <mark key="[" line="148" column="54" />
         <mark key="]" line="148" column="54" />
@@ -1401,7 +1386,7 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1558067076789">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1560758307027">
         <mark key="[" line="102" column="47" />
         <mark key="]" line="102" column="47" />
         <mark key="." line="102" column="47" />
@@ -1623,9 +1608,6 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560237998125">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.rookout" timestamp="1560744874522">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="10" />
@@ -1673,6 +1655,12 @@
         <mark key="]" line="15" column="56" />
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/commits-table.vue" timestamp="1560760269654">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/dprice/html/src/app.vue" timestamp="1522896682250">
         <mark key="[" line="6" column="30" />
@@ -1821,7 +1809,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvYWRpbmcnOiBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1833,31 +1821,31 @@
         <text encoding="base64">ICAgIHBsdWdpbnM6IFt2dWV4Q2FjaGUsbG9ncm9ja2V0UGx1Z2luXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvYWRpbmcnOiBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzX2xvYWRpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKGAke3RoaXMubmFtZXNwYWNlfS9zZWxlY3RgLCByb3cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ2tleXdvcmQnCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyUGF5bG9hZChoLCBmaWxlbmFtZSwgdGFibGUsIGtleSwgb2xkX3ZhbHVlLCBuZXdfdmFsdWUpIHsKICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSBbXQoKICAgICAgICAgICAgICAgIC8vIHZhciBkaWZmID0gZGV0YWlsZWREaWZmKG9sZF92YWx1ZSA9PSAnTm9uZScgPyB7fSA6IG9sZF92YWx1ZSwgbmV3X3ZhbHVlID09J05vbmUnPyB7fTogbmV3X3ZhbHVlKQogICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ29sZF92YWx1ZScsIG9sZF92YWx1ZSkKICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCduZXdfdmFsdWUnLCBuZXdfdmFsdWUpCiAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnZGlmZicsIGRpZmYpCiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgLy8gaWYgKGRpZmYuYWRkZWQgIT0ge30pIHsKICAgICAgICAgICAgICAgIC8vICAgICB2YXIga2V5cyA9IE9iamVjdC5rZXlzKGRpZmYuYWRkZWQpCiAgICAgICAgICAgICAgICAvLyAgICAgZm9yKHZhciBpID0gMDsgaTwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgLy8gICAgICAgICByZXN1bHQucHVzaChoKCdJY29uJyAsewogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgIGF0dHJzOiB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICdtZC1hZGQnLAogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICBzaXplOiAnMTYnCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgfSwgJycpKQogICAgICAgICAgICAgICAgLy8gICAgICAgICByZXN1bHQucHVzaChoKCdzcGFuJyAse30sIGtleXNbaV0pKQogICAgICAgICAgICAgICAgLy8gICAgICAgICByZXN1bHQucHVzaChoKCdzcGFuJyAse30sICc9JykpCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIHJlc3VsdC5wdXNoKGgoJ3NwYW4nICx7fSwgZGlmZi5hZGRlZFtrZXlzW2ldXSkpCiAgICAgICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAgICAgLy8gfQoKICAgICAgICAgICAgICAgcmVzdWx0ID0gWwogICAgICAgICAgICAgICAgICAgaCgnc3BhbicsIHsKICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogewogICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nUmlnaHQ6JzVweCcsCiAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgfSwgdGhpcy5wZXR0eVZhbHVlKGgsIGZpbGVuYW1lLCB0YWJsZSwgSlNPTi5zdHJpbmdpZnkob2xkX3ZhbHVlKSkpLAogICAgICAgICAgICAgICAgICAgaCgnSWNvbicgLHsKICAgICAgICAgICAgICAgICAgICAgICBhdHRyczogewogICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAnbWQtYXJyb3ctZm9yd2FyZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemU6ICcxNicKICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICB9LCAnJyksCiAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywgewogICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmdMZWZ0Oic1cHgnLAogICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgIH0sIHRoaXMucGV0dHlWYWx1ZShoLCBmaWxlbmFtZSwgdGFibGUsIEpTT04uc3RyaW5naWZ5KG5ld192YWx1ZSkpKSwKICAgICAgICAgICAgICAgXQoKCgogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAoKICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGV0dHlWYWx1ZShoLCBmaWxlbmFtZSwgdGFibGUsIHZhbCkgewogICAgICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHZhbAogICAgICAgICAgICAgICAgdmFyIGxpc3QgPSBbCiAgICAgICAgICAgICAgICAgICAgWyd0cnVlJywgJ2dyZWVuJ10sCiAgICAgICAgICAgICAgICAgICAgWydmYWxzZScsICdyZWQnXQogICAgICAgICAgICAgICAgXQoKICAgICAgICAgICAgICAgIGlmICh2YWwuaGFzT3duUHJvcGVydHkoJ3ZhbHVlJykpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSAgdmFsLnZhbHVlCiAgICAgICAgICAgICAgICAgICAgbGlzdC5wdXNoKFt2YWwudmFsdWUsICdkZWZhdWx0J10pCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMudGFnKGgsIHJlc3VsdCwgbGlzdCkKICAgICAgICAgICAgfSwKICAgICAgICAgICAgdGFnKGgsIHRleHQsIGxpc3QpIHsKICAgICAgICAgICAgICAgIHRleHQgPSB0ZXh0LnRvU3RyaW5nKCkKICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSBbXQoKICAgICAgICAgICAgICAgIGlmIChsaXN0ID09IHVuZGVmaW5lZCB8fCBsaXN0Lmxlbmd0aCA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFsgaCAoJ3NwYW4nLCB7fSwgdGV4dCldCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdmFyIGluZm8gPSBsaXN0WzBdCiAgICAgICAgICAgICAgICB2YXIgc3BsaXRlZCA9IHRleHQuc3BsaXQoaW5mb1swXSkKICAgICAgICAgICAgICAgIHZhciBwMSA9IHNwbGl0ZWRbMF0KICAgICAgICAgICAgICAgIHZhciBwMiA9IHNwbGl0ZWQuc2xpY2UoMSkuam9pbignJykKCiAgICAgICAgICAgICAgICBpZiAodGV4dC5pbmRleE9mKGluZm9bMF0pID4gLTEpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHQucHVzaCh0aGlzLnRhZyhoLCBwMSwgbGlzdC5zbGljZSgxKSkpCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnB1c2goaCgnVGFnJywge2F0dHJzOntjb2xvcjppbmZvWzFdfX0gLCBpbmZvWzBdKSkKICAgICAgICAgICAgICAgICAgICByZXN1bHQucHVzaCh0aGlzLnRhZyhoLCBwMiwgbGlzdC5zbGljZSgxKSkpCiAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICByZXN1bHQucHVzaCh0aGlzLnRhZyhoLCB0ZXh0LCBsaXN0LnNsaWNlKDEpKSkKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQk8c3RhdGljZGF0YS10YWJsZQoJCQkJOmVuYWJsZXM9IlsncmVmcmVzaCddIgoJCQkJOmNvbHVtbnM9ImNvbHVtbnMiCgkJCQk6aGVpZ2h0PSI3ODAiCgkJCQluYW1lc3BhY2U9ImNvbW1pdHMiCgkJCQl0aXRsZT0iQ29tbWl0IEhpc3RvcnkiCgkJPjwvc3RhdGljZGF0YS10YWJsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgICAgIHNldHRpbmdfY29sdW1ucyA6WwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd0aW1lc3RhbXAnLAogICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICd0aW1lc3RhbXAnLAogICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMTUwLAogICAgICAgICAgICAgICAgICAgICAgICBzb3J0YWJsZTogdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJycsCiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxLAogICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICdwYXRoJywKICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyOiAoaCwgcGFyYW1zKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaCgnc3BhbicsICcnKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAnYnVja2V0JywKICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnYnVja2V0JywKICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246J2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOjkwLAogICAgICAgICAgICAgICAgICAgICAgICBzb3J0YWJsZTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgX3BhcmVudF90aXRsZTonUGF0aCcsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAndmVyc2lvbicsCiAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ3ZlcnNpb24nLAogICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjonY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6OTAsCiAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRhYmxlOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICBfcGFyZW50X3RpdGxlOidQYXRoJywKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdmaWxlbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ2ZpbGVuYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246J2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOjEyMCwKICAgICAgICAgICAgICAgICAgICAgICAgc29ydGFibGU6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIF9wYXJlbnRfdGl0bGU6J1BhdGgnLAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ3RhYmxlJywKICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAndGFibGUnLAogICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjonY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6MTIwLAogICAgICAgICAgICAgICAgICAgICAgICBzb3J0YWJsZTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgX3BhcmVudF90aXRsZTonUGF0aCcsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIHRpdGxlOiAnYWN0aW9uJywKICAgICAgICAgICAgICAgICAgICAvLyAgICAga2V5OiAncGF5bG9hZCcsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgIHdpZHRoOiAxMDAsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgIHJlbmRlcjogKGgsIHBhcmFtcykgPT4gewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmFyIHBheWxvYWQgPSBKU09OLnBhcnNlKHBhcmFtcy5yb3cucGF5bG9hZCkKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgIGlmIChwYXlsb2FkLm9sZF92YWx1ZSAhPSAnTm9uZScgJiYgcGF5bG9hZC5uZXdfdmFsdWUgIT0gJ05vbmUnKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgcmV0dXJuIGgoJ3RhZycsIHsgJ2F0dHJzJzogeydjb2xvcic6ICdwcmltYXJ5J319LCAndXBkYXRlJykKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgIH1lbHNlIGlmIChwYXlsb2FkLm9sZF92YWx1ZSA9PSAnTm9uZScgJiYgcGF5bG9hZC5uZXdfdmFsdWUgIT0nTm9uZScpIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gaCgndGFnJywgeyAnYXR0cnMnOiB7J2NvbG9yJzogJ3N1Y2Nlc3MnfX0sICdjcmVhdGUnKQogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgfWVsc2UgaWYgKHBheWxvYWQub2xkX3ZhbHVlICE9ICdOb25lJyAmJiBwYXlsb2FkLm5ld192YWx1ZSA9PSAnTm9uZScpIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gaCgndGFnJywgeydhdHRycyc6eydjb2xvcic6ICdlcnJvcid9fSwgJ2RlbGV0ZScpCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIH0KICAgICAgICAgICAgICAgICAgICAvLyB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdrZXknLAogICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICdrZXknLAogICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogODAKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdjaGFuZ2VzJywKICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAncGF5bG9hZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlcjogKGgsIHBhcmFtcykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHBheWxvYWQgPSBKU09OLnBhcnNlKHBhcmFtcy5yb3cucGF5bG9hZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLnJlbmRlclBheWxvYWQoaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXMucm93LmZpbGVuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmFtcy5yb3cudGFibGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zLnJvdy5rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5vbGRfdmFsdWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5uZXdfdmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">CXZhciBfbmFtZXNwYWNlID0gJ2NvbW1pdHMnCgl2YXIgX3RpdGxlID0gJ0NvbW1pdCBIaXN0b3J5Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQljb21wb25lbnRzOnsKCQkgICAgU3RhdGljZGF0YVRhYmxlCgkJfSwKCQlwcm9wczogewoJCQknY29sdW1ucyc6IHsKCQkJCXR5cGU6IEFycmF5LAoJCQkJZGVmYXVsdDogZnVuY3Rpb24gKCkgewoJCQkJCXJldHVybiBbCgkJCQkJCXsKCQkJCQkJCXRpdGxlOiAnQ29tbWl0IElEJywKCQkJCQkJCWtleTogJ2lkJywKCQkJCQkJCXdpZHRoOiAxMDAsCgkJCQkJCQlhbGlnbjogJ2NlbnRlcicsCgkJCQkJCQlydWxlczogWwoJCQkJCQkJCXsgcmVxdWlyZWQ6IHRydWUsIHRyaWdnZXI6ICdibHVyJyB9CgkJCQkJCQldCgkJCQkJCX0sCgkJCQkJCXsKCQkJCQkJCXRpdGxlOiAnY29tbWVudCcsCgkJCQkJCQlrZXk6ICdjb21tZW50JywKCQkJCQkJCXJ1bGVzOiBbCgkJCQkJCQkJeyByZXF1aXJlZDogdHJ1ZSwgdHJpZ2dlcjogJ2JsdXInIH0KCQkJCQkJCV0KCQkJCQkJfSwKCQkJCQkJewoJCQkJCQkJdGl0bGU6ICd0aW1lc3RhbXAnLAoJCQkJCQkJa2V5OiAndGltZXN0YW1wJywKCQkJCQkJCXdpZHRoOjE1MCwKCQkJCQkJCXJ1bGVzOiBbCgkJCQkJCQkJeyByZXF1aXJlZDogdHJ1ZSwgdHJpZ2dlcjogJ2JsdXInIH0KCQkJCQkJCV0KCQkJCQkJfQoJCQkJCV0KCQkJCX0KCQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd0NyZWF0ZSgpewogICAgICAgICAgICAgICAgdGhpcy5yZXNldE1vZGVsKCkKICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmNhY2hlLmRpc3BhdGNoKGBzdGF0aWNkYXRhLW9iamVjdHMvZmV0Y2hMaXN0YCkKICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmNhY2hlLmRpc3BhdGNoKGBpdGVtLXR5cGUtbG9jYWxlLXRlbXBsYXRlcy9mZXRjaExpc3RgKQogICAgICAgICAgICAgICAgdGhpcy4kcmVmcy5jcmVhdGVEaWFsb2dbJ3Zpc2libGUnXSA9IHRydWUKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
