@@ -403,12 +403,12 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1560764184229">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1560828646139">
         <mark key="'" line="42" column="41" />
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="25" />
-        <mark key="." line="66" column="25" />
-        <mark key="^" line="175" column="36" />
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="28" />
+        <mark key="^" line="65" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/formulas-xp.js" timestamp="1545963309063">
         <mark key="[" line="11" column="61" />
@@ -597,7 +597,7 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560827702276">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560828810740">
         <mark key="[" line="286" column="41" />
         <mark key="]" line="286" column="41" />
         <mark key="." line="286" column="41" />
@@ -741,7 +741,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560827719016">
+      <file name="/Dummy.txt" timestamp="1560829161871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -906,11 +906,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" timestamp="1560764180726">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="36" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/modules.js" timestamp="1560828945074">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/tag-table.vue" timestamp="1553244070263">
         <mark key="[" line="12" column="53" />
@@ -1816,10 +1816,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ti-selected-item</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>ti-selected-item</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
