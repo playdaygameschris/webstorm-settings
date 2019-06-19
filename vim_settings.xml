@@ -616,11 +616,11 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560934771898">
-        <mark key="[" line="374" column="40" />
-        <mark key="]" line="374" column="46" />
-        <mark key="." line="374" column="46" />
-        <mark key="^" line="374" column="46" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560935787972">
+        <mark key="[" line="134" column="47" />
+        <mark key="]" line="134" column="53" />
+        <mark key="." line="134" column="53" />
+        <mark key="^" line="134" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -1918,10 +1918,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update s3 path</text>
+        <text>stage</text>
       </register>
       <register name="-" type="4">
-        <text>update s3 path</text>
+        <text>stage</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
