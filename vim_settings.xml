@@ -63,7 +63,7 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1560920505663">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1560934463408">
         <mark key="[" line="48" column="10" />
         <mark key="]" line="48" column="29" />
         <mark key="." line="48" column="29" />
@@ -616,11 +616,11 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560931697820">
-        <mark key="[" line="281" column="40" />
-        <mark key="]" line="281" column="47" />
-        <mark key="." line="281" column="47" />
-        <mark key="^" line="281" column="47" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560934771898">
+        <mark key="[" line="374" column="40" />
+        <mark key="]" line="374" column="46" />
+        <mark key="." line="374" column="46" />
+        <mark key="^" line="374" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -658,11 +658,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1560926921088">
-        <mark key="[" line="84" column="86" />
-        <mark key="]" line="84" column="92" />
-        <mark key="." line="84" column="92" />
-        <mark key="^" line="84" column="92" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1560933604810">
+        <mark key="e" line="11" column="0" />
+        <mark key="[" line="84" column="111" />
+        <mark key="]" line="84" column="116" />
+        <mark key="." line="84" column="116" />
+        <mark key="^" line="84" column="116" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
         <mark key="[" line="31" column="8" />
@@ -763,8 +764,10 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560932119614">
+      <file name="/Dummy.txt" timestamp="1560935090035">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
         <mark key="[" line="34" column="9" />
@@ -1684,11 +1687,11 @@
         <mark key="." line="84" column="13" />
         <mark key="^" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1560394802563">
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="41" />
-        <mark key="^" line="28" column="41" />
-        <mark key="." line="28" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1560935087133">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/speedup-formulas.js" timestamp="1560840818457">
         <mark key="[" line="10" column="33" />
@@ -1915,10 +1918,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>update s3 path</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>update s3 path</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1927,31 +1930,31 @@
         <text encoding="base64">ICAgIF9teXNxbF9vcmRlcnModXNlcklkOiBTdHJpbmchKSA6IFtPcmRlcl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAo=</text>
+        <text encoding="base64">ICAgICAgQVBPTExPX0tFWTogYTNjQUptVGdVNVgyLUxBaXF6VXE4UQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5wYXlsb2FkLm1hcCggeD0+IHguZ2V0RnVsbFNraW5JZCgpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5wYXlsb2FkLm1hcCggeD0+IHguZ2V0RnVsbFNraW5JZCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhidWNrZXQsIHZlcnNpb24sIGNvbW1pdF9pZCwgaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhidWNrZXQsIHZlcnNpb24sIGNvbW1pdF9pZCwgaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Y2tldCAhPSAnZ2xvYmFsJykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXRfaWQ6IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Y2tldCAhPSAnZ2xvYmFsJykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VnVlLnByb3RvdHlwZS4kY29tbWl0X2lkID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBjb21taXRfaWQ6IDAK</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
