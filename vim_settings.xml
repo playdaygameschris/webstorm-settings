@@ -346,11 +346,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.dev.js" timestamp="1560921055559">
-        <mark key="[" line="2" column="78" />
-        <mark key="]" line="2" column="78" />
-        <mark key="." line="2" column="78" />
-        <mark key="^" line="2" column="79" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/env/const.dev.js" timestamp="1560938723999">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createActions.js" timestamp="1560841527726">
         <mark key="[" line="37" column="53" />
@@ -616,11 +616,11 @@
         <mark key="." line="82" column="31" />
         <mark key="^" line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560935787972">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1560938835479">
         <mark key="[" line="134" column="47" />
-        <mark key="]" line="134" column="53" />
-        <mark key="." line="134" column="53" />
-        <mark key="^" line="134" column="53" />
+        <mark key="]" line="134" column="51" />
+        <mark key="." line="134" column="51" />
+        <mark key="^" line="134" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/error-alert-message.js" timestamp="1546400611891">
         <mark key="[" line="5" column="103" />
@@ -764,7 +764,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560935090035">
+      <file name="/Dummy.txt" timestamp="1560938837069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1918,10 +1918,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stage</text>
+        <text>sandbox</text>
       </register>
       <register name="-" type="4">
-        <text>stage</text>
+        <text>sandbox</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
