@@ -240,6 +240,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1561021508022">
+        <mark key="[" line="29" column="78" />
+        <mark key="]" line="29" column="78" />
+        <mark key="." line="29" column="78" />
+        <mark key="^" line="29" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1560391327230">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="1" column="23" />
@@ -754,7 +760,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561017925774">
+      <file name="/Dummy.txt" timestamp="1561021509756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1927,11 +1933,11 @@
       <jump line="263" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/schema.graphql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>query problem when execute SELECT ${table}.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
