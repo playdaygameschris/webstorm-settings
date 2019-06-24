@@ -759,7 +759,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561108266497">
+      <file name="/Dummy.txt" timestamp="1561341574520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1653,11 +1653,11 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1561087387244">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="12" />
-        <mark key="." line="190" column="12" />
-        <mark key="^" line="188" column="17" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1561341526994">
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="57" />
+        <mark key="." line="54" column="57" />
+        <mark key="^" line="54" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1560753951721">
         <mark key="[" line="245" column="0" />
@@ -1932,10 +1932,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHNjcmlwdD4KICAgIGltcG9ydCBTdGF0aWNkYXRhVGFibGUgZnJvbSAnLi9zdGF0aWNkYXRhLXRhYmxlLnZ1ZScKICAgIGltcG9ydCBjb25zdGFudCBmcm9tICIuLy4uLy4uL2NvbnN0IjsKCiAgICB2YXIgX25hbWVzcGFjZSA9ICdjb21taXRzJwogICAgdmFyIF90aXRsZSA9ICdDb21taXQgSGlzdG9yeScKCiAgICBleHBvcnQgZGVmYXVsdCB7CiAgICAgICAgdGVtcGxhdGU6IHJlcXVpcmUoJy4uLy4uL3RlbXBsYXRlcy9zdGF0aWNkYXRhLXRhYmxlL3N0YXRpY2RhdGEtdGFibGUuaHRtbC5qcycpLAogICAgICAgIGV4dGVuZHM6IFN0YXRpY2RhdGFUYWJsZSwKICAgICAgICBwcm9wczp7CiAgICAgICAgICAgICdlbmFibGVzJzogeyB0eXBlOiBBcnJheSwgZGVmYXVsdCA6ICgpID0+IFsncmVmcmVzaCddfSwKICAgICAgICAgICAgJ2NvbHVtbnMnOnsKICAgICAgICAgICAgICAgIHR5cGU6IEFycmF5LAogICAgICAgICAgICAgICAgZGVmYXVsdDogZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0NvbW1pdCBJRCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICdpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMTAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVsZXM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCB0cmlnZ2VyOiAnYmx1cicgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ2NvbW1lbnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnY29tbWVudCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIHRyaWdnZXI6ICdibHVyJyB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAndGltZXN0YW1wJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDoxNTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdXBkYXRlX2hpZGRlbjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgdHJpZ2dlcjogJ2JsdXInIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3RpdGxlJzogewogICAgICAgICAgICAgICAgdHlwZTogU3RyaW5nLAogICAgICAgICAgICAgICAgZGVmYXVsdDogX3RpdGxlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICduYW1lc3BhY2UnOiB7CiAgICAgICAgICAgICAgICB0eXBlOiBTdHJpbmcsCiAgICAgICAgICAgICAgICBkZWZhdWx0OiBfbmFtZXNwYWNlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGZpbHRlcnM6ewogICAgICAgICAgICAgICAgdHlwZTogQXJyYXksCiAgICAgICAgICAgICAgICBkZWZhdWx0OiAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIG1ldGhvZHM6ewogICAgICAgICAgICBvblNlbGVjdChyb3csIGluZGV4KSB7CiAgICAgICAgICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaCh0aGlzLiRyb3V0ZS5wYXRoLnJlcGxhY2UoL1wvXGR7MSwzfVwvLywgYC8ke3Jvdy5pZH0vYCkpCiAgICAgICAgICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKQogICAgICAgICAgICB9LAogICAgICAgICAgICByb3dDbGFzc05hbWUgKHJvdywgaW5kZXgpIHsKICAgICAgICAgICAgICAgIGlmIChyb3cuaWQgPT0gdGhpcy4kcm91dGUucGFyYW1zLmNvbW1pdF9pZCl7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICd0YWJsZS1zZWxlY3RlZC1yb3cnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgICAgIH0sCiAgICAgICAgfQogICAgfQo8L3NjcmlwdD4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
