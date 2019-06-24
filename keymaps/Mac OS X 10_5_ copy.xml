@@ -16,12 +16,17 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="MarkdownNavigator.ToggleSplitLayoutChange" />
+  <action id="MinimizeCurrentWindow" />
   <action id="ParameterInfo" />
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Run" />
+  <action id="TodoViewGroupByShowModules" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
