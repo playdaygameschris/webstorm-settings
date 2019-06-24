@@ -520,11 +520,6 @@
         <mark key="^" line="11" column="73" />
         <mark key="." line="11" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/system/errors.js" timestamp="1561025943483">
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/node_modules/redis/lib/utils.js" timestamp="1556003539231">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
@@ -603,11 +598,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1547189862240">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="7" column="47" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-furnitures-layout.vue" timestamp="1561365396178">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/storage/staticdata-storage-costs-table.vue" timestamp="1555475454900">
         <mark key="[" line="73" column="39" />
@@ -771,7 +766,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561360890018">
+      <file name="/Dummy.txt" timestamp="1561365259735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1017,11 +1012,11 @@
         <mark key="^" line="56" column="7" />
         <mark key="." line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-objects-layout.vue" timestamp="1548411814847">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-objects-layout.vue" timestamp="1561365191526">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="14" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-levelrewards.js" timestamp="1541736302170">
         <mark key="[" line="3" column="0" />
@@ -1372,11 +1367,11 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-decorations-layout.vue" timestamp="1547190543791">
-        <mark key="[" line="16" column="97" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-decorations-layout.vue" timestamp="1561365238745">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+        <mark key="^" line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-sortable.js" timestamp="1555298305885">
         <mark key="[" line="69" column="31" />
@@ -1946,10 +1941,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>[[</text>
