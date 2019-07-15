@@ -21,12 +21,12 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1563161188487">
-        <mark key="'" line="43" column="35" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="18" column="40" />
-        <mark key="." line="18" column="40" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1563176264965">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale/locale-layout.vue" timestamp="1561010777043">
         <mark key="[" line="2" column="27" />
@@ -70,7 +70,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1563167514748" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1563176309111">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="16" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1561358884125">
         <mark key="[" line="13" column="76" />
         <mark key="]" line="13" column="88" />
@@ -762,7 +767,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563174577404">
+      <file name="/Dummy.txt" timestamp="1563176310420">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1930,10 +1935,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
