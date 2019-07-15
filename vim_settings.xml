@@ -761,7 +761,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563161626591">
+      <file name="/Dummy.txt" timestamp="1563172735241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1656,10 +1656,10 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563168732655">
-        <mark key="[" line="43" column="61" />
-        <mark key="]" line="43" column="77" />
-        <mark key="." line="43" column="77" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563172329157">
+        <mark key="[" line="43" column="62" />
+        <mark key="]" line="43" column="62" />
+        <mark key="." line="43" column="62" />
         <mark key="^" line="43" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1560753951721">
@@ -1929,10 +1929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${self:custom.ddTraceAgentPort.${self:provider.stage}}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>${self:custom.ddTraceAgentPort.${self:provider.stage}}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
