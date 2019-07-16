@@ -69,11 +69,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1563246340777">
-        <mark key="[" line="108" column="46" />
-        <mark key="]" line="108" column="47" />
-        <mark key="^" line="56" column="14" />
-        <mark key="." line="108" column="47" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1563247964524">
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="82" column="26" />
+        <mark key="^" line="82" column="26" />
+        <mark key="." line="82" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1561358884125">
         <mark key="[" line="13" column="76" />
@@ -766,7 +766,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563246343576">
+      <file name="/Dummy.txt" timestamp="1563247734570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1932,11 +1932,11 @@
       <jump line="123" column="60" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
