@@ -761,7 +761,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563348613819">
+      <file name="/Dummy.txt" timestamp="1563350307860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1469,11 +1469,11 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1563328373359">
-        <mark key="[" line="103" column="35" />
-        <mark key="]" line="103" column="36" />
-        <mark key="." line="103" column="36" />
-        <mark key="^" line="103" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1563350235130">
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="57" column="44" />
+        <mark key="." line="57" column="44" />
+        <mark key="^" line="57" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/object.js" timestamp="1540280753531">
         <mark key="[" line="10" column="0" />
@@ -1928,10 +1928,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flat</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>flat</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
