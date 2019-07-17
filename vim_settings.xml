@@ -362,6 +362,12 @@
         <mark key="^" line="37" column="63" />
         <mark key="." line="37" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1563337036869">
+        <mark key="[" line="153" column="58" />
+        <mark key="]" line="153" column="62" />
+        <mark key="." line="153" column="62" />
+        <mark key="^" line="153" column="62" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1563327618363">
         <mark key="[" line="0" column="0" />
       </file>
@@ -719,6 +725,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/map-config-tags.js" timestamp="1563337537333">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/stock.js" timestamp="1551343267991">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -749,7 +761,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563253421696">
+      <file name="/Dummy.txt" timestamp="1563337325855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1496,11 +1508,11 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="9" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1557993985013">
-        <mark key="[" line="116" column="59" />
-        <mark key="]" line="117" column="41" />
-        <mark key="^" line="117" column="41" />
-        <mark key="." line="117" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1563337062250">
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="83" column="36" />
+        <mark key="^" line="83" column="36" />
+        <mark key="." line="83" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-storagecosts.js" timestamp="1541736322360">
         <mark key="[" line="3" column="0" />
@@ -1913,10 +1925,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>60</text>
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>60</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
