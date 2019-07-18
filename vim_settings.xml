@@ -362,13 +362,13 @@
         <mark key="^" line="37" column="63" />
         <mark key="." line="37" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1563338464030">
-        <mark key="[" line="347" column="54" />
-        <mark key="]" line="347" column="59" />
-        <mark key="." line="347" column="59" />
-        <mark key="^" line="347" column="59" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/config-table.vue" timestamp="1563417419952">
+        <mark key="[" line="347" column="96" />
+        <mark key="]" line="347" column="96" />
+        <mark key="." line="347" column="96" />
+        <mark key="^" line="347" column="96" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563327618363">
+      <file name="/GraphQL.result.json" timestamp="1563414442079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
@@ -761,7 +761,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563350307860">
+      <file name="/Dummy.txt" timestamp="1563417424293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1471,9 +1471,6 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1563358005888">
         <mark key="[" line="44" column="26" />
-        <mark key="]" line="54" column="25" />
-        <mark key="^" line="54" column="25" />
-        <mark key="." line="54" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/object.js" timestamp="1540280753531">
         <mark key="[" line="10" column="0" />
@@ -1927,11 +1924,11 @@
       <jump line="123" column="60" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdjYXAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAnaG9tZV9yZXF1ZXN0X2NhcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbWluOiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21heDogOTk5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3BhcmVudF90aXRsZTogJ2hvbWUtcmVxdWVzdCcKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
