@@ -159,11 +159,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1563427703088">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" timestamp="1563432453030">
+        <mark key="[" line="263" column="88" />
+        <mark key="]" line="263" column="89" />
+        <mark key="." line="263" column="89" />
+        <mark key="^" line="263" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-templates.js" timestamp="1560840987189">
         <mark key="[" line="10" column="33" />
@@ -205,6 +205,7 @@
         <mark key="." line="94" column="51" />
         <mark key="^" line="94" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-sku-table.vue" timestamp="1563431917974" />
       <file name="$USER_HOME$/Documents/workspace/home-graphql/README.md" timestamp="1541556937265">
         <mark key="[" line="44" column="67" />
         <mark key="]" line="45" column="24" />
@@ -1925,10 +1926,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TGV</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>TGV</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
