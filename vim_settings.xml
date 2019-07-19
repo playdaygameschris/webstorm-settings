@@ -752,7 +752,7 @@
         <mark key="." line="15" column="101" />
         <mark key="^" line="15" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563507411203">
+      <file name="/Dummy.txt" timestamp="1563511071616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1642,11 +1642,11 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563173470817">
-        <mark key="[" line="43" column="130" />
-        <mark key="]" line="43" column="129" />
-        <mark key="." line="43" column="129" />
-        <mark key="^" line="43" column="129" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563511069143">
+        <mark key="[" line="193" column="16" />
+        <mark key="]" line="193" column="74" />
+        <mark key="." line="193" column="74" />
+        <mark key="^" line="193" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1560753951721">
         <mark key="[" line="245" column="0" />
@@ -1915,10 +1915,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVzb2x2ZV8gPSByZXNvbHZlID0+IHsKCn0K</text>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1927,35 +1927,31 @@
         <text encoding="base64">dHJhY2VyLnVzZSgnbXlzcWwnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVzb2x2ZV8gPSByZXNvbHZlID0+IHsKCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5hY3RpdmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGUuYWN0aXZlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2U6ICdwZy1jbHVzdGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGUuYWN0aXZlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiAoY29sdW1uKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoKGNvbHVtbi5fdHlwZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdmbG9hdCc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4ge3JlcXVpcmVkOiB0cnVlIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGUuYWN0aXZlKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>else if(column._type=='float'){
-                self.rules[column.key] = [
-                    {required: true, pattern:/^[-+]?[0-9]*\.?[0-9]+$/}
-                ]
-            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDpydWxlcz0iZ2V0UnVsZXMoY29sdW1uLmtleSkiLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbW9kZWwnLCBtb2RlbCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaWJzaQo=</text>
+        <text encoding="base64">ICAgICAgICBzY29wZS5hY3RpdmF0ZShzcGFuLCAoKSA9PiB7fSkK</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
