@@ -27,6 +27,11 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1563509694736">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/draggable.vue" timestamp="1542621320309">
         <mark key="[" line="27" column="71" />
         <mark key="]" line="28" column="35" />
@@ -638,6 +643,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1563509710907">
+        <mark key="[" line="122" column="42" />
+        <mark key="]" line="123" column="18" />
+        <mark key="^" line="123" column="18" />
+        <mark key="." line="123" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
         <mark key="[" line="31" column="8" />
@@ -1904,47 +1915,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiAoY29sdW1uKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoKGNvbHVtbi5fdHlwZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdmbG9hdCc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4ge3JlcXVpcmVkOiB0cnVlIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>mysql</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBMb2NhbGVUZW1wbGF0ZUxheW91dCBmcm9tICcuLi9sYXlvdXRzL2xvY2FsZS10ZW1wbGF0ZS1sYXlvdXQudnVlJwo=</text>
+        <text encoding="base64">dHJhY2VyLnVzZSgnbXlzcWwnKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlcnZpY2U6ICdwZy1jbHVzdGVyJwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiAoY29sdW1uKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoKGNvbHVtbi5fdHlwZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdmbG9hdCc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4ge3JlcXVpcmVkOiB0cnVlIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>else if(column._type=='float'){
                 self.rules[column.key] = [
                     {required: true, pattern:/^[-+]?[0-9]*\.?[0-9]+$/}
                 ]
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDpydWxlcz0iZ2V0UnVsZXMoY29sdW1uLmtleSkiLS0+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbW9kZWwnLCBtb2RlbCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaWJzaQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IF8uaXNGdW5jdGlvbih0aGlzLmNvbHVtbnNfdHlwZVtrZXldKSA/IHRoaXMuY29sdW1uc190eXBlW2tleV0odGhpcy5jb2x1bW5zW2tleV0pIDogdGhpcy5jb2x1bW5zX3R5cGVba2V5XQogICAgICAgICAgICBjb25zb2xlLmxvZygncmVzdWx0JywgcmVzdWx0KQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2dldFJ1bGVzJywga2V5KQogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmNvbHVtbnNfdHlwZSkKICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5jb2x1bW5zKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY29sdW1uJywgY29sdW1uKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaWJzaQo=</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
