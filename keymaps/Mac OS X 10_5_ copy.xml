@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
