@@ -650,17 +650,17 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/manager.js" timestamp="1563770898664">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/manager.js" timestamp="1563778771027">
+        <mark key="[" line="3" column="82" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1563769716440">
-        <mark key="[" line="107" column="30" />
-        <mark key="]" line="107" column="31" />
-        <mark key="." line="107" column="31" />
-        <mark key="^" line="107" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/server.js" timestamp="1563778735867">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/user.js" timestamp="1540195113342">
         <mark key="[" line="31" column="8" />
@@ -1399,11 +1399,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mysql.js" timestamp="1558415743656">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="42" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/mysql.js" timestamp="1563778743172">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1553675846948">
         <mark key="[" line="60" column="64" />
@@ -1657,12 +1657,12 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563777348859">
-        <mark key="'" line="100" column="33" />
-        <mark key="[" line="190" column="18" />
-        <mark key="]" line="190" column="23" />
-        <mark key="." line="190" column="23" />
-        <mark key="^" line="190" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563778764907">
+        <mark key="'" line="101" column="33" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="177" column="16" />
+        <mark key="." line="177" column="16" />
+        <mark key="^" line="189" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1560753951721">
         <mark key="[" line="245" column="0" />
@@ -1930,11 +1930,11 @@
       <jump line="100" column="33" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
