@@ -1656,10 +1656,11 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563782370440">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563783663813">
+        <mark key="[" line="101" column="61" />
+        <mark key="]" line="101" column="61" />
+        <mark key="." line="101" column="61" />
+        <mark key="^" line="101" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1560753951721">
         <mark key="[" line="245" column="0" />
@@ -1927,11 +1928,11 @@
       <jump line="100" column="33" filename="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
