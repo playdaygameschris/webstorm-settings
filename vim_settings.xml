@@ -233,13 +233,6 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolvers/general.js" timestamp="1561456832070">
-        <mark key="'" line="123" column="60" />
-        <mark key="[" line="52" column="53" />
-        <mark key="]" line="53" column="18" />
-        <mark key="." line="53" column="18" />
-        <mark key="^" line="53" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/.gitignore" timestamp="1560391327230">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="1" column="23" />
@@ -1664,12 +1657,12 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563773450437">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1563777348859">
         <mark key="'" line="100" column="33" />
-        <mark key="[" line="177" column="46" />
-        <mark key="]" line="177" column="46" />
-        <mark key="." line="177" column="46" />
-        <mark key="^" line="177" column="46" />
+        <mark key="[" line="190" column="18" />
+        <mark key="]" line="190" column="23" />
+        <mark key="." line="190" column="23" />
+        <mark key="^" line="190" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1560753951721">
         <mark key="[" line="245" column="0" />
@@ -1938,7 +1931,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Bhbi5maW5pc2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1950,31 +1943,31 @@
         <text encoding="base64">dHJhY2VyLnVzZSgnbXlzcWwnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Bhbi5maW5pc2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZltlcnJvcl9uYW1lXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLmFjdGl2YXRlKHNwYW4sICgpID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcl9tZXNzYWdlJywgZS5tZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzY29wZS5hY3RpdmUoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Bhbi5maW5pc2goKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5iaW5kKHNwYW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZltlcnJvcl9uYW1lXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcl9tZXNzYWdlJywgZS5tZXNzYWdlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc2NvcGUgPSBjb250ZXh0LnRyYWNlci5zY29wZSgpCiAgICAgICAgICAgIGNvbnN0IHNwYW4gPSBjb250ZXh0LnRyYWNlci5zdGFydFNwYW4oJ21hbmFnZXInKQogICAgICAgICAgICBzY29wZS5hY3RpdmF0ZShzcGFuLCBzZWxmLm1hbmFnZXIuX2dldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5iaW5kKHNwYW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
