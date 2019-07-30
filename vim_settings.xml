@@ -350,7 +350,7 @@
         <mark key="." line="261" column="27" />
         <mark key="^" line="261" column="27" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1564364070456">
+      <file name="/GraphQL.result.json" timestamp="1564450447393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
@@ -927,7 +927,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animal-costs-table.vue" timestamp="1564395150014">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/animial/staticdata-animal-costs-table.vue" timestamp="1564450995949">
         <mark key="[" line="68" column="45" />
         <mark key="]" line="68" column="45" />
         <mark key="." line="68" column="45" />
@@ -1307,12 +1307,12 @@
         <mark key="." line="67" column="62" />
         <mark key="^" line="67" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1564395995864">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1564451099796">
         <mark key="'" line="23" column="37" />
-        <mark key="[" line="47" column="87" />
-        <mark key="]" line="47" column="88" />
-        <mark key="." line="47" column="88" />
-        <mark key="^" line="47" column="87" />
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="41" />
+        <mark key="." line="58" column="41" />
+        <mark key="^" line="58" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-dialog-form.js" timestamp="1564395634595">
         <mark key="[" line="22" column="51" />
@@ -1494,7 +1494,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1564375773122" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-animal-attrs.js" timestamp="1548411461219">
         <mark key="[" line="9" column="71" />
         <mark key="]" line="9" column="75" />
@@ -1935,10 +1934,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9999999</text>
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>9999999</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
