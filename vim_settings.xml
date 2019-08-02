@@ -775,6 +775,9 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564721827387">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
         <mark key="[" line="34" column="9" />
         <mark key="]" line="34" column="13" />
@@ -1638,11 +1641,11 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1564651743859">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="92" column="8" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1564722394849">
+        <mark key="[" line="110" column="34" />
+        <mark key="]" line="110" column="45" />
+        <mark key="^" line="110" column="45" />
+        <mark key="." line="110" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1564395762905">
         <mark key="[" line="23" column="43" />
@@ -1662,11 +1665,11 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1564719230637">
-        <mark key="[" line="199" column="57" />
-        <mark key="]" line="199" column="61" />
-        <mark key="." line="199" column="61" />
-        <mark key="^" line="199" column="61" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1564721816624">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="198" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1564377558346">
         <mark key="'" line="237" column="12" />
@@ -1936,10 +1939,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1948,31 +1951,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdGFudDogX3Jlc29sdmVyKCdpdGVtJywgJ3VzZXJfY29uc3RhbnQnLCAndXNlcklkJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzLmVudicsIHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEuZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBudWxsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuc3RhdGUgIT0gMCkgewoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oYHphcHBhIGFwaSBlcnJvciAke3Jlc3BvbnNlLmRhdGEuc3RhdGUuY29kZX0gLSAke3Jlc3BvbnNlLmRhdGEuc3RhdGUubXNnfWApCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZWplY3QobmV3IEVycm9yKGB6YQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGF5bG9hZCA9IHBhcnNlUmVzdWx0KHJlc3BvbnNlLmRhdGEsIHR5cGUsIHRhYmxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzLmVudicsIHByb2Nlc3MuZW52KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9wYXJlbnRfdGl0bGU6ICd0cnVjay1vcmRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuc3RhdGUgIT0gMCkgewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
