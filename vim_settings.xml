@@ -775,7 +775,7 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564721827387">
+      <file name="/Dummy.txt" timestamp="1564733499209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1641,11 +1641,11 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1564722394849">
-        <mark key="[" line="110" column="34" />
-        <mark key="]" line="110" column="45" />
-        <mark key="^" line="110" column="45" />
-        <mark key="." line="110" column="45" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1564733498706">
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="100" column="20" />
+        <mark key="." line="100" column="20" />
+        <mark key="^" line="100" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1564395762905">
         <mark key="[" line="23" column="43" />
@@ -1939,10 +1939,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>dynamodb</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>dynamodb</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1951,31 +1951,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdGFudDogX3Jlc29sdmVyKCdpdGVtJywgJ3VzZXJfY29uc3RhbnQnLCAndXNlcklkJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlX3R5cGUgPSAnZHluYW1vZGInCiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlX3R5cGUgPSAnemFwcGEnCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZWplY3QobmV3IEVycm9yKGB6YQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnemFwcGEtbGlzdCc6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzLmVudicsIHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnemFwcGEtaXRlbSc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnemFwcGEtbGlzdCc6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnemFwcGEtaXRlbSc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuc3RhdGUgIT0gMCkgewoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnemFwcGEtaXRlbSc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
