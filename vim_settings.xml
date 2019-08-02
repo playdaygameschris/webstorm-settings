@@ -1663,11 +1663,11 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1564714154620">
-        <mark key="[" line="195" column="42" />
-        <mark key="]" line="196" column="31" />
-        <mark key="." line="196" column="31" />
-        <mark key="^" line="196" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1564715578107">
+        <mark key="[" line="201" column="62" />
+        <mark key="]" line="200" column="33" />
+        <mark key="." line="200" column="33" />
+        <mark key="^" line="200" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1564377558346">
         <mark key="'" line="237" column="12" />
@@ -1936,11 +1936,11 @@
       <jump line="26" column="22" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuc3RhdGUgIT0gMCkgewoKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
