@@ -782,7 +782,7 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565153250273">
+      <file name="/Dummy.txt" timestamp="1565164925958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1640,10 +1640,10 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1565150620476">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1565164371548">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1564395762905">
         <mark key="[" line="23" column="43" />
@@ -1928,8 +1928,8 @@
       <jump line="26" column="22" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2hhc2gnLCByZXMudG9rZW4sIF9oYXNoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1941,31 +1941,31 @@
         <text encoding="base64">aW1wb3J0IExvY2FsZU90aGVyTGF5b3V0IGZyb20gJy4vdmlld3MvbGF5b3V0cy9sb2NhbGUvb3RoZXItbG9jYWxlLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLnBheWxvYWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2hhc2gnLCByZXMudG9rZW4sIF9oYXNoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLnBheWxvYWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZWprCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZWprCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3JfbmFtZSwgbWVzc2FnZSwgZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3JfbmFtZSwgbWVzc2FnZSwgZXJyb3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb25maWdfa2V5ID0gYGNhY2hlOiR7Y2FjaGVfdHlwZX06JHt0eXBlPT0nbGlzdCc/cGx1cmFsKHRhYmxlKTp0YWJsZX1gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZ19rZXkgPSB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb25maWdfa2V5ID0gYGNhY2hlOiR7Y2FjaGVfdHlwZX06JHt0eXBlPT0nbGlzdCc/cGx1cmFsKHRhYmxlKTp0YWJsZX1gCg==</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
