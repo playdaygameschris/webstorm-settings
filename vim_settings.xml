@@ -1641,10 +1641,11 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1565172803253">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/utils.js" timestamp="1565241006862">
+        <mark key="[" line="13" column="139" />
+        <mark key="]" line="13" column="139" />
+        <mark key="." line="13" column="139" />
+        <mark key="^" line="13" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-dialogs.html.js" timestamp="1564395762905">
         <mark key="[" line="23" column="43" />
@@ -1929,11 +1930,11 @@
       <jump line="26" column="22" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1942,31 +1943,31 @@
         <text encoding="base64">ICAgIGV4cG9ydHMuZ3JhcGhxbEhhbmRsZXIgPSBsYW1iZGFXcmFwcGVyLndyYXAoUmF2ZW5MYW1iZGFXcmFwcGVyLmhhbmRsZXIoUmF2ZW4sIChldmVudCwgY29udGV4dCwgY2FsbGJhY2spID0+IHsKICAgICAgICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlCiAgICAgICAgcmV0dXJuIHNlcnZlci5jcmVhdGVIYW5kbGVyKCkoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKTsKICAgIH0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2hhc2gnLCByZXMudG9rZW4sIF9oYXNoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLnBheWxvYWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2hhc2gnLCByZXMudG9rZW4sIF9oYXNoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLnBheWxvYWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZWprCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZWprCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3JfbmFtZSwgbWVzc2FnZSwgZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3JfbmFtZSwgbWVzc2FnZSwgZXJyb3IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
