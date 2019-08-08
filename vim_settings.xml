@@ -177,7 +177,6 @@
         <mark key="." line="11" column="73" />
         <mark key="^" line="11" column="73" />
       </file>
-      <file name="/graphql.js" timestamp="1565232404096" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/Circle.vue" timestamp="1545187958046">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="77" />
@@ -373,7 +372,7 @@
         <mark key="." line="261" column="27" />
         <mark key="^" line="261" column="27" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1565228347263">
+      <file name="/GraphQL.result.json" timestamp="1565238310377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/note-dialog.vue" timestamp="1553138616796">
@@ -1665,11 +1664,10 @@
         <mark key="^" line="39" column="87" />
         <mark key="." line="39" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1565173520528">
-        <mark key="[" line="202" column="56" />
-        <mark key="]" line="202" column="57" />
-        <mark key="." line="202" column="57" />
-        <mark key="^" line="202" column="57" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/resolve.js" timestamp="1565239066588">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/bids-html/src/stores/chart-dynamic_price_logs.js" timestamp="1534412017482">
         <mark key="[" line="10" column="156" />
@@ -1931,8 +1929,8 @@
       <jump line="26" column="22" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -1947,28 +1945,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2hhc2gnLCByZXMudG9rZW4sIF9oYXNoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLnBheWxvYWQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZWprCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3JfbmFtZSwgbWVzc2FnZSwgZXJyb3IpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2hhc2gnLCByZXMudG9rZW4sIF9oYXNoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLnBheWxvYWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZWprCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3JfbmFtZSwgbWVzc2FnZSwgZXJyb3IpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
