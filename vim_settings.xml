@@ -27,10 +27,11 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1564654842862">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/graphql.js" timestamp="1565233306154">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="5" />
+        <mark key="." line="64" column="5" />
+        <mark key="^" line="64" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/draggable.vue" timestamp="1542621320309">
         <mark key="[" line="27" column="71" />
@@ -68,11 +69,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1564712605812">
-        <mark key="[" line="119" column="34" />
-        <mark key="]" line="119" column="46" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1565232734031">
+        <mark key="[" line="111" column="19" />
+        <mark key="]" line="111" column="19" />
         <mark key="^" line="119" column="46" />
-        <mark key="." line="119" column="46" />
+        <mark key="." line="111" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/log-actions.js" timestamp="1561358884125">
         <mark key="[" line="13" column="76" />
@@ -176,6 +177,7 @@
         <mark key="." line="11" column="73" />
         <mark key="^" line="11" column="73" />
       </file>
+      <file name="/graphql.js" timestamp="1565232404096" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/ui/Circle.vue" timestamp="1545187958046">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="77" />
@@ -782,7 +784,7 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565164925958">
+      <file name="/Dummy.txt" timestamp="1565233307755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/test/cases/storage.js" timestamp="1556260819742">
@@ -1930,16 +1932,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>not</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IExvY2FsZU90aGVyTGF5b3V0IGZyb20gJy4vdmlld3MvbGF5b3V0cy9sb2NhbGUvb3RoZXItbG9jYWxlLWxheW91dC52dWUnCg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydHMuZ3JhcGhxbEhhbmRsZXIgPSBsYW1iZGFXcmFwcGVyLndyYXAoUmF2ZW5MYW1iZGFXcmFwcGVyLmhhbmRsZXIoUmF2ZW4sIChldmVudCwgY29udGV4dCwgY2FsbGJhY2spID0+IHsKICAgICAgICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlCiAgICAgICAgcmV0dXJuIHNlcnZlci5jcmVhdGVIYW5kbGVyKCkoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKTsKICAgIH0pKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
