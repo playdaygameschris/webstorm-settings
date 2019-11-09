@@ -1,0 +1,17 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Vcs.Push">
+        <abbreviation name="p" />
+        <abbreviation name="pu" />
+      </action>
+      <action id="Git.Merge">
+        <abbreviation name="merge" />
+        <abbreviation name="merg" />
+        <abbreviation name="mer" />
+        <abbreviation name="me" />
+        <abbreviation name="m" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
