@@ -265,6 +265,13 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1573462047567">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="403" column="92" />
+        <mark key="]" line="403" column="92" />
+        <mark key="^" line="403" column="93" />
+        <mark key="." line="403" column="92" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/line-keys.js" timestamp="1542795579103">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -767,7 +774,7 @@
         <mark key="^" line="101" column="56" />
         <mark key="." line="101" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573457824174">
+      <file name="/Dummy.txt" timestamp="1573462045794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/resolvers.js" timestamp="1536824913302">
@@ -1877,7 +1884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="46" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
       <jump line="184" column="37" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" />
       <jump line="87" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" />
       <jump line="105" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" />
@@ -1977,13 +1983,14 @@
       <jump line="6" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/package.json" />
       <jump line="128" column="48" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/test-card.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(json_compare_testcase.row.check_props || false)</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>(json_compare_testcase.row.check_props || false)</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
