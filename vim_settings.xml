@@ -81,7 +81,8 @@
         <mark key="." line="3" column="67" />
         <mark key="^" line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1542856978687">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1573446155439">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="45" />
         <mark key="^" line="1" column="45" />
@@ -135,7 +136,7 @@
         <mark key="." line="72" column="12" />
         <mark key="^" line="72" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/amplitude-event-template-table.vue" timestamp="1573445173061">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/amplitude-event-template-table.vue" timestamp="1573446100424">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
@@ -423,12 +424,11 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1573348694138">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1573446172216">
         <mark key="'" line="860" column="1" />
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale/locale-main-layout.vue" timestamp="1565153332444">
         <mark key="[" line="52" column="29" />
@@ -1872,7 +1872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
       <jump line="36" column="46" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" />
       <jump line="184" column="37" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/formula-layout.vue" />
       <jump line="87" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" />
@@ -1972,13 +1971,14 @@
       <jump line="860" column="1" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
       <jump line="6" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/package.json" />
       <jump line="128" column="48" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/test-card.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5yZWxvYWQoJ3NldHRpbmctdGVzdC1hcmdzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ3NldHRpbmctdGVzdC1hcmdzJzoKICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
@@ -1987,31 +1987,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5yZWxvYWQoJ3NldHRpbmctdGVzdC1hcmdzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5yZWxvYWQoJ3NldHRpbmctdGVzdC1hcmdzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ3NldHRpbmctdGVzdC1hcmdzJzoKICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSIgOiAibm9kZSAtLW1heF9vbGRfc3BhY2Vfc2l6ZT00MDk2IG5vZGVfbW9kdWxlcy8uYmluL3Z1ZXRpZnkgc2VydmUgLS1vcGVuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJlbG9hZCgnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVudSBtb2RlPSJob3Jpem9udGFsIiAgYWN0aXZlLW5hbWU9IjEiIEBvbi1zZWxlY3Q9Im9uU2VsZWN0Ij4KICAgICAgICAgICAgPHJvdXRlci1saW5rIHYtYmluZDp0bz0iIGAvJHt0aGlzLiRyb3V0ZS5wYXJhbXMuYnVja2V0fS8ke3RoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9ufS91aS9zaG9wLW1lbnVgIj4KICAgICAgICAgICAgICAgIDxNZW51SXRlbSBuYW1lPSIxIj4KICAgICAgICAgICAgICAgICAgICBTaG9wIE1lbnUKICAgICAgICAgICAgICAgIDwvTWVudUl0ZW0+CiAgICAgICAgICAgIDwvcm91dGVyLWxpbms+CiAgICAgICAgPC9NZW51PgogICAgICAgIDxDYXJkIGRpcy1ob3Zlcj4KICAgICAgICAgICAgPHJvdXRlci12aWV3Pjwvcm91dGVyLXZpZXc+CiAgICAgICAgPC9DYXJkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5yZWxvYWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25TZWxlY3QobmFtZSl7CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5yZWxvYWQoJ3NldHRpbmctdGVzdC1hcmdzJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25TZWxlY3QobmFtZSl7CgogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZSIgOiAibm9kZSAtLW1heF9vbGRfc3BhY2Vfc2l6ZT00MDk2IG5vZGVfbW9kdWxlcy8uYmluL3Z1ZXRpZnkgc2VydmUgLS1vcGVuIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TWVudSBtb2RlPSJob3Jpem9udGFsIiAgYWN0aXZlLW5hbWU9IjEiIEBvbi1zZWxlY3Q9Im9uU2VsZWN0Ij4KICAgICAgICAgICAgPHJvdXRlci1saW5rIHYtYmluZDp0bz0iIGAvJHt0aGlzLiRyb3V0ZS5wYXJhbXMuYnVja2V0fS8ke3RoaXMuJHJvdXRlLnBhcmFtcy52ZXJzaW9ufS91aS9zaG9wLW1lbnVgIj4KICAgICAgICAgICAgICAgIDxNZW51SXRlbSBuYW1lPSIxIj4KICAgICAgICAgICAgICAgICAgICBTaG9wIE1lbnUKICAgICAgICAgICAgICAgIDwvTWVudUl0ZW0+CiAgICAgICAgICAgIDwvcm91dGVyLWxpbms+CiAgICAgICAgPC9NZW51PgogICAgICAgIDxDYXJkIGRpcy1ob3Zlcj4KICAgICAgICAgICAgPHJvdXRlci12aWV3Pjwvcm91dGVyLXZpZXc+CiAgICAgICAgPC9DYXJkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWV0aWZ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TZWxlY3QobmFtZSl7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZXRpZnkgZnJvbSAndnVldGlmeS9saWInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TZWxlY3QobmFtZSl7CgogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help [[</text>
