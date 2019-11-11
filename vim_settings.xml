@@ -1458,6 +1458,12 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="9" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/test-card.vue" timestamp="1573442385555">
+        <mark key="[" line="127" column="163" />
+        <mark key="]" line="127" column="177" />
+        <mark key="." line="127" column="177" />
+        <mark key="^" line="127" column="177" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/tag-layout.vue" timestamp="1558066694632">
         <mark key="[" line="49" column="60" />
         <mark key="]" line="49" column="60" />
@@ -1970,10 +1976,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>150</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>150</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
