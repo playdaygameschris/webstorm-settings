@@ -81,12 +81,12 @@
         <mark key="." line="3" column="67" />
         <mark key="^" line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1573457012084">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1573529989097">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="363" column="80" />
+        <mark key="]" line="363" column="83" />
+        <mark key="^" line="363" column="83" />
+        <mark key="." line="363" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/connectors/dynamodb.js" timestamp="1549963329932">
         <mark key="[" line="2" column="0" />
@@ -198,10 +198,10 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" timestamp="1565151803268">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" timestamp="1573529980566">
+        <mark key="[" line="372" column="28" />
+        <mark key="]" line="372" column="28" />
+        <mark key="." line="372" column="28" />
         <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/list-layout.vue" timestamp="1553826908521">
@@ -793,7 +793,7 @@
         <mark key="^" line="101" column="56" />
         <mark key="." line="101" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573527946184">
+      <file name="/Dummy.txt" timestamp="1573529992535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/graphql-server-example/src/resolvers.js" timestamp="1536824913302">
@@ -1503,7 +1503,7 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="9" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/test-card.vue" timestamp="1573528228859">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/test-card.vue" timestamp="1573529990828">
         <mark key="'" line="128" column="48" />
         <mark key="[" line="133" column="24" />
         <mark key="]" line="133" column="24" />
@@ -2018,10 +2018,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Event</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Event</text>
       </register>
       <register name="/" type="4">
         <text>[[</text>
