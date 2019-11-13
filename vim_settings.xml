@@ -1099,11 +1099,11 @@
         <mark key="^" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1573641040039">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" timestamp="1573641970916">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="79" column="62" />
-        <mark key="]" line="79" column="62" />
-        <mark key="." line="79" column="62" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="68" />
+        <mark key="." line="161" column="0" />
         <mark key="^" line="79" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-templates-layout.vue" timestamp="1547190202538">
@@ -2041,8 +2041,8 @@
       <jump line="61" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>--exclude 'default/*' --include &quot;default/v&quot;$VERSION&quot;/*&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU1RBR0VfTkFNRT1gZWNobyAkU1RBR0VfTkFNRSB8IHNlZCAtZSAncyxzYW5kYm94LGRldixnJ2AK</text>
       </register>
       <register name="-" type="4">
         <text>--exclude 'default/*' --include &quot;default/v&quot;$VERSION&quot;/*&quot;</text>
@@ -2051,7 +2051,7 @@
         <text>[[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdzIHMzIHN5bmMgInMzOi8vIiRTVEFHRV9OQU1FIi1ob21lLXBhbmVsLWRiIiAvdG1wL2J1Y2tldHMgLS1leGNsdWRlICdkZWZhdWx0LyonIC0taW5jbHVkZSAiZGVmYXVsdC92IiRWRVJTSU9OIi8qIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU1RBR0VfTkFNRT1gZWNobyAkU1RBR0VfTkFNRSB8IHNlZCAtZSAncyxzYW5kYm94LGRldixnJ2AK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBDaGVjayBTRAogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBscyAtbGFoIC90bXAvYnVja2V0cwogICAgICAgICAgICBscyAtbGFoIC90bXAvYnVja2V0cy9kZWZhdWx0CiAgICAgICAgICAgIGxzIC1sYWggL3RtcC9idWNrZXRzL2RlZmF1bHQvdjcKICAgICAgICAgICAgbHMgLWxhaCAvdG1wL2J1Y2tldHMvZGVmYXVsdC92Ny9sYXRlc3QK</text>
