@@ -10,6 +10,10 @@
           <option name="url" value="http://3307.dlinkddns.com:10080" />
           <option name="userName" value="root" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="afl3307" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
