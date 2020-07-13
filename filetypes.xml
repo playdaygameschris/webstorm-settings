@@ -5,7 +5,6 @@
       <mapping pattern=".rookout" type="PLAIN_TEXT" />
       <mapping pattern="TableFIlters.js" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
