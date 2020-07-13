@@ -4,6 +4,14 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -40,6 +48,199 @@
         <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1588673586182">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1594608260890">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1587957394639">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" timestamp="1587542067633">
+        <mark key="'" line="7" column="78" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="33" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1588672985844">
+        <mark key="'" line="91" column="15" />
+        <mark key="^" line="101" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/classes/base.js" timestamp="1587542092002">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/utils.js" timestamp="1587700968373">
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+        <mark key="." line="131" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/manager.js" timestamp="1587699562437">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="8" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/app.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="15" column="50" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="9" column="53" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="12" column="53" filename="$USER_HOME$/Documents/workspace/home-graphql/app.js" />
+      <jump line="31" column="13" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
+      <jump line="155" column="8" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="130" column="21" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/app.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="12" column="35" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-topic.js" />
+      <jump line="80" column="59" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="146" column="70" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="71" column="9" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="27" column="62" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-topic.js" />
+      <jump line="32" column="65" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="62" column="24" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="203" column="45" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="58" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="105" column="13" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="28" column="57" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-topic.js" />
+      <jump line="205" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="251" column="10" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="282" column="14" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="371" column="12" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
+      <jump line="408" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
+      <jump line="86" column="23" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="272" column="64" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="258" column="27" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="39" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="35" column="36" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="234" column="15" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="305" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="145" column="26" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="261" column="5" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="289" column="30" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="18" column="44" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="108" column="11" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="161" column="13" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="201" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="26" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/publish.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/Documents/workspace/home-graphql/publish.js" />
+      <jump line="6" column="28" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="273" column="47" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
+      <jump line="141" column="49" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="38" column="44" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="202" column="30" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="246" column="28" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
+      <jump line="45" column="95" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
+      <jump line="9" column="43" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/utils.js" />
+      <jump line="110" column="72" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="9" column="68" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="102" column="44" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="285" column="61" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="26" column="13" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/channel/channel-boardcast-layout.vue" />
+      <jump line="334" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="337" column="37" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="153" column="70" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/utils.js" />
+      <jump line="89" column="19" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" />
+      <jump line="132" column="19" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
+      <jump line="243" column="16" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="107" column="47" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
+      <jump line="42" column="72" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/utils.js" />
+      <jump line="157" column="28" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/utils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" />
+      <jump line="19" column="30" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-dialog.js" />
+      <jump line="98" column="42" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="40" column="26" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="8" column="21" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/lists/boardcast-list.vue" />
+      <jump line="27" column="28" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/lists/boardcast-list.vue" />
+      <jump line="27" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/admin/admin-maintenance-layout.vue" />
+      <jump line="311" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="379" column="19" filename="$USER_HOME$/Documents/workspace/home-graphql/.circleci/config.yml" />
+      <jump line="91" column="15" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-graphql/node_modules/dotenv/lib/main.js" />
+      <jump line="31" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/server.js" />
+      <jump line="65" column="80" filename="$USER_HOME$/Documents/workspace/home-graphql/node_modules/dotenv/lib/main.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/lists/broadcast-list.vue" />
+      <jump line="43" column="40" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="1076" column="9" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="138" column="36" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="995" column="24" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-client.js" />
+      <jump line="74" column="25" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="208" column="54" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" />
+      <jump line="7" column="78" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
+      <jump line="35" column="30" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/all.proto" />
+      <jump line="38" column="39" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/general.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/general.js" />
+      <jump line="298" column="19" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
+      <jump line="4" column="16" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/general.js" />
+      <jump line="5" column="86" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
+      <jump line="3" column="67" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/general.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZHlhbm1vZGIgcGF5bG9hZCBiZWZvcmUga2V5QnknLCBwYXlsb2FkKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text>fix facebook_id missing in index creation</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text>fix facebook_id missing in index creation</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hhc2gnLCBfaGFzaCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgK</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
