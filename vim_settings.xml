@@ -66,12 +66,8 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1594628673101">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1594695093812">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="196" column="17" />
-        <mark key="]" line="197" column="90" />
-        <mark key="^" line="197" column="90" />
-        <mark key="." line="197" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1588672985844">
         <mark key="'" line="91" column="15" />
@@ -83,10 +79,10 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-list.vue" timestamp="1594691923890">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="56" />
-        <mark key="." line="5" column="55" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-list.vue" timestamp="1594694442897">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="5" column="56" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1587957394639">
@@ -98,11 +94,11 @@
         <mark key="." line="83" column="44" />
         <mark key="^" line="83" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node-table.vue" timestamp="1594692729222">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="2" column="80" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node-table.vue" timestamp="1594695155333">
+        <mark key="[" line="29" column="80" />
+        <mark key="]" line="29" column="80" />
+        <mark key="^" line="29" column="96" />
+        <mark key="." line="29" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1594633782232">
         <mark key="[" line="30" column="0" />
@@ -232,37 +228,39 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IHYtaWY9IiFfLmlzRW1wdHkoZ3JpZFtpXVtrXSkiIHN0eWxlPSJoZWlnaHQ6MzZweDsgYmFja2dyb3VuZDogI0ZGRkZGRiB1cmwoJy4vLi4vLi4vc3JjL2ltYWdlcy9kb3duLWFycm93LnBuZycpIG5vLXJlcGVhdCBsb2NhbCA1MCUgNTAlIj48L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3twcmV2fX0K</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuLi8uLi9pbWFnZXMvdmVydGljYWwtbGluZS5wbmciIGhlaWdodD0iMzYiIHdpZHRoPSIyOCIvPjwvc3R5bGU+</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF8ua2V5QnkodGhpcy50YXNrcywgJ2lkJykpCg==</text>
+        <text>.vertical-line-bg {
+	background: #FFFFFF url('./../../src/images/vertical-line.png') repeat-y local 50% 50%
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMudGFza3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e25vZGUuaWR9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF8ua2V5QnkodGhpcy50YXNrcywgJ2lkJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGltcG9ydCBDaGFwdGVyU3RlcExpc3QgZnJvbSAiLi9jaGFwdGVyLXN0ZXAtbGlzdCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBfLmtleUJ5KHRoaXMudGFza3MsICdpZCcpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3twcmV2fX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm5vZGUsIHRoaXMuZGljdCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF8ua2V5QnkodGhpcy50YXNrcywgJ2lkJykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMudGFza3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF8ua2V5QnkodGhpcy50YXNrcywgJ2lkJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
