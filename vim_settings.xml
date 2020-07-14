@@ -94,11 +94,11 @@
         <mark key="." line="83" column="44" />
         <mark key="^" line="83" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node-table.vue" timestamp="1594695155333">
-        <mark key="[" line="29" column="80" />
-        <mark key="]" line="29" column="80" />
-        <mark key="^" line="29" column="96" />
-        <mark key="." line="29" column="80" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node-table.vue" timestamp="1594695833764">
+        <mark key="[" line="18" column="91" />
+        <mark key="]" line="18" column="92" />
+        <mark key="^" line="18" column="92" />
+        <mark key="." line="18" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1594633782232">
         <mark key="[" line="30" column="0" />
@@ -231,7 +231,7 @@
         <text encoding="base64">ICAgIDxpbWcgc3JjPSIuLi8uLi9pbWFnZXMvdmVydGljYWwtbGluZS5wbmciIGhlaWdodD0iMzYiIHdpZHRoPSIyOCIvPjwvc3R5bGU+</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>node.next != null</text>
       </register>
       <register name="2" type="2">
         <text>.vertical-line-bg {
@@ -260,7 +260,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF8ua2V5QnkodGhpcy50YXNrcywgJ2lkJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>node.next != null</text>
       </register>
     </registers>
   </component>
