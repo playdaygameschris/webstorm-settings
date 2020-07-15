@@ -52,11 +52,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594804973212">
-        <mark key="[" line="50" column="68" />
-        <mark key="]" line="50" column="71" />
-        <mark key="^" line="50" column="71" />
-        <mark key="." line="50" column="70" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594806550044">
+        <mark key="[" line="57" column="49" />
+        <mark key="]" line="57" column="50" />
+        <mark key="^" line="57" column="50" />
+        <mark key="." line="57" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-chapters.js" timestamp="1594633403172">
         <mark key="[" line="9" column="15" />
@@ -241,7 +241,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>connections</text>
+        <text>prevs</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">c2NyaXB0PgppbXBvcnQgQ2hhcHRlclRhc2tDYW52YXMgZnJvbSAiLi9jaGFwdGVyLXRhc2stY2FudmFzIjsgCmV4cG9ydCBkZWZhdWx0IHsgCmNvbXBvbmVudHM6IHsgQ2hhcHRlclRhc2tDYW52YXMgfQogfQo8L3NjcmlwdD4=</text>
@@ -268,7 +268,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uZXh0X25vZGVzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>connections</text>
+        <text>prevs</text>
       </register>
     </registers>
   </component>
