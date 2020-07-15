@@ -52,11 +52,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594806550044">
-        <mark key="[" line="57" column="49" />
-        <mark key="]" line="57" column="50" />
-        <mark key="^" line="57" column="50" />
-        <mark key="." line="57" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594807854906">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-chapters.js" timestamp="1594633403172">
         <mark key="[" line="9" column="15" />
@@ -238,37 +237,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfLmdyb3VwQnkodGhpcy5jb25uZWN0aW9ucywgJ2Zyb20nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>prevs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c2NyaXB0PgppbXBvcnQgQ2hhcHRlclRhc2tDYW52YXMgZnJvbSAiLi9jaGFwdGVyLXRhc2stY2FudmFzIjsgCmV4cG9ydCBkZWZhdWx0IHsgCmNvbXBvbmVudHM6IHsgQ2hhcHRlclRhc2tDYW52YXMgfQogfQo8L3NjcmlwdD4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENoYXB0ZXJUYXNrQ2FudmFzIGZyb20gIi4vY2hhcHRlci10YXNrLWNhbnZhcyI7IApleHBvcnQgZGVmYXVsdCB7IApjb21wb25lbnRzOiB7IENoYXB0ZXJUYXNrQ2FudmFzIH0KIH0KPC9zY3JpcHQ+YA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0WzBdLnB1c2gobm9kZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsZXZlbCcsIHRoaXMubGV2ZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKCBjb25zdCBuZXh0IG9mIHRoaXMubmV4dHMoaGVhZC5pZCkgKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwcmV2LW5vZGVzPSJub2RlcyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2tpcCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvckVhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZXZzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc2hhcmVkTm9kZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uZXh0X25vZGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>prevs</text>
+        <text>this.nodes</text>
       </register>
     </registers>
   </component>
