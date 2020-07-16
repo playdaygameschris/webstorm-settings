@@ -52,11 +52,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594878271053">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594884115828">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-chapters.js" timestamp="1594633403172">
         <mark key="[" line="9" column="15" />
@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1594695093812">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1594874669603">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="10" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1594884071129">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1594802504199">
         <mark key="'" line="957" column="0" />
@@ -238,40 +238,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfLmdyb3VwQnkodGhpcy5jb25uZWN0aW9ucywgJ2Zyb20nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJva2VXaWR0aDogdGhpcy5jb25maWcuc3Ryb2tlV2lkdGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8di1sYXllcj4KICAgICAgICAgICAgPHYtbGluZSB2LWZvcj0iY29ubmVjdGlvbiBpbiBjb25uZWN0aW9ucyIgOmNvbmZpZz0ie3BvaW50czogY29ubmVjdGlvblBvaW50cyhjb25uZWN0aW9uKSwgc3Ryb2tlV2lkdGg6NCwgZmlsbDonYmxhY2snLCBzdHJva2U6J2JsYWNrJ30iIC8+CiAgICAgICAgPC92LWxheWVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDpjb25maWc9Im5vZGVDb25maWciCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8di1sYXllcj4KICAgICAgICAgICAgPHYtbGluZSB2LWZvcj0iY29ubmVjdGlvbiBpbiBjb25uZWN0aW9ucyIgOmNvbmZpZz0ie3BvaW50czogY29ubmVjdGlvblBvaW50cyhjb25uZWN0aW9uKSwgc3Ryb2tlV2lkdGg6NCwgZmlsbDonYmxhY2snLCBzdHJva2U6J2JsYWNrJ30iIC8+CiAgICAgICAgPC92LWxheWVyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>: width,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIDx2LWxpbmUgdi1mb3I9IiBpbiBjb25uZWN0aW9ucyIgOmNvbmZpZz0iY29ubmVjdGlvbkNvbmZpZyhjb25uZWN0aW9uKSIgLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZ0tvbnZhOiB7CiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEyMDAsCiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxMjAwCiAgICAgICAgICAgICAgICB9LA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHYtYXJyb3cgOng9IjAiIDp5PSIwIiA6cG9pbnQ9IlswLDAsIDEwMCwgMTAwXSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3goKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy54ICogdGhpcy5jb25maWcud2lkdGggKyB0aGlzLnggKiB0aGlzLmNvbmZpZy5jb2xTcGFjaW5nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF95KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMueSAqIHRoaXMuY29uZmlnLmhlaWdodCArIHRoaXMueSAqIHRoaXMuY29uZmlnLnJvd1NwYWNpbmcKICAgICAgICAgICAgfSw=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHYtYXJyb3cgOng9IjAiIDp5PSIwIiA6cG9pbnQ9IlswLDAsIDEwMCwgMTAwXSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogJ2JsYWNrJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9sZXZlbCkKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9wb3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZVdpZHRoOiAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5ncmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJva2VXaWR0aDogdGhpcy5zdHJva2VXaWR0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsbDogJ2dyZXknLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>arrow</text>
+        <text>: width,</text>
       </register>
     </registers>
   </component>
