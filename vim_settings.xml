@@ -52,11 +52,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594875352569">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="79" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594878271053">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-chapters.js" timestamp="1594633403172">
         <mark key="[" line="9" column="15" />
@@ -241,37 +241,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfLmdyb3VwQnkodGhpcy5jb25uZWN0aW9ucywgJ2Zyb20nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9sZXZlbCkKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9wb3MpCg==</text>
+        <text encoding="base64">ICAgICAgICA8di1sYXllcj4KICAgICAgICAgICAgPHYtbGluZSB2LWZvcj0iY29ubmVjdGlvbiBpbiBjb25uZWN0aW9ucyIgOmNvbmZpZz0ie3BvaW50czogY29ubmVjdGlvblBvaW50cyhjb25uZWN0aW9uKSwgc3Ryb2tlV2lkdGg6NCwgZmlsbDonYmxhY2snLCBzdHJva2U6J2JsYWNrJ30iIC8+CiAgICAgICAgPC92LWxheWVyPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9sZXZlbCkKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9wb3MpCg==</text>
+        <text encoding="base64">ICAgICAgICA8di1sYXllcj4KICAgICAgICAgICAgPHYtbGluZSB2LWZvcj0iY29ubmVjdGlvbiBpbiBjb25uZWN0aW9ucyIgOmNvbmZpZz0ie3BvaW50czogY29ubmVjdGlvblBvaW50cyhjb25uZWN0aW9uKSwgc3Ryb2tlV2lkdGg6NCwgZmlsbDonYmxhY2snLCBzdHJva2U6J2JsYWNrJ30iIC8+CiAgICAgICAgPC92LWxheWVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5ncmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIDx2LWxpbmUgdi1mb3I9IiBpbiBjb25uZWN0aW9ucyIgOmNvbmZpZz0iY29ubmVjdGlvbkNvbmZpZyhjb25uZWN0aW9uKSIgLz4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ncmlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHYtYXJyb3cgOng9IjAiIDp5PSIwIiA6cG9pbnQ9IlswLDAsIDEwMCwgMTAwXSIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeChub2RlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gXy5maW5kSW5kZXgodGhpcy5ncmlkW3RoaXMubm9kZV9sZXZlbFtub2RlLmlkXV0sIHggPT4geC5pZCA9PSBub2RlLmlkKQogICAgICAgICAgICB9LAogICAgICAgICAgICB5KG5vZGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLm5vZGVfbGV2ZWxbbm9kZS5pZF0KICAgICAgICAgICAgfSw=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHYtYXJyb3cgOng9IjAiIDp5PSIwIiA6cG9pbnQ9IlswLDAsIDEwMCwgMTAwXSIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5ub2RlX3Bvc1tub2RlLmlkXSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9sZXZlbCkKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMubm9kZV9wb3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5ncmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgd2lkdGg6IDIwMCwKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwLAogICAgICAgICAgICAgICAgY29sU3BhY2luZzogMTIwLAogICAgICAgICAgICAgICAgcm93U3BhY2luZzogMTIwCiAgICAgICAgICAgIH07CiAgICAgICAgfSw=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5ncmlkID0g</text>
+        <text>arrow</text>
       </register>
     </registers>
   </component>
