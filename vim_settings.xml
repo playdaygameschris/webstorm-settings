@@ -52,12 +52,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594900538844">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1594908072204">
         <mark key="'" line="43" column="17" />
-        <mark key="[" line="149" column="48" />
-        <mark key="]" line="149" column="54" />
-        <mark key="." line="149" column="53" />
-        <mark key="^" line="149" column="54" />
+        <mark key="[" line="150" column="80" />
+        <mark key="]" line="150" column="81" />
+        <mark key="." line="150" column="81" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-chapters.js" timestamp="1594633403172">
         <mark key="[" line="9" column="15" />
@@ -104,11 +104,11 @@
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/styles/common.css" timestamp="1594695093812">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1594888335817">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1594902193619">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1594802504199">
         <mark key="'" line="957" column="0" />
@@ -240,40 +240,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcm9tX3ggPiB0b194ID8geDEgLSB0aGlzLm5vZGVDb25maWcgLyAyIDogeDEgKyB0aGlzLm5vZGVDb25maWcsIHkxICsgeU1hcmdpbiArIDQwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcm9tX3ggPiB0b194ID8geDEgLSB4TWFyZ2luIDogeDEgKyB4TWFyZ2luLCAoeTIgLSB5MSkgLyAyICsgeTEsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>35</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0XywgXy5tYXgodGhpcy5ncmlkW3ldLm1hcCggbm9kZSA9PiB0aGlzLnN0ZXBzW25vZGUuaWRdLmxlbmd0aCAqIHRoaXMuc3RlcENvbmZpZy5oZWlnaHQpKSwgeSAqIHRoaXMubm9kZUNvbmZpZy5oZWlnaHQsIHkgKiB0aGlzLm5vZGVDb25maWcucm93U3BhY2luZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4MiwgeTIgLSB5TWFyZ2luLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4MSwgeTEgKyB5TWFyZ2luLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcm9tX3ggPiB0b194ID8geDEgLSB4TWFyZ2luIDogeDEgKyB4TWFyZ2luLCB5MiAtIHlNYXJnaW4sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0XyA9IHRoaXMuY2FudmFzQ29uZmlnLnBhZGRpbmdUb3AK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgcmVzdWx0XyA9IF8ubWF4KHRoaXMuZ3JpZFt5XS5tYXAoIG5vZGUgPT4gdGhpcy5zdGVwc1tub2RlLmlkXS5sZW5ndGggKiB0aGlzLnN0ZXBDb25maWcuaGVpZ2h0KSkgKwogICAgICAgICAgICAgICAgICAgICAgICB5ICogdGhpcy5ub2RlQ29uZmlnLmhlaWdodCArCiAgICAgICAgICAgICAgICAgICAgICAgIHkgKiB0aGlzLm5vZGVDb25maWcucm93U3BhY2luZwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdF8sIF8ubWF4KHRoaXMuZ3JpZFt5XS5tYXAoIG5vZGUgPT4gdGhpcy5zdGVwc1tub2RlLmlkXS5sZW5ndGggKiB0aGlzLnN0ZXBDb25maWcuaGVpZ2h0KSksIHkgKiB0aGlzLm5vZGVDb25maWcuaGVpZ2h0LCB5ICogdGhpcy5ub2RlQ29uZmlnLnJvd1NwYWNpbmcpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQubWFwKCB4ID0+IHggLSByZXN1bHRbMF0gKyB0aGlzLmNhbnZhc0NvbmZpZy5wYWRkaW5nVG9wKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHYtbGluZQogICAgICAgICAgICAgICAgICAgIDpjb25maWc9InsKICAgICAgICAgICAgICAgICAgICBwb2ludHM6IFs1LCA3MCwgMTQwLCAyMywgMjUwLCA2MCwgMzAwLCAyMF0sCiAgICAgICAgICAgICAgICAgICAgc3Ryb2tlV2lkdGg6IDQsCiAgICAgICAgICAgICAgICAgICAgZmlsbDonZ3JlZW4nLAogICAgICAgICAgICAgICAgICAgIHN0cm9rZTonZ3JlZW4nLAogICAgICAgICAgICAgICAgICAgIHRlbnNpb246IDAuNwogICAgICAgICAgICAgICAgfSIKICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJva2U6JyM2NjYnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVzdWx0XycsIHJlc3VsdF8pCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0XyA9IHJlc3VsdF8gKwogICAgICAgICAgICAgICAgICAgICAgICB5ICogdGhpcy5ub2RlQ29uZmlnLmhlaWdodCArCiAgICAgICAgICAgICAgICAgICAgICAgIHkgKiB0aGlzLm5vZGVDb25maWcucm93U3BhY2luZw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsOidncmF5JywK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>35</text>
       </register>
     </registers>
   </component>
