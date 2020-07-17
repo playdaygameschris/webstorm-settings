@@ -89,7 +89,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594976593420">
+      <file name="/Dummy.txt" timestamp="1594978718664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -118,12 +118,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1594977123336">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1594978826276">
         <mark key="'" line="138" column="37" />
-        <mark key="[" line="123" column="38" />
-        <mark key="]" line="123" column="19" />
-        <mark key="." line="123" column="18" />
-        <mark key="^" line="123" column="19" />
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="15" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1594976475761">
         <mark key="[" line="3" column="0" />
@@ -254,40 +254,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IHYtaWY9IiFfLmlzRW1wdHkobW9kZWwpIiBzbG90PSJ0aXRsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBjbGljaz0ib25FZGl0KHN0ZXApIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBjbGljaz0ib25FZGl0KHN0ZXApIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHYtcmVjdAogICAgICAgICAgICAgICAgOmNvbmZpZz0iIHsKICAgICAgICAgICAgICAgICAgICB3aWR0aDogNDAsCiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiBzdGVwQ29uZmlnLmhlaWdodCAtIDIwLAogICAgICAgICAgICAgICAgICAgIHg6IHggKyB3aWR0aCAtIDUwLAogICAgICAgICAgICAgICAgICAgIHk6IHkgKyBoZWlnaHQgKyBpbmRleCAqIHN0ZXBDb25maWcuaGVpZ2h0ICsgMTAsCiAgICAgICAgICAgICAgICAgICAgc3Ryb2tlLAogICAgICAgICAgICAgICAgICAgIGZpbGw6ICd3aGl0ZScsCiAgICAgICAgICAgICAgICAgICAgY29ybmVyUmFkaXVzOiAyLAogICAgICAgICAgICAgICAgICAgIHN0cm9rZVdpZHRoLAogICAgICAgICAgICAgICAgfSIKICAgICAgICAgICAgICAgIEBtb3VzZW92ZXI9Im9uTW91c2VPdmVyKHN0ZXApIgogICAgICAgICAgICAgICAgQG1vdXNlbGVhdmU9Im9uTW91c2VMZWF2ZShzdGVwKSIKICAgICAgICAgICAgLz4KICAgICAgICAgICAgPHYtdGV4dCA6Y29uZmlnPSJ7CiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDQwLAogICAgICAgICAgICAgICAgICAgIGhlaWdodDogc3RlcENvbmZpZy5oZWlnaHQgLSAyMCwKICAgICAgICAgICAgICAgICAgICB4OiB4ICsgd2lkdGggLSA1MCwKICAgICAgICAgICAgICAgICAgICB5OiB5ICsgaGVpZ2h0ICsgaW5kZXggKiBzdGVwQ29uZmlnLmhlaWdodCArIDEwLAogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdFZGl0JywKICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMTIsCiAgICAgICAgICAgICAgICAgICAgZmlsbDogJyMxNzIzM2QnLAogICAgICAgICAgICAgICAgICAgIGFsaWduOidjZW50ZXInLAogICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsQWxpZ246ICdtaWRkbGUnCiAgICAgICAgICAgICAgICB9IgogICAgICAgICAgICAgICAgQGNsaWNrPSJvbkVkaXQoc3RlcCkiCiAgICAgICAgICAgICAgICBAbW91c2VvdmVyPSJvbk1vdXNlT3ZlckJ1dHRvbihzdGVwKSIKICAgICAgICAgICAgICAgIEBtb3VzZWxlYXZlPSJvbk1vdXNlTGVhdmVCdXR0b24oc3RlcCkiCiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2hhbmdlcy1jYXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8U3BpbiB2LWVsc2UgZml4PjwvU3Bpbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25Nb3VzZU92ZXJCdXR0b24oc3RlcCkgewogICAgICAgICAgICAgICAgdGhpcy5vbk1vdXNlT3ZlcihzdGVwKQogICAgICAgICAgICB9LAogICAgICAgICAgICBvbk1vdXNlTGVhdmVCdXR0b24oc3RlcCkgewogICAgICAgICAgICAgICAgdGhpcy5vbk1vdXNlTGVhdmUoc3RlcCkKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGBjaGFwdGVyLWNvbnRhaW5lci0ke3RoaXMuY2hhcHRlcklkfWApLnN0eWxlLmN1cnNvciA9ICdkZWZhdWx0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGBjaGFwdGVyLWNvbnRhaW5lci0ke3RoaXMuY2hhcHRlcklkfWApLnN0eWxlLmN1cnNvciA9ICdwb2ludGVyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxTcGluIHYtaWY9ImxvYWRpbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>fix chapter name column, change chapter and episode icon</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb25zdGFudCBmcm9tICIuLy4uLy4uLy4uL2NvbnN0IjsK</text>
+        <text encoding="base64">ICAgICAgICA8Y2hhbmdlcy1jYXIK</text>
       </register>
       <register name="-" type="4">
-        <text>constants</text>
+        <text>100</text>
       </register>
     </registers>
   </component>
