@@ -52,12 +52,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595210694306">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="47" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595217006100">
+        <mark key="'" line="108" column="33" />
+        <mark key="[" line="166" column="23" />
+        <mark key="]" line="166" column="23" />
+        <mark key="." line="166" column="22" />
+        <mark key="^" line="166" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-steps-table.vue" timestamp="1594970125308">
         <mark key="[" line="74" column="13" />
@@ -90,7 +90,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595210717429">
+      <file name="/Dummy.txt" timestamp="1595215389493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -150,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="70" filename="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" />
       <jump line="71" column="9" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
       <jump line="27" column="62" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-topic.js" />
       <jump line="32" column="65" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
@@ -250,6 +249,7 @@
       <jump line="137" column="37" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" />
       <jump line="29" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" />
       <jump line="17" column="31" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" />
+      <jump line="108" column="33" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -258,37 +258,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBjbGljaz0ib25FZGl0KHN0ZXApIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdncmlkJywgdGhpcy5ncmlkKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Lm1hcCggcm93ID0+IF8ub3JkZXJCeSggcm93LCB4ID0+ICh0aGlzLnByZXZzKHguaWQpfHxbXSkubGVuZ3RoLCAnZGVzYycpKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8di10ZXh0IHYtaWY9ImRlYnVnIgogICAgICAgICAgICA6Y29uZmlnPSJ7CiAgICAgICAgICAgICAgICB3aWR0aCwKICAgICAgICAgICAgICAgIGhlaWdodCwKICAgICAgICAgICAgICAgIHgsCiAgICAgICAgICAgICAgICB5OiB5IC0zMCwKICAgICAgICAgICAgICAgIHRleHQ6IG5vZGUuaWQsCiAgICAgICAgICAgICAgICBmb250U2l6ZTogMjQsCiAgICAgICAgICAgICAgICBmaWxsOiAnIzE3MjMzZCcsCiAgICAgICAgICAgICAgICBhbGlnbjonY2VudGVyJywKICAgICAgICAgICAgICAgIHZlcnRpY2FsQWxpZ246ICdtaWRkbGUnCiAgICAgICAgICAgIH0iCgogICAgICAgIC8+</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ncmlkID0gdGhpcy5ncmlkLm1hcCggcm93ID0+IF8ub3JkZXJCeSggcm93LCB4ID0+IHRoaXMucHJldnMoeC5sZW5ndGgpLCAnZGVzYycpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0Jywgbm9kZS5pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5vZGUuaWQsIHRoaXMuaW5kZXhfeFtub2RlLmlkXSwgdGhpcy5pbmRleF94KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3RlbXBfaW5kZXhlcycsIHRlbXBfaW5kZXhlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihub2RlLmlkID09IGRlYnVnX2lkKSBjb25zb2xlLmxvZygnKHRoaXMubm9kZURpY3QocHJldikpJywgdGhpcy5ub2RlRGljdFtwcmV2XSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHYtcmVjdAogICAgICAgICAgICAgICAgOmNvbmZpZz0iIHsKICAgICAgICAgICAgICAgICAgICB3aWR0aDogNDAsCiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiBzdGVwQ29uZmlnLmhlaWdodCAtIDIwLAogICAgICAgICAgICAgICAgICAgIHg6IHggKyB3aWR0aCAtIDUwLAogICAgICAgICAgICAgICAgICAgIHk6IHkgKyBoZWlnaHQgKyBpbmRleCAqIHN0ZXBDb25maWcuaGVpZ2h0ICsgMTAsCiAgICAgICAgICAgICAgICAgICAgc3Ryb2tlLAogICAgICAgICAgICAgICAgICAgIGZpbGw6ICd3aGl0ZScsCiAgICAgICAgICAgICAgICAgICAgY29ybmVyUmFkaXVzOiAyLAogICAgICAgICAgICAgICAgICAgIHN0cm9rZVdpZHRoLAogICAgICAgICAgICAgICAgfSIKICAgICAgICAgICAgICAgIEBtb3VzZW92ZXI9Im9uTW91c2VPdmVyKHN0ZXApIgogICAgICAgICAgICAgICAgQG1vdXNlbGVhdmU9Im9uTW91c2VMZWF2ZShzdGVwKSIKICAgICAgICAgICAgLz4KICAgICAgICAgICAgPHYtdGV4dCA6Y29uZmlnPSJ7CiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDQwLAogICAgICAgICAgICAgICAgICAgIGhlaWdodDogc3RlcENvbmZpZy5oZWlnaHQgLSAyMCwKICAgICAgICAgICAgICAgICAgICB4OiB4ICsgd2lkdGggLSA1MCwKICAgICAgICAgICAgICAgICAgICB5OiB5ICsgaGVpZ2h0ICsgaW5kZXggKiBzdGVwQ29uZmlnLmhlaWdodCArIDEwLAogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdFZGl0JywKICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMTIsCiAgICAgICAgICAgICAgICAgICAgZmlsbDogJyMxNzIzM2QnLAogICAgICAgICAgICAgICAgICAgIGFsaWduOidjZW50ZXInLAogICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsQWxpZ246ICdtaWRkbGUnCiAgICAgICAgICAgICAgICB9IgogICAgICAgICAgICAgICAgQGNsaWNrPSJvbkVkaXQoc3RlcCkiCiAgICAgICAgICAgICAgICBAbW91c2VvdmVyPSJvbk1vdXNlT3ZlckJ1dHRvbihzdGVwKSIKICAgICAgICAgICAgICAgIEBtb3VzZWxlYXZlPSJvbk1vdXNlTGVhdmVCdXR0b24oc3RlcCkiCiAgICAgICAgICAgIC8+</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihub2RlLmlkID09IGRlYnVnX2lkKSBjb25zb2xlLmxvZygndGhpcy5pbmRleF95W3ByZXZdJywgdGhpcy5pbmRleF95W3ByZXZdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKG5vZGUuaWQgPT0gZGVidWdfaWQpIGNvbnNvbGUubG9nKCdwcmV2JywgcHJldikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Nb3VzZU92ZXJCdXR0b24oc3RlcCkgewogICAgICAgICAgICAgICAgdGhpcy5vbk1vdXNlT3ZlcihzdGVwKQogICAgICAgICAgICB9LAogICAgICAgICAgICBvbk1vdXNlTGVhdmVCdXR0b24oc3RlcCkgewogICAgICAgICAgICAgICAgdGhpcy5vbk1vdXNlTGVhdmUoc3RlcCkKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3ByZXZzJywgcHJldnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGBjaGFwdGVyLWNvbnRhaW5lci0ke3RoaXMuY2hhcHRlcklkfWApLnN0eWxlLmN1cnNvciA9ICdkZWZhdWx0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3ByZXZzJywgcHJldnMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>: height - 30</text>
+        <text encoding="base64">Lm1hcCggcm93ID0+IF8ub3JkZXJCeSggcm93LCB4ID0+ICh0aGlzLnByZXZzKHguaWQpfHxbXSkubGVuZ3RoLCAnZGVzYycpKQ==</text>
       </register>
     </registers>
   </component>
