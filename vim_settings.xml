@@ -52,12 +52,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595222301289">
-        <mark key="'" line="108" column="33" />
-        <mark key="[" line="110" column="16" />
-        <mark key="]" line="110" column="25" />
-        <mark key="." line="110" column="24" />
-        <mark key="^" line="110" column="25" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595228195660">
+        <mark key="[" line="157" column="39" />
+        <mark key="]" line="157" column="42" />
+        <mark key="^" line="157" column="42" />
+        <mark key="." line="157" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-steps-table.vue" timestamp="1594970125308">
         <mark key="[" line="74" column="13" />
@@ -84,13 +83,12 @@
         <mark key="^" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1594973342497" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1594893447726">
-        <mark key="'" line="51" column="24" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595228922469">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595215389493">
+      <file name="/Dummy.txt" timestamp="1595228245438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,11 +137,11 @@
         <mark key="." line="4" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-filterable.js" timestamp="1594970003030" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/chapter-card.html.js" timestamp="1594977255129">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/chapter-card.html.js" timestamp="1595228947773">
+        <mark key="[" line="28" column="73" />
+        <mark key="]" line="28" column="74" />
+        <mark key="." line="28" column="73" />
+        <mark key="^" line="28" column="74" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1594969066374">
         <mark key="[" line="0" column="0" />
@@ -258,37 +256,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBjbGljaz0ib25FZGl0KHN0ZXApIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RlcF9kaWN0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIF8uZ3JvdXBCeSh0aGlzLnN0ZXBzLCAiZmsiKQogICAgICAgICAgICB9</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>node.id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RlcF9kaWN0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIF8uZ3JvdXBCeSh0aGlzLnN0ZXBzLCAiZmsiKQogICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGRlYnVnX2lkID0gJ3Rhc2szJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc29ydGVkJywgc29ydGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3RoaXMuaW5kZXhfeScsIHRoaXMuaW5kZXhfeSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3ByZXZzJywgcHJldnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3ByZXZzJywgcHJldnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoeSA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBzb3J0ID0gXy5zb3J0QnkoIHJvdywgJ2lkJykKICAgICAgICAgICAgICAgICAgICAgICAgZm9yKGNvbnN0IFtub2RlLCBpbmRleF0gb2Ygc29ydC5lbnRyaWVzKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuaW5kZXhfeFtpbmRleF0gPSBub2RlLmlkCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNvcnQKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihub2RlLmlkID09IGRlYnVnX2lkKSBjb25zb2xlLmxvZygndGhpcy5pbmRleF95W3ByZXZdJywgdGhpcy5pbmRleF95W3ByZXZdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKG5vZGUuaWQgPT0gZGVidWdfaWQpIGNvbnNvbGUubG9nKCdwcmV2JywgcHJldikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoeSA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBzb3J0ID0gXy5zb3J0QnkoIHJvdywgJ2lkJykKICAgICAgICAgICAgICAgICAgICAgICAgZm9yKGNvbnN0IFtub2RlLCBpbmRleF0gb2Ygc29ydC5lbnRyaWVzKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuaW5kZXhfeFtpbmRleF0gPSBub2RlLmlkCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNvcnQKICAgICAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihub2RlLmlkID09IGRlYnVnX2lkKSBjb25zb2xlLmxvZygnKHRoaXMubm9kZURpY3QocHJldikpJywgdGhpcy5ub2RlRGljdFtwcmV2XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYobm9kZS5pZCA9PSBkZWJ1Z19pZCkgY29uc29sZS5sb2coJ3RlbXBfaW5kZXhlcycsIHRlbXBfaW5kZXhlcykK</text>
       </register>
       <register name="-" type="4">
-        <text>node.id</text>
+        <text>&quot;</text>
       </register>
     </registers>
   </component>
