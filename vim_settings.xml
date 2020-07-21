@@ -112,13 +112,13 @@
         <mark key="." line="92" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1595303927334" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595324937313">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595326183658">
         <mark key="s" line="135" column="12" />
         <mark key="'" line="31" column="31" />
-        <mark key="[" line="84" column="31" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="34" />
-        <mark key="^" line="84" column="35" />
+        <mark key="[" line="98" column="35" />
+        <mark key="]" line="98" column="35" />
+        <mark key="." line="98" column="35" />
+        <mark key="^" line="98" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595314518439">
         <mark key="'" line="1095" column="5" />
@@ -252,7 +252,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rewards.length</text>
+        <text>10</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0SW1wb3J0SnNvbigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yLmdldCgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmltcG9ydF9lZGl0b3IuZ2V0KCkKICAgICAgICAgICAgICAgIH1jYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
@@ -279,7 +279,7 @@
         <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewoKICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>rewards.length</text>
+        <text>10</text>
       </register>
     </registers>
   </component>
