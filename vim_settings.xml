@@ -70,13 +70,21 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/action-log-list-detail-row.vue" timestamp="1594970732962" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1594976523130" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595307226428">
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="33" />
-        <mark key="." line="55" column="32" />
-        <mark key="^" line="55" column="33" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595316376746">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="72" />
+        <mark key="^" line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1594973342497" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-chapter-step-reward-table.vue" timestamp="1595315706375" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-sku-items-table.vue" timestamp="1595316079293">
+        <mark key="'" line="100" column="53" />
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595316454350" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595307018108">
         <mark key="'" line="16" column="28" />
         <mark key="[" line="70" column="0" />
@@ -95,12 +103,6 @@
         <mark key="^" line="92" column="14" />
         <mark key="." line="92" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-episode-layout.vue" timestamp="1594969409572">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-chapter-step-rewards.js" timestamp="1594973618037">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="5" />
@@ -115,24 +117,18 @@
         <mark key="." line="140" column="43" />
         <mark key="^" line="140" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595237333982">
-        <mark key="'" line="1094" column="5" />
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="^" line="70" column="17" />
-        <mark key="." line="393" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595314518439">
+        <mark key="'" line="1095" column="5" />
+        <mark key="[" line="399" column="26" />
+        <mark key="]" line="400" column="24" />
+        <mark key="^" line="400" column="24" />
+        <mark key="." line="400" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1594976475761">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="37" column="42" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticda-chapters-drawer-layout.vue" timestamp="1594969912095">
-        <mark key="[" line="4" column="61" />
-        <mark key="]" line="4" column="61" />
-        <mark key="^" line="4" column="83" />
-        <mark key="." line="4" column="61" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595316493891">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="42" />
+        <mark key="^" line="28" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-filterable.js" timestamp="1594970003030" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/chapter-card.html.js" timestamp="1595300427013">
@@ -141,12 +137,8 @@
         <mark key="." line="14" column="115" />
         <mark key="^" line="14" column="116" />
       </file>
-      <file name="/DummyFile.xpath" timestamp="1594969066374">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="41" filename="$USER_HOME$/Documents/workspace/home-graphql/websocket.js" />
       <jump line="105" column="13" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
       <jump line="28" column="57" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-topic.js" />
       <jump line="205" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
@@ -246,45 +238,46 @@
       <jump line="31" column="31" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" />
       <jump line="50" column="18" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" />
       <jump line="16" column="28" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" />
+      <jump line="100" column="53" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-sku-items-table.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBjbGljaz0ib25FZGl0KHN0ZXApIgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1czogbmV3IFZ1ZSgpLAo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>{ id: `${step.fk}.${step.id}`, star: 0 }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHN0b3JlLmNhY2hlLmRpc3BhdGNoKCdzdGF0aWMtZGF0YScpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnN1Ym1pdHRpbmcgPSBmYWxzZQo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdGljZGF0YUNoYXB0ZXJTdGVwUmV3YXJkc1RhYmxlLAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>sku</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmVudC1uYW1lc3BhY2UK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpuYW1lc3BhY2UK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBTdGF0aWNkYXRhQ2hhcHRlclN0ZXBSZXdhcmRzVGFibGUgZnJvbSAiLi4vLi4vdGFibGVzL3N0YXRpY2RhdGEvc3RhdGljZGF0YS1jaGFwdGVyLXN0ZXAtcmV3YXJkcy10YWJsZSI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLm9uRmFpbChlcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0YXRpY2RhdGEtY2hhcHRlci1zdGVwLXJld2FyZHMtdGFibGU+PC9zdGF0aWNkYXRhLWNoYXB0ZXItc3RlcC1yZXdhcmRzLXRhYmxlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmFmdGVyVXBkYXRlKHJlc3BvbnNlLCBwcmV2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubW9kZWwuaWQgPSBgJHtzdGVwLmZrYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF4aW9zLnBvc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubW9kZWwuaWQgPSBgJHtzdGVwLmZrfS4ke3N0ZXAuaWR9YAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1czogbmV3IFZ1ZSgpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>{ id: `${step.fk}.${step.id}`, star: 0 }</text>
+        <text>sku</text>
       </register>
     </registers>
   </component>
