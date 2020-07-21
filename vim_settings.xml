@@ -77,12 +77,12 @@
         <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1594973342497" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595236243011">
-        <mark key="'" line="74" column="18" />
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="34" />
-        <mark key="." line="55" column="33" />
-        <mark key="^" line="55" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595295921985">
+        <mark key="'" line="76" column="18" />
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="31" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1595238406085">
         <mark key="[" line="0" column="0" />
@@ -140,11 +140,11 @@
         <mark key="." line="4" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-filterable.js" timestamp="1594970003030" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/chapter-card.html.js" timestamp="1595234911190">
-        <mark key="[" line="16" column="102" />
-        <mark key="]" line="16" column="121" />
-        <mark key="." line="16" column="120" />
-        <mark key="^" line="16" column="121" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/chapter-card.html.js" timestamp="1595295935979">
+        <mark key="[" line="16" column="123" />
+        <mark key="]" line="16" column="129" />
+        <mark key="." line="16" column="128" />
+        <mark key="^" line="16" column="129" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1594969066374">
         <mark key="[" line="0" column="0" />
@@ -261,8 +261,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Upload</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSkK</text>
@@ -289,7 +289,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlcjogKGgsIHBhcmFtcykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Upload</text>
       </register>
     </registers>
   </component>
