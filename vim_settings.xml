@@ -68,6 +68,9 @@
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1594976459457">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1595317345097">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/action-log-list-detail-row.vue" timestamp="1594970732962" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1594976523130" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595316376746">
@@ -124,13 +127,12 @@
         <mark key="^" line="400" column="24" />
         <mark key="." line="400" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595316493891">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="42" />
-        <mark key="^" line="28" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595317606668">
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="51" column="51" />
+        <mark key="." line="51" column="50" />
+        <mark key="^" line="51" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-filterable.js" timestamp="1594970003030" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/chapter-card.html.js" timestamp="1595300427013">
         <mark key="[" line="14" column="70" />
         <mark key="]" line="14" column="116" />
@@ -139,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="13" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
       <jump line="28" column="57" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/items/ws-topic.js" />
       <jump line="205" column="12" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
       <jump line="251" column="10" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
@@ -239,6 +240,7 @@
       <jump line="50" column="18" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" />
       <jump line="16" column="28" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" />
       <jump line="100" column="53" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-sku-items-table.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -247,37 +249,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnN1Ym1pdHRpbmcgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGljZGF0YUNoYXB0ZXJTdGVwUmV3YXJkc1RhYmxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmF1dG9JbmNyZW1lbnQpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLiRzZXQodGhpcy50b0JlQ3JlYXRlZCwgJ2lkJywgJycrdGhpcy5nZXROZXh0SWQodGhpcywgdGhpcy5uYW1lc3BhY2UpKQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sku</text>
+        <text>true</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmVudC1uYW1lc3BhY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdGljZGF0YUNoYXB0ZXJTdGVwUmV3YXJkc1RhYmxlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpuYW1lc3BhY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmVudC1uYW1lc3BhY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBTdGF0aWNkYXRhQ2hhcHRlclN0ZXBSZXdhcmRzVGFibGUgZnJvbSAiLi4vLi4vdGFibGVzL3N0YXRpY2RhdGEvc3RhdGljZGF0YS1jaGFwdGVyLXN0ZXAtcmV3YXJkcy10YWJsZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpuYW1lc3BhY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0YXRpY2RhdGEtY2hhcHRlci1zdGVwLXJld2FyZHMtdGFibGU+PC9zdGF0aWNkYXRhLWNoYXB0ZXItc3RlcC1yZXdhcmRzLXRhYmxlPgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBTdGF0aWNkYXRhQ2hhcHRlclN0ZXBSZXdhcmRzVGFibGUgZnJvbSAiLi4vLi4vdGFibGVzL3N0YXRpY2RhdGEvc3RhdGljZGF0YS1jaGFwdGVyLXN0ZXAtcmV3YXJkcy10YWJsZSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubW9kZWwuaWQgPSBgJHtzdGVwLmZrYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0YXRpY2RhdGEtY2hhcHRlci1zdGVwLXJld2FyZHMtdGFibGU+PC9zdGF0aWNkYXRhLWNoYXB0ZXItc3RlcC1yZXdhcmRzLXRhYmxlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubW9kZWwuaWQgPSBgJHtzdGVwLmZrfS4ke3N0ZXAuaWR9YAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubW9kZWwuaWQgPSBgJHtzdGVwLmZrYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubW9kZWwuaWQgPSBgJHtzdGVwLmZrfS4ke3N0ZXAuaWR9YAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1czogbmV3IFZ1ZSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sku</text>
+        <text>true</text>
       </register>
     </registers>
   </component>
