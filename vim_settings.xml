@@ -52,6 +52,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" timestamp="1595405281619">
+        <mark key="[" line="23" column="60" />
+        <mark key="]" line="23" column="71" />
+        <mark key="^" line="23" column="71" />
+        <mark key="." line="23" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/chapterstep-locales.js" timestamp="1595405594534">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="66" />
+        <mark key="^" line="10" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595322114065">
         <mark key="'" line="24" column="44" />
         <mark key="[" line="177" column="143" />
@@ -59,32 +71,22 @@
         <mark key="^" line="177" column="159" />
         <mark key="." line="177" column="158" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-steps-table.vue" timestamp="1595232084968">
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="49" />
-        <mark key="^" line="41" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1594976459457">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1595318455090">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-list.vue" timestamp="1595321466564">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/check-chapterstep-locale-integrity.js" timestamp="1595405547308">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/action-log-list-detail-row.vue" timestamp="1595322314666" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-toolbar.html.js" timestamp="1594976523130" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595322320362">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="21" column="62" />
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-chapter-step-reward-table.vue" timestamp="1595315706375" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-sku-items-table.vue" timestamp="1595316079293">
         <mark key="'" line="100" column="53" />
         <mark key="[" line="32" column="41" />
@@ -93,25 +95,7 @@
         <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595316454350" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595395238856">
-        <mark key="'" line="16" column="28" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="24" />
-        <mark key="." line="63" column="23" />
-        <mark key="^" line="63" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595395281532">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1595304123616">
-        <mark key="[" line="92" column="13" />
-        <mark key="]" line="92" column="14" />
-        <mark key="^" line="92" column="14" />
-        <mark key="." line="92" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1595303927334" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" timestamp="1595405516191" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595326185111">
         <mark key="s" line="135" column="12" />
         <mark key="'" line="31" column="31" />
@@ -120,12 +104,11 @@
         <mark key="." line="98" column="36" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595314518439">
-        <mark key="'" line="1095" column="5" />
-        <mark key="[" line="399" column="26" />
-        <mark key="]" line="400" column="24" />
-        <mark key="^" line="400" column="24" />
-        <mark key="." line="400" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale/locale-main-layout.vue" timestamp="1595404952078">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="43" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595318509876">
         <mark key="[" line="102" column="0" />
@@ -138,6 +121,34 @@
         <mark key="]" line="19" column="89" />
         <mark key="." line="19" column="89" />
         <mark key="^" line="19" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/locale/chapterstep-locale-layout.vue" timestamp="1595405820048">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/chapter-step-locale-table.vue" timestamp="1595404857935">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-list.vue" timestamp="1595321466564">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595395238856">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595395281532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -246,19 +257,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnN1Ym1pdHRpbmcgPSBmYWxzZQo=</text>
+        <text encoding="base64">aW1wb3J0IExvY2FsZVJld2FyZHN0b3J5TGF5b3V0IGZyb20gJy4vdmlld3MvbGF5b3V0cy9sb2NhbGUvcmV3YXJkc3RvcnktbG9jYWxlLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCB7IGRlZmF1bHQgYXMgVGFibGVSb3dFcnJvcnMgfSBmcm9tICcuLi8uLi9taXhpbnMvaW50ZXJmYWNlcy90YWJsZS1yb3ctZXJyb3JzLmpzJzsKICAgIGltcG9ydCBjb25zdGFudCBmcm9tICcuLy4uLy4uL2NvbnN0LmpzJwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>rewardstory</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0SW1wb3J0SnNvbigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yLmdldCgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmltcG9ydF9lZGl0b3IuZ2V0KCkKICAgICAgICAgICAgICAgIH1jYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0SW1wb3J0SnNvbigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yLmdldCgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmltcG9ydF9lZGl0b3IuZ2V0KCkKICAgICAgICAgICAgICAgIH1jYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
@@ -267,19 +278,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycywgdGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycy5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycywgdGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycy5sZW5ndGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbXBvcnRfZWRpdG9yID0gbmV3IEpTT05FZGl0b3IoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ltcG9ydC1jaGFwdGVycy1qc29uLWNvbnRhaW5lcicpLCB7fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewoKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbXBvcnRfZWRpdG9yID0gbmV3IEpTT05FZGl0b3IoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ltcG9ydC1jaGFwdGVycy1qc29uLWNvbnRhaW5lcicpLCB7fSkK</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>rewardstory</text>
       </register>
     </registers>
   </component>
