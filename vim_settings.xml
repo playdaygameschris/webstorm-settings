@@ -145,6 +145,11 @@
         <mark key="." line="63" column="23" />
         <mark key="^" line="63" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/.circleci/config.yml" timestamp="1595408183237">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1595395281532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -260,19 +265,19 @@
         <text encoding="base64">aW1wb3J0IExvY2FsZVJld2FyZHN0b3J5TGF5b3V0IGZyb20gJy4vdmlld3MvbGF5b3V0cy9sb2NhbGUvcmV3YXJkc3RvcnktbG9jYWxlLWxheW91dC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IGRlZmF1bHQgYXMgVGFibGVSb3dFcnJvcnMgfSBmcm9tICcuLi8uLi9taXhpbnMvaW50ZXJmYWNlcy90YWJsZS1yb3ctZXJyb3JzLmpzJzsKICAgIGltcG9ydCBjb25zdGFudCBmcm9tICcuLy4uLy4uL2NvbnN0LmpzJwo=</text>
+        <text encoding="base64">bm90aWZ5OgogIHdlYmhvb2tzOgogIC0gdXJsOiBodHRwczovL2hvb2suaW50ZWdyb21hdC5jb20veWo1Mzh2eTZlMWV1dWEzOWp2NjdoYmF3YmRnYm5rdm0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>rewardstory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bm90aWZ5OgogIHdlYmhvb2tzOgogIC0gdXJsOiBodHRwczovL2hvb2suaW50ZWdyb21hdC5jb20veWo1Mzh2eTZlMWV1dWEzOWp2NjdoYmF3YmRnYm5rdm0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCB7IGRlZmF1bHQgYXMgVGFibGVSb3dFcnJvcnMgfSBmcm9tICcuLi8uLi9taXhpbnMvaW50ZXJmYWNlcy90YWJsZS1yb3ctZXJyb3JzLmpzJzsKICAgIGltcG9ydCBjb25zdGFudCBmcm9tICcuLy4uLy4uL2NvbnN0LmpzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0SW1wb3J0SnNvbigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yLmdldCgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmltcG9ydF9lZGl0b3IuZ2V0KCkKICAgICAgICAgICAgICAgIH1jYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0SW1wb3J0SnNvbigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yLmdldCgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmltcG9ydF9lZGl0b3IuZ2V0KCkKICAgICAgICAgICAgICAgIH1jYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
@@ -281,13 +286,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycywgdGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycy5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydF9lZGl0b3JfZXJyb3JzID0gWydpbml0J10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycywgdGhpcy5pbXBvcnRfZWRpdG9yX2Vycm9ycy5sZW5ndGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbXBvcnRfZWRpdG9yID0gbmV3IEpTT05FZGl0b3IoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ltcG9ydC1jaGFwdGVycy1qc29uLWNvbnRhaW5lcicpLCB7fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>rewardstory</text>
