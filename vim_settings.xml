@@ -93,12 +93,12 @@
         <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595316454350" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595323645472">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-card.vue" timestamp="1595395230593">
         <mark key="'" line="16" column="28" />
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="50" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1595326280729">
         <mark key="[" line="0" column="0" />
@@ -252,7 +252,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>this</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0SW1wb3J0SnNvbigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5pbXBvcnRfZWRpdG9yLmdldCgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmltcG9ydF9lZGl0b3IuZ2V0KCkKICAgICAgICAgICAgICAgIH1jYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
@@ -279,7 +279,7 @@
         <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewoKICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>this</text>
       </register>
     </registers>
   </component>
