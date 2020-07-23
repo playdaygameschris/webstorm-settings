@@ -87,13 +87,6 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-sku-items-table.vue" timestamp="1595316079293">
-        <mark key="'" line="100" column="53" />
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="42" />
-        <mark key="^" line="32" column="43" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595316454350" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/locale-sync-table.vue" timestamp="1595405516191" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595326185111">
@@ -154,6 +147,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/test-layout.vue" timestamp="1595489461914">
+        <mark key="[" line="182" column="135" />
+        <mark key="]" line="182" column="135" />
+        <mark key="." line="182" column="135" />
+        <mark key="^" line="182" column="98" />
       </file>
     </filemarks>
     <jumps>
@@ -262,13 +261,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IExvY2FsZVJld2FyZHN0b3J5TGF5b3V0IGZyb20gJy4vdmlld3MvbGF5b3V0cy9sb2NhbGUvcmV3YXJkc3RvcnktbG9jYWxlLWxheW91dC52dWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jcmVhdGVSZW1vdGVUZXN0Y2FzZSgnUmV3YXJkIFN0b3J5JywgJ2xvY2FsZS1pbnRlZ3JpdHknLCAncmV3YXJkc3RvcnktbG9jYWxlcycsIHtmaWxlbmFtZTogJ3N5bmMnICx0YWJsZToncmV3YXJkc3RvcnktbG9jYWxlczoyJ30pLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bm90aWZ5OgogIHdlYmhvb2tzOgogIC0gdXJsOiBodHRwczovL2hvb2suaW50ZWdyb21hdC5jb20veWo1Mzh2eTZlMWV1dWEzOWp2NjdoYmF3YmRnYm5rdm0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bm90aWZ5OgogIHdlYmhvb2tzOgogIC0gdXJsOiBodHRwczovL2hvb2suaW50ZWdyb21hdC5jb20veWo1Mzh2eTZlMWV1dWEzOWp2NjdoYmF3YmRnYm5rdm0K</text>
+      <register name="&quot;" type="4">
+        <text>rewardstory</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCB7IGRlZmF1bHQgYXMgVGFibGVSb3dFcnJvcnMgfSBmcm9tICcuLi8uLi9taXhpbnMvaW50ZXJmYWNlcy90YWJsZS1yb3ctZXJyb3JzLmpzJzsKICAgIGltcG9ydCBjb25zdGFudCBmcm9tICcuLy4uLy4uL2NvbnN0LmpzJwo=</text>
