@@ -58,6 +58,7 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-sortable.js" timestamp="1595580139008" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createMutations.js" timestamp="1595577142899" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1595557900322">
         <mark key="'" line="0" column="0" />
@@ -99,7 +100,7 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595567229414">
+      <file name="/Dummy.txt" timestamp="1595580183842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,17 +138,11 @@
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1595555880271">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/staticdata-furniture-skins-all.js" timestamp="1595555773164">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595578637798">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="103" column="49" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595580154298">
+        <mark key="[" line="149" column="28" />
+        <mark key="]" line="150" column="40" />
+        <mark key="." line="150" column="39" />
+        <mark key="^" line="150" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595578881276">
         <mark key="[" line="516" column="26" />
@@ -268,7 +263,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmlsdGVyLWJ5LWxhYmVsIA==</text>
+        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
@@ -295,7 +290,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsdGVyLWJ5LWxhYmVsIA==</text>
+        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
       </register>
     </registers>
   </component>
