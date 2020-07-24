@@ -121,11 +121,11 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595563560736">
-        <mark key="[" line="68" column="49" />
-        <mark key="]" line="68" column="48" />
-        <mark key="." line="68" column="47" />
-        <mark key="^" line="68" column="48" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595564504121">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1595558441541">
         <mark key="[" line="52" column="59" />
@@ -261,35 +261,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jcmVhdGVSZW1vdGVUZXN0Y2FzZSgnUmV3YXJkIFN0b3J5JywgJ2xvY2FsZS1pbnRlZ3JpdHknLCAncmV3YXJkc3RvcnktbG9jYWxlcycsIHtmaWxlbmFtZTogJ3N5bmMnICx0YWJsZToncmV3YXJkc3RvcnktbG9jYWxlczoyJ30pLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">X2xhYmVsX3RlbXBsYXRlOiAnPHRhYmxlIHN0eWxlPSJ3aWR0aDoxMDAlIj48dHI+JyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJzx0ZCB3aWR0aD0iNDAlIj48YiBzdHlsZT0iZm9udC1zaXplOjE4cHgiPiR7aXRlbS5ma30uJHtpdGVtLmlkfS4ke2l0ZW0uY3BrfTwvYj4gPC90ZD4nICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnPHRkPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTRweCI+JHtpdGVtLm5hbWVffTwvc3Bhbj48L3RkPicgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICc8L3RyPjwvdGFibGU+Jyw=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LgogICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">aWYgKHRoaXMuZGlzYWJsZWRMaXN0QWxsICYmIHRoaXMuZmsgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBbXQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZmspCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewogICAgICAgIH0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF8oKSB7CiAgICAgICAgICAgICAgICBpZih0aGlzLmZrID09IG51bGwpIHJldHVybiBbXQogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMubGlzdAogICAgICAgICAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uYW1lc3BhY2UsICdyZWZyZXNoJykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdF8oKSB7CiAgICAgICAgICAgICAgICBpZih0aGlzLmZrID09IG51bGwpIHJldHVybiBbXQogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMubGlzdAogICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
