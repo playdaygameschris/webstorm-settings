@@ -52,11 +52,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1595567178222">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="218" column="16" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1595575294057">
+        <mark key="'" line="23" column="32" />
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="27" />
+        <mark key="^" line="91" column="27" />
+        <mark key="." line="91" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1595567229414">
         <mark key="[" line="0" column="0" />
@@ -92,6 +93,12 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1595574637445">
+        <mark key="[" line="117" column="39" />
+        <mark key="]" line="117" column="47" />
+        <mark key="^" line="117" column="47" />
+        <mark key="." line="117" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1595557900322">
         <mark key="'" line="0" column="0" />
       </file>
@@ -115,11 +122,11 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595573327337">
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="37" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595575535664">
+        <mark key="[" line="111" column="35" />
+        <mark key="]" line="111" column="36" />
+        <mark key="." line="111" column="36" />
+        <mark key="^" line="67" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-component.js" timestamp="1595558441541">
         <mark key="[" line="52" column="59" />
@@ -140,11 +147,11 @@
         <mark key="." line="182" column="135" />
         <mark key="^" line="182" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595563125972">
-        <mark key="[" line="119" column="106" />
-        <mark key="]" line="119" column="106" />
-        <mark key="^" line="119" column="56" />
-        <mark key="." line="119" column="106" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595574614207">
+        <mark key="[" line="117" column="31" />
+        <mark key="]" line="118" column="53" />
+        <mark key="." line="118" column="52" />
+        <mark key="^" line="118" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-levels-table.vue" timestamp="1595573111993">
         <mark key="[" line="179" column="0" />
@@ -153,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="10" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
       <jump line="282" column="14" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" />
       <jump line="371" column="12" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
       <jump line="408" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" />
@@ -253,6 +259,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" />
       <jump line="34" column="91" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
+      <jump line="23" column="32" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -261,37 +268,45 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jcmVhdGVSZW1vdGVUZXN0Y2FzZSgnUmV3YXJkIFN0b3J5JywgJ2xvY2FsZS1pbnRlZ3JpdHknLCAncmV3YXJkc3RvcnktbG9jYWxlcycsIHtmaWxlbmFtZTogJ3N5bmMnICx0YWJsZToncmV3YXJkc3RvcnktbG9jYWxlczoyJ30pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9vbkNoYW5nZUNhbGxiYWNrOiBmdW5jdGlvbihwYXlsb2FkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRmb3JjZVVwZGF0ZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>120</text>
+        <text>false</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB0aXRsZTogJ3N0YXJ0JywKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGtleTogJ3N0YXJ0X2Z1cm5pdHVyZV9pZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB3aWR0aDogODUsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBfdHlwZTogJ2ljb24tZHJvcGRvd24nLAogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgX25hbWVfZmllbGQ6ICduYW1lXycsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBfbmFtZXNwYWNlOiAnc3RhdGljZGF0YS1mdXJuaXR1cmVzJywKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgdHJpZ2dlcjogJ2JsdXInIH0KICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICByZW5kZXI6IChoLCBwYXJhbXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsIGBzdGF0aWNkYXRhLWZ1cm5pdHVyZXNgLCAgcGFyYW1zLnJvdy5zdGFydF9mdXJuaXR1cmVfaWQpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgX3BhcmVudF90aXRsZTonZnVybml0dXJlJywKICAgICAgICAgICAgICAgICAgICAgICAgLy8gfSwKICAgICAgICAgICAgICAgICAgICAgICAgLy8gewogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgdGl0bGU6ICdlbmQnLAogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAga2V5OiAnZW5kX2Z1cm5pdHVyZV9pZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB3aWR0aDogODUsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBfdHlwZTogJ2ljb24tZHJvcGRvd24nLAogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgX25hbWVfZmllbGQ6ICduYW1lXycsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBfbmFtZXNwYWNlOiAnc3RhdGljZGF0YS1mdXJuaXR1cmVzJywKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgdHJpZ2dlcjogJ2JsdXInIH0KICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICByZW5kZXI6IChoLCBwYXJhbXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsIGBzdGF0aWNkYXRhLWZ1cm5pdHVyZXNgLCAgcGFyYW1zLnJvdy5lbmRfZnVybml0dXJlX2lkKQogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIF9wYXJlbnRfdGl0bGU6J2Z1cm5pdHVyZScsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIH0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text>refactor</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpdGVtJywgaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocGF5bG9hZC52YWx1ZSE9dW5kZWZpbmVkKXsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvcHRpb24nLCBvcHRpb24pCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLm1vZGVsWydwcm9kdWNlX2Zyb20nXSA9IHBheWxvYWQudmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLmF1dG9VcGRhdGVEZXNjKCdpdGVtJywgJ1Byb2R1Y3QnLCBwYXlsb2FkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLnNlbGYuJHBhcmVudC4kcGFyZW50LiRjaGlsZHJlbls0XS4kY2hpbGRyZW5bMF0uJGZvcmNlVXBkYXRlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRwYXJlbnQuJGZvcmNlVXBkYXRlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5zZWxmLiRwYXJlbnQuJHBhcmVudC4kZm9yY2VVcGRhdGUoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLnNlbGYuJHBhcmVudC4kcGFyZW50LiRjaGlsZHJlbls0XS4kZm9yY2VVcGRhdGUoKQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdGVtLmhhc093blByb3BlcnR5KCdjcGsnKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBgJHtpdGVtLmZrfV8ke2l0ZW0uaWR9XyR7aXRlbS5jcGt9YAogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="6" type="4">
+        <text>if (payload.value!=undefined){
+                                    payload.model['produce_from'] = payload.value
+                                    payload.self.autoUpdateDesc('item', 'Product', payload)
+                                    payload.self.$parent.$parent.$children[4].$children[0].$forceUpdate()
+                                    payload.self.$parent.$forceUpdate()
+                                    payload.self.$parent.$parent.$forceUpdate()
+                                    payload.self.$parent.$parent.$children[4].$forceUpdate()
+                                    payload.self.$forceUpdate()
+                                }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvcHRpb24nLCBvcHRpb24udmFsdWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKQo=</text>
+        <text encoding="base64">CQkJCQkJOmltYWdlLXNyYy1hdHRyPSJjb2x1bW4uX2ltYWdlX3NyY19hdHRyIHx8ICdpZCciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>120</text>
+        <text>false</text>
       </register>
     </registers>
   </component>
