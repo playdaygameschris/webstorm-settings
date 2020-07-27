@@ -83,11 +83,11 @@
         <mark key="." line="136" column="61" />
         <mark key="^" line="136" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595814809029">
-        <mark key="[" line="135" column="26" />
-        <mark key="]" line="135" column="42" />
-        <mark key="^" line="135" column="42" />
-        <mark key="." line="135" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595815588745">
+        <mark key="[" line="135" column="107" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595574614207">
         <mark key="[" line="117" column="31" />
@@ -257,37 +257,37 @@
         <text encoding="base64">CQkJdGhpcy4kc3RvcmUuY2FjaGUuZGlzcGF0Y2goJ3N0YXRpY2RhdGEtZGVjb3JhdGlvbnMvZmV0Y2hMaXN0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFsnbGV2ZWwtcGFydGlhbHMnXVtdCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>args.locale</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFsnbGV2ZWwtcGFydGlhbHMnXVtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkKQo=</text>
+        <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9maWx0ZXJDb2x1bW5FeGNsdWRlZDogJ2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9maWx0ZXJWYWx1ZXNFeGNsdWRlUGFyZW50TGlzdDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9maWx0ZXJDb2x1bW5FeGNsdWRlZDogJ2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9maWx0ZXJWYWx1ZXNFeGNsdWRlUGFyZW50TGlzdDogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbSkK</text>
       </register>
       <register name="-" type="4">
-        <text>args.locale</text>
+        <text>a</text>
       </register>
     </registers>
   </component>
