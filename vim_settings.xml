@@ -66,9 +66,6 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/interfaces/crud-sortable.js" timestamp="1595580139008" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/stores/common/crud/vuex-crud/createMutations.js" timestamp="1595577142899" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/sub-staticdata-table.vue" timestamp="1595557900322">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/fin-html/vue.config.js" timestamp="1595724018067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -85,6 +82,12 @@
         <mark key="]" line="136" column="62" />
         <mark key="." line="136" column="61" />
         <mark key="^" line="136" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595814809029">
+        <mark key="[" line="135" column="26" />
+        <mark key="]" line="135" column="42" />
+        <mark key="^" line="135" column="42" />
+        <mark key="." line="135" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1595574614207">
         <mark key="[" line="117" column="31" />
@@ -256,8 +259,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>args.locale</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -284,7 +287,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>vuetify-material-dashboard-pro</text>
+        <text>args.locale</text>
       </register>
     </registers>
   </component>
