@@ -83,8 +83,8 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595823181554">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1595823838932">
+        <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -225,8 +225,8 @@
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgImRhdGFkb2ctbGFtYmRhLWpzIjogIl4yLjI1LjAiLAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgImRhdGFkb2ctbGFtYmRhLWpzIjogIl4yLjI1LjAiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>remove</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsZXZlbFJld2FyZHM6IHNkUmVzb2x2ZXIoJ3N0YXRpYy1kYXRhJywgJ2xldmVsLXJld2FyZHMnKSwK</text>
@@ -253,7 +253,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>remove</text>
       </register>
     </registers>
   </component>
