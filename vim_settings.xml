@@ -88,6 +88,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/s3/s3-file-layout.vue" timestamp="1595833082214">
+        <mark key="[" line="236" column="23" />
+        <mark key="]" line="236" column="27" />
+        <mark key="." line="236" column="26" />
+        <mark key="^" line="236" column="27" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1595831915794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,12 +112,6 @@
         <mark key="]" line="150" column="40" />
         <mark key="." line="150" column="39" />
         <mark key="^" line="150" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595578881276">
-        <mark key="[" line="516" column="26" />
-        <mark key="]" line="516" column="86" />
-        <mark key="^" line="516" column="86" />
-        <mark key="." line="516" column="85" />
       </file>
     </filemarks>
     <jumps>
@@ -226,7 +226,7 @@
         <text encoding="base64">Ly8gICAgImRhdGFkb2ctbGFtYmRhLWpzIjogIl4yLjI1LjAiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>remove</text>
+        <text>code</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsZXZlbFJld2FyZHM6IHNkUmVzb2x2ZXIoJ3N0YXRpYy1kYXRhJywgJ2xldmVsLXJld2FyZHMnKSwK</text>
@@ -253,7 +253,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>code</text>
       </register>
     </registers>
   </component>
