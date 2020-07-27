@@ -64,11 +64,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595817192925">
-        <mark key="[" line="135" column="107" />
-        <mark key="]" line="135" column="19" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595818632952">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
         <mark key="^" line="135" column="19" />
-        <mark key="." line="135" column="18" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/dropdown.vue" timestamp="1595579118842">
         <mark key="'" line="23" column="32" />
@@ -212,34 +212,34 @@
         <text encoding="base64">CQkJdGhpcy4kc3RvcmUuY2FjaGUuZGlzcGF0Y2goJ3N0YXRpY2RhdGEtZGVjb3JhdGlvbnMvZmV0Y2hMaXN0JykK</text>
       </register>
       <register name="1" type="2">
-        <text>remove dotenv</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbFJld2FyZHM6IHNkUmVzb2x2ZXIoJ3N0YXRpYy1kYXRhJywgJ2xldmVsLXJld2FyZHMnKSwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text>remove dotenv</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbFJld2FyZHM6IHNkUmVzb2x2ZXIoJ3N0YXRpYy1kYXRhJywgJ2xldmVsLXJld2FyZHMnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFsnbGV2ZWwtcGFydGlhbHMnXVtdCg==</text>
+        <text>remove dotenv</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFsnbGV2ZWwtcGFydGlhbHMnXVtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkKQo=</text>
+        <text encoding="base64">ICBjaGFpbldlYnBhY2s6IGNvbmZpZyA9PiBjb25maWcucmVzb2x2ZS5zeW1saW5rcyhmYWxzZSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93LmlkLCBwYXJhbXMucm93LnR5cGUucmVwbGFjZSgnc2VsZWN0JywgJ3N0YXRpY2RhdGEnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9maWx0ZXJDb2x1bW5FeGNsdWRlZDogJ2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9maWx0ZXJWYWx1ZXNFeGNsdWRlUGFyZW50TGlzdDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMucm93KQo=</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
