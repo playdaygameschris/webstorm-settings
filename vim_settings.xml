@@ -133,8 +133,12 @@
       <file name="/GraphQL.result.json" timestamp="1595901352393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1595910207550">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1595911873436">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="58" />
+        <mark key="]" line="65" column="58" />
+        <mark key="^" line="65" column="54" />
+        <mark key="." line="65" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595844643346">
         <mark key="'" line="73" column="62" />
@@ -262,10 +266,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>staticdata-chapter-step-rewards</text>
+        <text>s</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBmdWxsX2lkID0gYCR7cGFyYW1zLnJvdy5ma31fJHtwYXJhbXMucm93LmlkfWAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBmdWxsX2lkID0gYCR7cGFyYW1zLnJvdy5ma31fJHtwYXJhbXMucm93LmlkfV8ke3BhcmFtcy5yb3cuY3BrfWAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXQgc3RlcCA9IHRoaXMuc3RlcF9saXN0LmZpbmQoIHg9PiB4LmlkID09IGZ1bGxfaWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKF8uaXNFbXB0eShzdGVwKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaCgnc3BhbicsJycpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -274,22 +278,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd1bmxvY2tfbHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAndW5sb2NrX2xldmVsXycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY3JlYXRlX2hpZGRlbjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91cGRhdGVfaGlkZGVuOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyOiAoaCwgcGFyYW1zKSA9PiBwYXJhbXMucm93LnVubG9ja19sZXZlbF8gPiAwID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30gLHBhcmFtcy5yb3cudW5sb2NrX2xldmVsXykgOiAgaCgnc3BhbicseyBzdHlsZTp7IGNvbG9yOiAnI0JFQkVCRSd9fSwgJ04vQScpCiAgICAgICAgICAgICAgICAgICAgICAgIH0s</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0ZXBfbGlzdCwgZnVsbF9pZCwgc3RlcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0ZXBfbGlzdCwgZnVsbF9pZCwgc3RlcC5maykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBmdWxsX2lkID0gYCR7cGFyYW1zLnJvdy5ma31fJHtwYXJhbXMucm93LmlkfWAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0ZXBfbGlzdCwgZnVsbF9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9kZWZhdWx0OiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21pbjogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9tYXg6IDIwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd1bmxvY2tfbHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAndW5sb2NrX2xldmVsXycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY3JlYXRlX2hpZGRlbjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91cGRhdGVfaGlkZGVuOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyOiAoaCwgcGFyYW1zKSA9PiBwYXJhbXMucm93LnVubG9ja19sZXZlbF8gPiAwID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30gLHBhcmFtcy5yb3cudW5sb2NrX2xldmVsXykgOiAgaCgnc3BhbicseyBzdHlsZTp7IGNvbG9yOiAnI0JFQkVCRSd9fSwgJ04vQScpCiAgICAgICAgICAgICAgICAgICAgICAgIH0s</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9jcmVhdGVfZGlzYWJsZWQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdXBkYXRlX2Rpc2FibGVkOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0ZXBfbGlzdCwgZnVsbF9pZCwgc3RlcCkK</text>
       </register>
       <register name="-" type="4">
-        <text>staticdata-chapter-step-rewards</text>
+        <text>s</text>
       </register>
     </registers>
   </component>
