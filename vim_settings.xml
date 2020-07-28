@@ -94,6 +94,12 @@
         <mark key="^" line="156" column="43" />
         <mark key="." line="156" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" timestamp="1595929507896">
+        <mark key="[" line="324" column="24" />
+        <mark key="]" line="324" column="23" />
+        <mark key="^" line="324" column="23" />
+        <mark key="." line="324" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1595924850057">
         <mark key="[" line="364" column="21" />
         <mark key="]" line="364" column="22" />
@@ -103,19 +109,13 @@
       <file name="/GraphQL.variables.json" timestamp="1595925502263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595906350756">
-        <mark key="[" line="101" column="42" />
-        <mark key="]" line="101" column="44" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595929830987">
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="38" />
         <mark key="^" line="101" column="44" />
-        <mark key="." line="101" column="43" />
+        <mark key="." line="53" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1595923964801" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-table.html.js" timestamp="1595905150437">
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="42" column="41" />
-        <mark key="^" line="42" column="41" />
-        <mark key="." line="42" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata-main-layout.vue" timestamp="1595908026865">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="83" />
@@ -263,13 +263,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaCgnc3BhbicpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIF9sYWJlbHM6IFsnaXRlbScsJ2Z1cm5pdHVyZS1za2luJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBfdmFsdWVzOiBbJ3N0YXRpY2RhdGEtaXRlbXMnLCdzZWxlY3QtZnVybml0dXJlLXNraW5zJ10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>190</text>
+        <text>'staticdata-items',</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsICdzdGF0aWNkYXRhLW9iamVjdHMnLCBwYXJhbXMucm93LnByb2R1Y2VfZnJvbSkK</text>
@@ -296,7 +296,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYXR0ZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>190</text>
+        <text>'staticdata-items',</text>
       </register>
     </registers>
   </component>
