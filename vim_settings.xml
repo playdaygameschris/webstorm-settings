@@ -52,6 +52,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1595924122297">
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="37" />
+        <mark key="^" line="53" column="37" />
+        <mark key="." line="53" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595920933580">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -64,14 +70,13 @@
         <mark key="^" line="39" column="66" />
         <mark key="." line="39" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/action-log-list-detail-row.vue" timestamp="1595839330013" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595921033796">
         <mark key="[" line="68" column="180" />
         <mark key="]" line="68" column="180" />
         <mark key="^" line="68" column="188" />
         <mark key="." line="68" column="180" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/connectors/redis.js" timestamp="1595922417060">
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/connectors/redis.js" timestamp="1595923183429">
         <mark key="[" line="8" column="45" />
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="12" />
@@ -97,15 +102,13 @@
       <file name="/GraphQL.variables.json" timestamp="1595919067587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" timestamp="1595844506263">
-        <mark key="'" line="23" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595906350756">
         <mark key="[" line="101" column="42" />
         <mark key="]" line="101" column="44" />
         <mark key="^" line="101" column="44" />
         <mark key="." line="101" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/mixins/crud-table.js" timestamp="1595923964801" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/templates/staticdata-table/staticdata-table-slot-table.html.js" timestamp="1595905150437">
         <mark key="[" line="42" column="11" />
         <mark key="]" line="42" column="41" />
@@ -130,7 +133,7 @@
         <mark key="^" line="85" column="44" />
         <mark key="." line="85" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595921088581">
+      <file name="/Dummy.txt" timestamp="1595922421211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -266,40 +269,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdGhpcy4kc3RvcmUuY2FjaGUuZGlzcGF0Y2goYHN0YXRpY2RhdGEtY2hhcHRlci1zdGVwLXJld2FyZHMvZmV0Y2hMaXN0YCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaCgnc3BhbicpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>type</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsICdzdGF0aWNkYXRhLW9iamVjdHMnLCBwYXJhbXMucm93LnByb2R1Y2VfZnJvbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYXR0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihwYXJhbXMucm93LnByb2R1Y2VfZnJvbSAhPXVuZGVmaW5lZCl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmV3YXJkcyA9IF8oT2JqZWN0LnZhbHVlcyhyZXN1bHRbJ2NoYXB0ZXItc3RlcC1yZXdhcmRzJ10pKS5mbGF0dGVuKCkua2V5QnkoJ2lkJykubWFwVmFsdWVzKCB4PT4geC5maykudmFsdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc3RlcCA9IF8uZ2V0KHJld2FyZHMsIGAke2l0ZW0uZmt9XyR7aXRlbS5pZH1fJHtpdGVtLmNwa31gLCAnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA4MCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmV3YXJkcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
       </register>
       <register name="8" type="2">
-        <text>refactor step reward key - +chapter_id</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYXR0ZWQK</text>
+      </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>type</text>
       </register>
     </registers>
   </component>
