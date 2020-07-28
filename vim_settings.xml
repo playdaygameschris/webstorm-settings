@@ -52,11 +52,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1595924122297">
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="37" />
-        <mark key="^" line="53" column="37" />
-        <mark key="." line="53" column="36" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1595924386791">
+        <mark key="[" line="139" column="35" />
+        <mark key="]" line="139" column="38" />
+        <mark key="^" line="139" column="38" />
+        <mark key="." line="139" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595920933580">
         <mark key="[" line="69" column="0" />
@@ -87,19 +87,20 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/all.proto" timestamp="1595925519176" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595920931312">
         <mark key="[" line="156" column="38" />
         <mark key="]" line="156" column="43" />
         <mark key="^" line="156" column="43" />
         <mark key="." line="156" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" timestamp="1595901432015">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="54" column="16" />
-        <mark key="^" line="54" column="16" />
-        <mark key="." line="54" column="15" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1595924850057">
+        <mark key="[" line="364" column="21" />
+        <mark key="]" line="364" column="22" />
+        <mark key="^" line="364" column="22" />
+        <mark key="." line="364" column="21" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1595919067587">
+      <file name="/GraphQL.variables.json" timestamp="1595925502263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595906350756">
@@ -133,13 +134,13 @@
         <mark key="^" line="85" column="44" />
         <mark key="." line="85" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595922421211">
+      <file name="/Dummy.txt" timestamp="1595924851702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1595919067885">
+      <file name="/GraphQL.result.json" timestamp="1595925502530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1595911873436">
@@ -148,13 +149,6 @@
         <mark key="]" line="65" column="58" />
         <mark key="^" line="65" column="54" />
         <mark key="." line="65" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" timestamp="1595844643346">
-        <mark key="'" line="73" column="62" />
-        <mark key="[" line="65" column="44" />
-        <mark key="]" line="65" column="44" />
-        <mark key="." line="65" column="44" />
-        <mark key="^" line="150" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1595905513884">
         <mark key="[" line="516" column="26" />
@@ -275,7 +269,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>190</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsICdzdGF0aWNkYXRhLW9iamVjdHMnLCBwYXJhbXMucm93LnByb2R1Y2VfZnJvbSkK</text>
@@ -302,7 +296,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYXR0ZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>190</text>
       </register>
     </registers>
   </component>
