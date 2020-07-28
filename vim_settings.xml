@@ -112,11 +112,11 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595901487598">
-        <mark key="[" line="276" column="32" />
-        <mark key="]" line="276" column="43" />
-        <mark key="^" line="276" column="43" />
-        <mark key="." line="276" column="42" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595904212756">
+        <mark key="[" line="279" column="52" />
+        <mark key="]" line="279" column="53" />
+        <mark key="^" line="279" column="53" />
+        <mark key="." line="279" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1595845375450">
         <mark key="[" line="109" column="13" />
@@ -124,8 +124,8 @@
         <mark key="^" line="113" column="14" />
         <mark key="." line="113" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595901603740">
-        <mark key="[" line="0" column="23" />
+      <file name="/Dummy.txt" timestamp="1595904329296">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="38" />
@@ -259,7 +259,7 @@
         <text encoding="base64">LCAocmVzdWx0LCBhcmdzKSA9PiB7CiAgICAgICAgICAgIHJldHVybiByZXN1bHRbJ2NoYXB0ZXItc3RlcC1yZXdhcmRzJ10KICAgICAgICB9</text>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>localeResolver('chapterstep-locales')</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGV4cG9ydCBkZWZhdWx0IHsKICAgICAgICBjb21wb25lbnRzOiB7CiAgICAgICAgICAgIFN0YXRpY2RhdGFDaGFwdGVyU3RlcFJld2FyZHNUYWJsZSwKICAgICAgICAgICAgQ2hhcHRlckNhcmQKICAgICAgICB9LAogICAgICAgIGRhdGEoKSB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBtb2RlbDoge30sCiAgICAgICAgICAgICAgICBjaGFwdGVySWQ6IG51bGwsCiAgICAgICAgICAgICAgICBzdWJtaXR0aW5nOiBmYWxzZSwKICAgICAgICAgICAgICAgIGJ1czogbmV3IFZ1ZSgpCiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIG1ldGhvZHM6IHsKICAgICAgICAgICAgZGVib3VuY2VJbnB1dFN0YXI6IF8uZGVib3VuY2UoZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICB0aGlzLnNhdmVTdGVwKCkKICAgICAgICAgICAgfSwgMzAwKSwKICAgICAgICAgICAgc2hvd1N0ZXAoZGF0YSkgewogICAgICAgICAgICAgICAgdGhpcy5jaGFwdGVySWQgPSBkYXRhLmNoYWVySWQKICAgICAgICAgICAgICAgIHRoaXMubW9kZWwgPSBkYXRhLnN0ZXAKICAgICAgICAgICAgfSwKICAgICAgICAgICAgc2F2ZVN0ZXAoKSB7CiAgICAgICAgICAgICAgICB2YXIgc2VsZiA9IHRoaXMKICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0dGluZyA9IHRydWUKICAgICAgICAgICAgICAgIGNvbnN0IG5hbWVzcGFjZSA9ICdzdGF0aWNkYXRhLWNoYXB0ZXItc3RlcHMnCiAgICAgICAgICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaChgJHtuYW1lc3BhY2V9L3JlcGxhY2VgLCB7aWQ6IGAke3RoaXMuY2hhcHRlcklkfS4ke3RoaXMubW9kZWwuZmt9LiR7dGhpcy5tb2RlbC5pZH1gLCBkYXRhOiB7IGNoYXRwZXJJZCwgLi4udGhpcy5tb2RlbH0gfSkudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgICAgICAgICAgICAgc2VsZi5zdWJtaXR0aW5nID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICBzZWxmLnN1Y2Nlc3MoYFVwZGF0ZSBTdGVwYCwgYCR7dGhpcy5jaGFwdGVySWR9LiR7c2VsZi5tb2RlbC5ma30uJHtzZWxmLm1vZGVsLmlkfS5zdGFyID0gPGI+JHtzZWxmLm1vZGVsLnN0YXJ9PC9iPmAsIDEpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWxvYWQobmFtZXNwYWNlLCBzZWxmLiRzdG9yZS5nZXR0ZXJzW2Ake25hbWVzcGFjZX0vdGVtcFBheWxvYWRgXSkKICAgICAgICAgICAgICAgICAgICBzZWxmLnJlbG9hZERlcGVuZGVuY3kobmFtZXNwYWNlLCBudWxsLCB0cnVlKQogICAgICAgICAgICAgICAgfSkuY2F0Y2goZnVuY3Rpb24gKGVycikgewogICAgICAgICAgICAgICAgICAgIHNlbGYuc3VibWl0dGluZyA9IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgc2VsZi5jYXRjaEVycm9yKGVycikKICAgICAgICAgICAgICAgICAgICBzZWxmLmJ1cy4kZW1pdCgncmVmcmVzaCcpCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo8L3NjcmlwdD4K</text>
@@ -286,7 +286,7 @@
         <text encoding="base64">Ly8gICAgImRhdGFkb2ctbGFtYmRhLWpzIjogIl4yLjI1LjAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>localeResolver('chapterstep-locales')</text>
       </register>
     </registers>
   </component>
