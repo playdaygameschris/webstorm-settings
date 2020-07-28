@@ -52,23 +52,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/router.js" timestamp="1595836115978">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595839492068">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-canvas.vue" timestamp="1595920933580">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="69" column="44" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/serverless.yml" timestamp="1595921723211">
+        <mark key="[" line="39" column="66" />
+        <mark key="]" line="39" column="66" />
+        <mark key="^" line="39" column="66" />
+        <mark key="." line="39" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/action-log-list-detail-row.vue" timestamp="1595839330013" />
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595905084962">
-        <mark key="[" line="30" column="107" />
-        <mark key="]" line="30" column="107" />
-        <mark key="^" line="30" column="125" />
-        <mark key="." line="30" column="107" />
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/layouts/staticdata/staticdata-chapters-layout.vue" timestamp="1595921033796">
+        <mark key="[" line="68" column="180" />
+        <mark key="]" line="68" column="180" />
+        <mark key="^" line="68" column="188" />
+        <mark key="." line="68" column="180" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1595836144430" />
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1595907421011">
@@ -76,7 +77,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595838904675">
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595920931312">
         <mark key="[" line="156" column="38" />
         <mark key="]" line="156" column="43" />
         <mark key="^" line="156" column="43" />
@@ -88,7 +89,7 @@
         <mark key="^" line="54" column="16" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1595901352134">
+      <file name="/GraphQL.variables.json" timestamp="1595919067587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" timestamp="1595844506263">
@@ -112,11 +113,11 @@
         <mark key="." line="140" column="70" />
         <mark key="^" line="140" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595904212756">
-        <mark key="[" line="279" column="52" />
-        <mark key="]" line="279" column="53" />
-        <mark key="^" line="279" column="53" />
-        <mark key="." line="279" column="52" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1595920190078">
+        <mark key="[" line="167" column="13" />
+        <mark key="]" line="168" column="12" />
+        <mark key="." line="168" column="11" />
+        <mark key="^" line="168" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-ingredients-table.vue" timestamp="1595905719291">
         <mark key="[" line="85" column="42" />
@@ -124,13 +125,13 @@
         <mark key="^" line="85" column="44" />
         <mark key="." line="85" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595904329296">
+      <file name="/Dummy.txt" timestamp="1595921088581">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1595901352393">
+      <file name="/GraphQL.result.json" timestamp="1595919067885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-furnitures-table.vue" timestamp="1595911873436">
@@ -263,37 +264,37 @@
         <text encoding="base64">CQkJdGhpcy4kc3RvcmUuY2FjaGUuZGlzcGF0Y2goYHN0YXRpY2RhdGEtY2hhcHRlci1zdGVwLXJld2FyZHMvZmV0Y2hMaXN0YCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBmdWxsX2lkID0gYCR7cGFyYW1zLnJvdy5ma31fJHtwYXJhbXMucm93LmlkfV8ke3BhcmFtcy5yb3cuY3BrfWAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXQgc3RlcCA9IHRoaXMuc3RlcF9saXN0LmZpbmQoIHg9PiB4LmlkID09IGZ1bGxfaWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKF8uaXNFbXB0eShzdGVwKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaCgnc3BhbicsJycpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYXR0ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd1bmxvY2tfbHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAndW5sb2NrX2xldmVsXycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY3JlYXRlX2hpZGRlbjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91cGRhdGVfaGlkZGVuOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyOiAoaCwgcGFyYW1zKSA9PiBwYXJhbXMucm93LnVubG9ja19sZXZlbF8gPiAwID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30gLHBhcmFtcy5yb3cudW5sb2NrX2xldmVsXykgOiAgaCgnc3BhbicseyBzdHlsZTp7IGNvbG9yOiAnI0JFQkVCRSd9fSwgJ04vQScpCiAgICAgICAgICAgICAgICAgICAgICAgIH0s</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmV3YXJkcyA9IF8oT2JqZWN0LnZhbHVlcyhyZXN1bHRbJ2NoYXB0ZXItc3RlcC1yZXdhcmRzJ10pKS5mbGF0dGVuKCkua2V5QnkoJ2lkJykubWFwVmFsdWVzKCB4PT4geC5maykudmFsdWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBmdWxsX2lkID0gYCR7cGFyYW1zLnJvdy5ma31fJHtwYXJhbXMucm93LmlkfWAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc3RlcCA9IF8uZ2V0KHJld2FyZHMsIGAke2l0ZW0uZmt9XyR7aXRlbS5pZH1fJHtpdGVtLmNwa31gLCAnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmV3YXJkcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICd1bmxvY2tfbHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAndW5sb2NrX2xldmVsXycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY3JlYXRlX2hpZGRlbjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91cGRhdGVfaGlkZGVuOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyOiAoaCwgcGFyYW1zKSA9PiBwYXJhbXMucm93LnVubG9ja19sZXZlbF8gPiAwID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoKCdzcGFuJywge30gLHBhcmFtcy5yb3cudW5sb2NrX2xldmVsXykgOiAgaCgnc3BhbicseyBzdHlsZTp7IGNvbG9yOiAnI0JFQkVCRSd9fSwgJ04vQScpCiAgICAgICAgICAgICAgICAgICAgICAgIH0s</text>
+        <text>refactor step reward key - +chapter_id</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0ZXBfbGlzdCwgZnVsbF9pZCwgc3RlcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
