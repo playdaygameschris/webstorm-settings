@@ -71,7 +71,12 @@
         <mark key="^" line="68" column="188" />
         <mark key="." line="68" column="180" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/selects/control-version-dropdown.vue" timestamp="1595836144430" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/connectors/redis.js" timestamp="1595922417060">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1595907421011">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -267,7 +272,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -294,7 +299,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
     </registers>
   </component>
