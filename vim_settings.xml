@@ -80,12 +80,6 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="121" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/connectors/redis.js" timestamp="1595923183429">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1596008896703">
         <mark key="[" line="257" column="0" />
         <mark key="]" line="257" column="0" />
@@ -109,6 +103,9 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" timestamp="1596007262817">
         <mark key="'" line="41" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1596008902988">
+        <mark key="'" line="131" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/fin-html/.eslintrc.yml" timestamp="1595942794257">
         <mark key="[" line="1" column="15" />
@@ -149,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="64" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
       <jump line="258" column="27" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolve.js" />
       <jump line="39" column="22" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
       <jump line="35" column="36" filename="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers.js" />
@@ -249,6 +245,7 @@
       <jump line="23" column="13" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-rewards-table.vue" />
       <jump line="73" column="62" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-level-partial-table.vue" />
       <jump line="41" column="29" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata-table.vue" />
+      <jump line="131" column="68" filename="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
