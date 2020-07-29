@@ -254,34 +254,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIF9sYWJlbHM6IFsnaXRlbScsJ2Z1cm5pdHVyZS1za2luJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBfdmFsdWVzOiBbJ3N0YXRpY2RhdGEtaXRlbXMnLCdzZWxlY3QtZnVybml0dXJlLXNraW5zJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>refactor cpk</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>refactor cpk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlpZiAoc2VsZi5wYXJlbnROYW1lc3BhY2UgIT0gbnVsbCl7CgkJCQkJCXNlbGYucmVsb2FkKHNlbGYubmFtZXNwYWNlLCBzZWxmLiRzdG9yZS5nZXR0ZXJzW2Ake3NlbGYubmFtZXNwYWNlfS90ZW1wUGF5bG9hZGBdKQoJCQkJCQlzZWxmLnJlbG9hZERlcGVuZGVuY3koc2VsZi5uYW1lc3BhY2UsIG51bGwsIHRydWUpCgkJCQkJfQ==</text>
+        <text>remove item selection for step reward</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kZW1pdCgncmVmcmVzaCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3BhcmVudE5hbWVzcGFjZScsIHNlbGYucGFyZW50TmFtZXNwYWNlKQo=</text>
+        <text encoding="base64">CQkJCQlpZiAoc2VsZi5wYXJlbnROYW1lc3BhY2UgIT0gbnVsbCl7CgkJCQkJCXNlbGYucmVsb2FkKHNlbGYubmFtZXNwYWNlLCBzZWxmLiRzdG9yZS5nZXR0ZXJzW2Ake3NlbGYubmFtZXNwYWNlfS90ZW1wUGF5bG9hZGBdKQoJCQkJCQlzZWxmLnJlbG9hZERlcGVuZGVuY3koc2VsZi5uYW1lc3BhY2UsIG51bGwsIHRydWUpCgkJCQkJfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kZW1pdCgncmVmcmVzaCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3BhcmVudE5hbWVzcGFjZScsIHNlbGYucGFyZW50TmFtZXNwYWNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kZW1pdCgncmVmcmVzaCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kc3RvcmUuY2FjaGUuZGVsZXRlKHNlbGYubmFtZXNwYWNlKycvZmV0Y2hMaXN0JykK</text>
+        <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG1vZGU=</text>
