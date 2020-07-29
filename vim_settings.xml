@@ -79,6 +79,11 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/sub/staticdata-furniture-skins-table.vue" timestamp="1595994357809">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/chapter-task-node.vue" timestamp="1595920931312">
         <mark key="[" line="156" column="38" />
         <mark key="]" line="156" column="43" />
@@ -259,37 +264,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIF9sYWJlbHM6IFsnaXRlbScsJ2Z1cm5pdHVyZS1za2luJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBfdmFsdWVzOiBbJ3N0YXRpY2RhdGEtaXRlbXMnLCdzZWxlY3QtZnVybml0dXJlLXNraW5zJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdjb2xvcl9pZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk6ICdjcGsnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDg1LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3VwZGF0ZV9kaXNhYmxlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9yZXF1aXJlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'staticdata-items',</text>
+        <text>_</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsICdzdGF0aWNkYXRhLW9iamVjdHMnLCBwYXJhbXMucm93LnByb2R1Y2VfZnJvbSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihwYXJhbXMucm93LnByb2R1Y2VfZnJvbSAhPXVuZGVmaW5lZCl7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA4MCwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVQaWN0dXJlKGgsIHRoaXMsICdzdGF0aWNkYXRhLW9iamVjdHMnLCBwYXJhbXMucm93LnByb2R1Y2VfZnJvbSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihwYXJhbXMucm93LnByb2R1Y2VfZnJvbSAhPXVuZGVmaW5lZCl7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA4MCwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmxhdHRlZCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYXR0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'staticdata-items',</text>
+        <text>_</text>
       </register>
     </registers>
   </component>
