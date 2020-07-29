@@ -58,7 +58,7 @@
         <mark key="^" line="139" column="38" />
         <mark key="." line="139" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596009273285">
+      <file name="/Dummy.txt" timestamp="1596012576427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,11 +107,11 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="121" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" timestamp="1595929507896">
-        <mark key="[" line="324" column="24" />
-        <mark key="]" line="324" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/schema.graphql" timestamp="1596013155054">
+        <mark key="[" line="79" column="36" />
+        <mark key="]" line="79" column="36" />
         <mark key="^" line="324" column="23" />
-        <mark key="." line="324" column="22" />
+        <mark key="." line="79" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1595924850057">
         <mark key="[" line="364" column="21" />
@@ -126,6 +126,11 @@
       </file>
       <file name="/GraphQL.variables.json" timestamp="1596009116217">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1596012563015">
+        <mark key="[" line="173" column="50" />
+        <mark key="]" line="173" column="50" />
+        <mark key="." line="173" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/create-dialog.vue" timestamp="1596008896703">
         <mark key="[" line="257" column="0" />
@@ -256,8 +261,8 @@
       <register name="1" type="2">
         <text>refactor cpk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>refactor cpk</text>
+      <register name="&quot;" type="4">
+        <text>eeee</text>
       </register>
       <register name="2" type="2">
         <text>remove item selection for step reward</text>
@@ -284,7 +289,7 @@
         <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1vZGU=</text>
+        <text>eeee</text>
       </register>
     </registers>
   </component>
