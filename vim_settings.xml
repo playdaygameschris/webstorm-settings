@@ -52,12 +52,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-items-table.vue" timestamp="1595924386791">
-        <mark key="[" line="139" column="35" />
-        <mark key="]" line="139" column="38" />
-        <mark key="^" line="139" column="38" />
-        <mark key="." line="139" column="37" />
-      </file>
       <file name="/Dummy.txt" timestamp="1596012576427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -77,6 +71,12 @@
       <file name="/GraphQL.result.json" timestamp="1596077873421">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/src/App.vue" timestamp="1596084130372">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/fin-html/package.json" timestamp="1595943153344">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="19" />
@@ -95,12 +95,6 @@
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/update-dialog.vue" timestamp="1596008902988">
         <mark key="'" line="131" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/fin-html/.eslintrc.yml" timestamp="1595942794257">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/dialogs/delete-dialog.vue" timestamp="1596008779221">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -113,18 +107,12 @@
         <mark key="^" line="324" column="23" />
         <mark key="." line="79" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/app.vue" timestamp="1595924850057">
-        <mark key="[" line="364" column="21" />
-        <mark key="]" line="364" column="22" />
-        <mark key="^" line="364" column="22" />
-        <mark key="." line="364" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/view/furniture-card.vue" timestamp="1596007680638">
         <mark key="[" line="52" column="67" />
         <mark key="]" line="52" column="67" />
         <mark key="." line="52" column="67" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1596073524533">
+      <file name="/GraphQL.variables.json" timestamp="1596083988370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/fin-amplify/amplify/backend/api/finamplify/schema.graphql" timestamp="1596081499034">
@@ -145,16 +133,16 @@
         <mark key="^" line="258" column="41" />
         <mark key="." line="257" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/views/tables/staticdata/staticdata-chapter-step-rewards-table.vue" timestamp="1595929830987">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="38" />
-        <mark key="^" line="101" column="44" />
-        <mark key="." line="53" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/home-panel-html/src/main.js" timestamp="1596008889113">
         <mark key="[" line="594" column="37" />
         <mark key="]" line="594" column="37" />
         <mark key="." line="594" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/src/main.js" timestamp="1596083893100">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="30" />
       </file>
     </filemarks>
     <jumps>
