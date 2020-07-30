@@ -74,7 +74,7 @@
         <mark key="]" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1596009117587">
+      <file name="/GraphQL.result.json" timestamp="1596073511934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/fin-html/package.json" timestamp="1595943153344">
@@ -124,8 +124,14 @@
         <mark key="]" line="52" column="67" />
         <mark key="." line="52" column="67" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1596009116217">
+      <file name="/GraphQL.variables.json" timestamp="1596073524533">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/amplify/backend/api/finamplify/schema.graphql" timestamp="1596074571024">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/home-graphql/src/lib/resolvers/setting.js" timestamp="1596012563015">
         <mark key="[" line="173" column="50" />
@@ -260,37 +266,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIF9sYWJlbHM6IFsnaXRlbScsJ2Z1cm5pdHVyZS1za2luJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBfdmFsdWVzOiBbJ3N0YXRpY2RhdGEtaXRlbXMnLCdzZWxlY3QtZnVybml0dXJlLXNraW5zJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text>refactor cpk</text>
+        <text encoding="base64">CnR5cGUgQ29tbWVudCBAbW9kZWwgQGtleShuYW1lOiAiYnlQb3N0IiwgZmllbGRzOiBbInBvc3RJRCIsICJjb250ZW50Il0pIHsKICBpZDogSUQhCiAgcG9zdElEOiBJRCEKICBwb3N0OiBQb3N0IEBjb25uZWN0aW9uKGZpZWxkczogWyJwb3N0SUQiXSkKICBjb250ZW50OiBTdHJpbmchCn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>eeee</text>
+        <text>Blog</text>
       </register>
       <register name="2" type="2">
-        <text>remove item selection for step reward</text>
+        <text encoding="base64">ICBjb21tZW50czogW0NvbW1lbnRdIEBjb25uZWN0aW9uKGtleU5hbWU6ICJieVBvc3QiLCBmaWVsZHM6IFsiaWQiXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aXRsZTogU3RyaW5nIQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlpZiAoc2VsZi5wYXJlbnROYW1lc3BhY2UgIT0gbnVsbCl7CgkJCQkJCXNlbGYucmVsb2FkKHNlbGYubmFtZXNwYWNlLCBzZWxmLiRzdG9yZS5nZXR0ZXJzW2Ake3NlbGYubmFtZXNwYWNlfS90ZW1wUGF5bG9hZGBdKQoJCQkJCQlzZWxmLnJlbG9hZERlcGVuZGVuY3koc2VsZi5uYW1lc3BhY2UsIG51bGwsIHRydWUpCgkJCQkJfQ==</text>
+        <text encoding="base64">ICBpZDogSUQhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kZW1pdCgncmVmcmVzaCcpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3BhcmVudE5hbWVzcGFjZScsIHNlbGYucGFyZW50TmFtZXNwYWNlKQo=</text>
+        <text encoding="base64">ICB0aW1lc3RhbXA6IEludAogIGNyZWF0ZWQ6IEludAogIHVwZGF0ZWQ6IEludAogIGRlYml0OiBGbG9hdAogIGNyZWRpdDogRmxvYXQKICBkZXNjcmlwdGlvbjogU3RyaW5n</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi4kZW1pdCgncmVmcmVzaCcpCg==</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
+        <text encoding="base64">ICBuYW1lOiBTdHJpbmchCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlzZWxmLiRlbWl0KCdyZWZyZXNoJykK</text>
+        <text>refactor cpk</text>
       </register>
       <register name="-" type="4">
-        <text>eeee</text>
+        <text>Blog</text>
       </register>
     </registers>
   </component>
