@@ -52,26 +52,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/.eslintrc.js" timestamp="1596148616051" />
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/tsconfig.json" timestamp="1596149696933">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/public/index.html" timestamp="1596119751241">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/src/main.ts" timestamp="1596149909022">
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/src/main.ts" timestamp="1596149942920">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="10" />
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1596097621424">
+      <file name="/GraphQL.result.json" timestamp="1596149969961">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1596149968639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/fin-amplify/src/App.vue" timestamp="1596119864690">
@@ -80,15 +70,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/package-lock.json" timestamp="1596117436276">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/package.json" timestamp="1596119007110" />
-      <file name="/GraphQL.variables.json" timestamp="1596097621101">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/tsconfig.json" timestamp="1596149998597">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/fin-amplify/amplify/backend/api/finamplify/schema.graphql" timestamp="1596113127291">
         <mark key="[" line="30" column="1" />
@@ -96,7 +82,18 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/fin-amplify/quasar.conf.js" timestamp="1596149246177" />
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/package-lock.json" timestamp="1596117436276">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/fin-amplify/public/index.html" timestamp="1596119751241">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/fin-amplify/src/main.js" timestamp="1596149504989">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="12" />
