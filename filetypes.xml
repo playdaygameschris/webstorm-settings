@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".rookout" type="PLAIN_TEXT" />
       <mapping pattern="TableFIlters.js" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
